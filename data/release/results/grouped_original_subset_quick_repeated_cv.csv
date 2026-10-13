@@ -1,0 +1,4 @@
+﻿feature_set,model,folds,f1_mean,f1_std,auroc_mean,auroc_std
+audio_only,Logistic Regression,25,0.9668,0.02,0.9866,0.0186
+fused,XGBoost,25,0.9672,0.0197,0.994,0.0055
+lyrics_combined,Logistic Regression,25,0.9124,0.0287,0.97,0.017

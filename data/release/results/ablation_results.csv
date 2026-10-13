@@ -1,0 +1,51 @@
+﻿feature_set,model,split,n_features_input,n_samples,training_minutes,accuracy,precision,recall,f1_macro,auroc
+audio_only,Logistic Regression,validation,78,358,0.0035,0.9777,0.9783,0.9776,0.9776,0.9943
+audio_only,Logistic Regression,test,78,359,0.0035,0.9638,0.9663,0.9637,0.9637,0.9809
+audio_only,SVM (RBF),validation,78,358,0.018,0.9777,0.9783,0.9776,0.9776,0.9962
+audio_only,SVM (RBF),test,78,359,0.018,0.9694,0.9701,0.9693,0.9693,0.9928
+audio_only,Random Forest,validation,78,358,0.1964,0.9553,0.9553,0.9553,0.9553,0.9911
+audio_only,Random Forest,test,78,359,0.1964,0.9554,0.9557,0.9554,0.9554,0.9875
+audio_only,XGBoost,validation,78,358,0.2934,0.9693,0.9694,0.9692,0.9693,0.9929
+audio_only,XGBoost,test,78,359,0.2934,0.9638,0.9645,0.9637,0.9638,0.9872
+audio_only,MLP,validation,78,358,0.1245,0.9749,0.9753,0.9748,0.9749,0.9875
+audio_only,MLP,test,78,359,0.1245,0.9499,0.9501,0.9498,0.9499,0.9843
+lyrics_handcrafted,Logistic Regression,validation,15,358,0.0018,0.7402,0.7404,0.7401,0.7401,0.8006
+lyrics_handcrafted,Logistic Regression,test,15,359,0.0018,0.6685,0.6686,0.6685,0.6684,0.721
+lyrics_handcrafted,SVM (RBF),validation,15,358,0.0189,0.7905,0.7963,0.7901,0.7893,0.8843
+lyrics_handcrafted,SVM (RBF),test,15,359,0.0189,0.7772,0.7831,0.777,0.7759,0.8556
+lyrics_handcrafted,Random Forest,validation,15,358,0.1449,0.8045,0.8064,0.8042,0.8041,0.8866
+lyrics_handcrafted,Random Forest,test,15,359,0.1449,0.7967,0.7969,0.7966,0.7966,0.8723
+lyrics_handcrafted,XGBoost,validation,15,358,0.0428,0.8101,0.8115,0.8099,0.8098,0.9092
+lyrics_handcrafted,XGBoost,test,15,359,0.0428,0.8106,0.8106,0.8106,0.8106,0.8805
+lyrics_handcrafted,MLP,validation,15,358,0.1157,0.7989,0.8003,0.7987,0.7986,0.8925
+lyrics_handcrafted,MLP,test,15,359,0.1157,0.7855,0.7857,0.7855,0.7855,0.8732
+lyrics_embeddings,Logistic Regression,validation,384,358,0.0154,0.9274,0.9294,0.9272,0.9273,0.9691
+lyrics_embeddings,Logistic Regression,test,384,359,0.0154,0.8969,0.8973,0.8969,0.8969,0.9613
+lyrics_embeddings,SVM (RBF),validation,384,358,0.1598,0.9358,0.9362,0.9357,0.9357,0.9779
+lyrics_embeddings,SVM (RBF),test,384,359,0.1598,0.9192,0.9198,0.9193,0.9192,0.9706
+lyrics_embeddings,Random Forest,validation,384,358,0.4725,0.9106,0.9114,0.9107,0.9106,0.9654
+lyrics_embeddings,Random Forest,test,384,359,0.4725,0.9025,0.904,0.9026,0.9024,0.9619
+lyrics_embeddings,XGBoost,validation,384,358,1.9278,0.9162,0.9163,0.9162,0.9162,0.9699
+lyrics_embeddings,XGBoost,test,384,359,1.9278,0.9081,0.9087,0.9081,0.9081,0.9711
+lyrics_embeddings,MLP,validation,384,358,0.0851,0.9218,0.9219,0.9218,0.9218,0.9813
+lyrics_embeddings,MLP,test,384,359,0.0851,0.9109,0.9109,0.9109,0.9109,0.9723
+lyrics_combined,Logistic Regression,validation,399,358,0.0171,0.9274,0.9288,0.9272,0.9273,0.979
+lyrics_combined,Logistic Regression,test,399,359,0.0171,0.9025,0.9026,0.9025,0.9025,0.9624
+lyrics_combined,SVM (RBF),validation,399,358,0.1675,0.9441,0.9442,0.9442,0.9441,0.9793
+lyrics_combined,SVM (RBF),test,399,359,0.1675,0.922,0.9233,0.9221,0.922,0.971
+lyrics_combined,Random Forest,validation,399,358,0.2669,0.9134,0.9135,0.9135,0.9134,0.9641
+lyrics_combined,Random Forest,test,399,359,0.2669,0.9136,0.9165,0.9138,0.9135,0.9636
+lyrics_combined,XGBoost,validation,399,358,1.6771,0.9162,0.9164,0.9161,0.9162,0.9722
+lyrics_combined,XGBoost,test,399,359,1.6771,0.9109,0.9116,0.9109,0.9108,0.9751
+lyrics_combined,MLP,validation,399,358,0.1511,0.9218,0.922,0.9217,0.9218,0.9813
+lyrics_combined,MLP,test,399,359,0.1511,0.9109,0.9109,0.9109,0.9109,0.9741
+fused,Logistic Regression,validation,477,358,0.0155,0.9777,0.9783,0.9776,0.9776,0.9949
+fused,Logistic Regression,test,477,359,0.0155,0.9749,0.975,0.9749,0.9749,0.9956
+fused,SVM (RBF),validation,477,358,0.1875,0.9888,0.9889,0.9888,0.9888,0.9988
+fused,SVM (RBF),test,477,359,0.1875,0.9749,0.9749,0.9749,0.9749,0.997
+fused,Random Forest,validation,477,358,0.3038,0.9693,0.9693,0.9693,0.9693,0.9957
+fused,Random Forest,test,477,359,0.3038,0.9666,0.9671,0.9666,0.9666,0.9948
+fused,XGBoost,validation,477,358,1.7096,0.9832,0.9835,0.9832,0.9832,0.9956
+fused,XGBoost,test,477,359,1.7096,0.9554,0.956,0.9554,0.9554,0.9928
+fused,MLP,validation,477,358,0.1667,0.9553,0.9563,0.9552,0.9553,0.9916
+fused,MLP,test,477,359,0.1667,0.9638,0.9639,0.9638,0.9638,0.9935

@@ -1,0 +1,1792 @@
+﻿song_id,source,language,final_genre,artist,primary_artist,group_id,link_reasons
+HUMAN_EN_POP_001,Human,English,Pop,*NSYNC,*nsync,G1093,singleton
+HUMAN_EN_POP_002,Human,English,Pop,5 Seconds of Summer,5 seconds of summer,G1094,singleton
+HUMAN_EN_POP_003,Human,English,Pop,ABBA,abba,G1095,same_artist
+HUMAN_EN_POP_004,Human,English,Pop,Alan Walker,alan walker,G1096,singleton
+HUMAN_EN_POP_005,Human,English,Pop,Alec Benjamin,alec benjamin,G1097,singleton
+HUMAN_EN_POP_006,Human,English,Pop,Aqua,aqua,G1098,singleton
+HUMAN_EN_POP_007,Human,English,R&B/Soul,Ariana Grande & The Weeknd,ariana grande,G1099,singleton
+HUMAN_EN_POP_008,Human,English,Pop,Avicii,avicii,G1100,singleton
+HUMAN_EN_POP_009,Human,English,Pop,Boney M.,boney m,G1101,singleton
+HUMAN_EN_POP_010,Human,English,Pop,Britney Spears,britney spears,G1102,singleton
+HUMAN_EN_POP_011,Human,English,Pop,Bruno Mars,bruno mars,G1103,singleton
+HUMAN_EN_POP_013,Human,English,Pop,Carly Rae Jepsen,carly rae jepsen,G1104,singleton
+HUMAN_EN_POP_014,Human,English,Pop,Chappell Roan,chappell roan,G1105,singleton
+HUMAN_EN_POP_015,Human,English,Pop,Crystal Castles,crystal castles,G1106,singleton
+HUMAN_EN_POP_016,Human,English,Pop,CUCO,cuco,G1107,singleton
+HUMAN_EN_POP_017,Human,English,Pop,Daft Punk,daft punk,G1108,singleton
+HUMAN_EN_POP_018,Human,English,Pop,Depeche Mode,depeche mode,G1109,singleton
+HUMAN_EN_POP_019,Human,English,Pop,Dido,dido,G1110,singleton
+HUMAN_EN_POP_020,Human,English,Pop,Dove Cameron,dove cameron,G1111,singleton
+HUMAN_EN_POP_021,Human,English,Pop,Dua Lipa,dua lipa,G1112,same_artist
+HUMAN_EN_POP_022,Human,English,Pop,Duncan Laurence,duncan laurence,G1113,singleton
+HUMAN_EN_POP_023,Human,English,Pop,Ed Sheeran,ed sheeran,G1114,same_artist
+HUMAN_EN_POP_024,Human,English,Pop,Flo Rida,flo rida,G1115,same_artist
+HUMAN_EN_POP_025,Human,English,R&B/Soul,Frank Ocean,frank ocean,G1116,singleton
+HUMAN_EN_POP_026,Human,English,Pop,Gwen Stefani,gwen stefani,G1117,singleton
+HUMAN_EN_POP_027,Human,English,Pop,Halsey,halsey,G1118,singleton
+HUMAN_EN_POP_028,Human,English,Pop,Harry Styles,harry styles,G1119,singleton
+HUMAN_EN_POP_029,Human,English,Pop,Hayley Kiyoko,hayley kiyoko,G1120,singleton
+HUMAN_EN_POP_030,Human,English,Pop,IAMX,iamx,G1121,near_duplicate_embedding;near_duplicate_lyrics
+HUMAN_EN_POP_031,Human,English,Pop,Iyaz,iyaz,G1122,near_duplicate_lyrics
+HUMAN_EN_POP_032,Human,English,Pop,Jonas Brothers,jonas brothers,G1123,singleton
+HUMAN_EN_POP_033,Human,English,Pop,Jungle,jungle,G1124,singleton
+HUMAN_EN_POP_034,Human,English,Pop,Justin Bieber,justin bieber,G1125,singleton
+HUMAN_EN_POP_035,Human,English,Pop,Katy Perry,katy perry,G1126,same_artist
+HUMAN_EN_POP_036,Human,English,Pop,Kylie Minogue,kylie minogue,G1127,singleton
+HUMAN_EN_POP_037,Human,English,Pop,Lady Gaga,lady gaga,G1128,singleton
+HUMAN_EN_POP_038,Human,English,Pop,Little Mix,little mix,G1129,singleton
+HUMAN_EN_POP_039,Human,English,Pop,M83,m83,G1121,near_duplicate_embedding;near_duplicate_lyrics
+HUMAN_EN_POP_040,Human,English,Pop,Madonna,madonna,G1130,singleton
+HUMAN_EN_POP_041,Human,English,Pop,Magdalena Bay,magdalena bay,G1131,singleton
+HUMAN_EN_POP_042,Human,English,Pop,Meghan Trainor,meghan trainor,G1132,singleton
+HUMAN_EN_POP_043,Human,English,Pop,Michael Jackson,michael jackson,G1121,near_duplicate_embedding;near_duplicate_lyrics
+HUMAN_EN_POP_044,Human,English,Pop,Miley Cyrus,miley cyrus,G1133,singleton
+HUMAN_EN_POP_045,Human,English,Pop,Natasha Bedingfield,natasha bedingfield,G1134,singleton
+HUMAN_EN_POP_046,Human,English,Pop,Nico & Vinz,nico,G1135,singleton
+HUMAN_EN_POP_048,Human,English,Pop,P!nk,p!nk,G1136,singleton
+HUMAN_EN_POP_049,Human,English,Pop,Phoenix,phoenix,G1137,singleton
+HUMAN_EN_POP_050,Human,English,Pop,Shawn Mendes,shawn mendes,G1138,singleton
+HUMAN_EN_POP_051,Human,English,Pop,Taylor Swift,taylor swift,G1139,same_artist
+HUMAN_EN_POP_052,Human,English,Pop,Tears for Fears,tears for fears,G1140,singleton
+HUMAN_EN_POP_053,Human,English,Pop,The Veronicas,the veronicas,G1121,near_duplicate_embedding;near_duplicate_lyrics
+HUMAN_EN_POP_054,Human,English,Pop,TV Girl,tv girl,G1141,singleton
+HUMAN_EN_POP_055,Human,English,Pop,Zara Larsson,zara larsson,G1142,singleton
+HUMAN_EN_POP_056,Human,English,Pop,Zendaya,zendaya,G1122,near_duplicate_lyrics
+HUMAN_EN_POP_057,Human,English,Pop,ABBA,abba,G1095,same_artist
+HUMAN_EN_POP_059,Human,English,Pop,Dua Lipa,dua lipa,G1112,same_artist
+HUMAN_EN_POP_060,Human,English,Pop,Ed Sheeran,ed sheeran,G1114,same_artist
+HUMAN_EN_ROCK_001,Human,English,Rock,A Perfect Circle,a perfect circle,G1192,singleton
+HUMAN_EN_ROCK_002,Human,English,Rock,AC/DC,ac,G1193,singleton
+HUMAN_EN_ROCK_003,Human,English,Rock,Aerosmith,aerosmith,G1194,singleton
+HUMAN_EN_ROCK_004,Human,English,Rock,Audioslave,audioslave,G1121,near_duplicate_embedding;near_duplicate_lyrics;same_artist
+HUMAN_EN_ROCK_005,Human,English,Rock,Avenged Sevenfold,avenged sevenfold,G1121,near_duplicate_embedding;near_duplicate_lyrics;same_artist
+HUMAN_EN_ROCK_006,Human,English,Rock,Bring Me The Horizon,bring me the horizon,G1195,singleton
+HUMAN_EN_ROCK_007,Human,English,Rock,Chumbawamba,chumbawamba,G1196,singleton
+HUMAN_EN_ROCK_008,Human,English,Rock,Creed,creed,G1197,same_artist
+HUMAN_EN_ROCK_009,Human,English,Rock,Creedence Clearwater Revival,creedence clearwater revival,G1198,singleton
+HUMAN_EN_ROCK_010,Human,English,Rock,Deftones,deftones,G1199,same_artist
+HUMAN_EN_ROCK_011,Human,English,Rock,Electric Light Orchestra,electric light orchestra,G1200,singleton
+HUMAN_EN_ROCK_012,Human,English,Rock,Evanescence,evanescence,G1201,singleton
+HUMAN_EN_ROCK_013,Human,English,Rock,Foo Fighters,foo fighters,G1202,singleton
+HUMAN_EN_ROCK_014,Human,English,Rock,Gojira,gojira,G1203,singleton
+HUMAN_EN_ROCK_015,Human,English,Rock,Jefferson Airplane,jefferson airplane,G1204,singleton
+HUMAN_EN_ROCK_016,Human,English,Rock,Korn,korn,G1205,singleton
+HUMAN_EN_ROCK_017,Human,English,Rock,Kurt Cobain,kurt cobain,G1206,singleton
+HUMAN_EN_ROCK_018,Human,English,Rock,Lenny Kravitz,lenny kravitz,G1207,singleton
+HUMAN_EN_ROCK_019,Human,English,Rock,Limp Bizkit,limp bizkit,G1208,same_artist
+HUMAN_EN_ROCK_020,Human,English,Rock,Linkin Park,linkin park,G1121,same_artist
+HUMAN_EN_ROCK_021,Human,English,Rock,Lou Reed,lou reed,G1209,singleton
+HUMAN_EN_ROCK_022,Human,English,Rock,Men at Work,men at work,G1210,singleton
+HUMAN_EN_ROCK_023,Human,English,Rock,Meredith Brooks,meredith brooks,G1211,singleton
+HUMAN_EN_ROCK_024,Human,English,Rock,Nirvana,nirvana,G1212,singleton
+HUMAN_EN_ROCK_025,Human,English,Rock,Panic! at the Disco,panic! at the disco,G1213,singleton
+HUMAN_EN_ROCK_026,Human,English,Rock,Queen,queen,G1214,singleton
+HUMAN_EN_ROCK_027,Human,English,Rock,Seether,seether,G1215,singleton
+HUMAN_EN_ROCK_028,Human,English,Rock,Skillet,skillet,G1216,singleton
+HUMAN_EN_ROCK_029,Human,English,Rock,Sleeping With Sirens,sleeping,G1217,singleton
+HUMAN_EN_ROCK_030,Human,English,Rock,Slipknot,slipknot,G1218,same_artist
+HUMAN_EN_ROCK_031,Human,English,Rock,Spiritbox,spiritbox,G1219,singleton
+HUMAN_EN_ROCK_032,Human,English,Rock,Staind,staind,G1220,singleton
+HUMAN_EN_ROCK_033,Human,English,Rock,Starship,starship,G1221,singleton
+HUMAN_EN_ROCK_034,Human,English,Rock,Stone Sour,stone sour,G1222,singleton
+HUMAN_EN_ROCK_035,Human,English,Rock,System of a Down,system of a down,G1223,singleton
+HUMAN_EN_ROCK_036,Human,English,Rock,The Alan Parsons Project,the alan parsons project,G1224,singleton
+HUMAN_EN_ROCK_037,Human,English,Rock,The Backseat Lovers,the backseat lovers,G1225,singleton
+HUMAN_EN_ROCK_038,Human,English,Rock,The Kinks,the kinks,G1226,singleton
+HUMAN_EN_ROCK_039,Human,English,Rock,The Police,the police,G1227,singleton
+HUMAN_EN_ROCK_040,Human,English,Rock,The Red Jumpsuit Apparatus,the red jumpsuit apparatus,G1228,singleton
+HUMAN_EN_ROCK_041,Human,English,Rock,The Stranglers,the stranglers,G1229,singleton
+HUMAN_EN_ROCK_042,Human,English,Rock,The Velvet Underground,the velvet underground,G1230,singleton
+HUMAN_EN_ROCK_043,Human,English,Rock,The White Stripes,the white stripes,G1231,singleton
+HUMAN_EN_ROCK_044,Human,English,Rock,Thousand Foot Krutch,thousand foot krutch,G1232,singleton
+HUMAN_EN_ROCK_045,Human,English,Rock,Three Days Grace,three days grace,G1233,singleton
+HUMAN_EN_ROCK_046,Human,English,Rock,Tom Petty,tom petty,G1234,singleton
+HUMAN_EN_ROCK_047,Human,English,Rock,Tool,tool,G1121,near_duplicate_embedding;near_duplicate_lyrics
+HUMAN_EN_ROCK_048,Human,English,Rock,Toto,toto,G1235,singleton
+HUMAN_EN_ROCK_049,Human,English,Rock,U2,u2,G1236,singleton
+HUMAN_EN_ROCK_050,Human,English,Rock,Van Morrison,van morrison,G1237,singleton
+HUMAN_EN_ROCK_051,Human,English,Rock,Weezer,weezer,G1238,singleton
+HUMAN_EN_ROCK_052,Human,English,Rock,Wheatus,wheatus,G1239,singleton
+HUMAN_EN_ROCK_053,Human,English,Rock,Yeah Yeah Yeahs,yeah yeah yeahs,G1240,singleton
+HUMAN_EN_ROCK_054,Human,English,Rock,Audioslave,audioslave,G1121,same_artist
+HUMAN_EN_ROCK_055,Human,English,Rock,Avenged Sevenfold,avenged sevenfold,G1121,same_artist
+HUMAN_EN_ROCK_056,Human,English,Rock,Creed,creed,G1197,same_artist
+HUMAN_EN_ROCK_057,Human,English,Rock,Deftones,deftones,G1199,same_artist
+HUMAN_EN_ROCK_058,Human,English,Rock,Limp Bizkit,limp bizkit,G1208,same_artist
+HUMAN_EN_ROCK_059,Human,English,Rock,Linkin Park,linkin park,G1121,near_duplicate_embedding;near_duplicate_lyrics;same_artist
+HUMAN_EN_ROCK_060,Human,English,Rock,Slipknot,slipknot,G1218,same_artist
+HUMAN_EN_HIP_HOP_RAP_001,Human,English,Hip-Hop/Rap,21 Savage,21 savage,G1042,singleton
+HUMAN_EN_HIP_HOP_RAP_002,Human,English,Hip-Hop/Rap,24kGoldn,24kgoldn,G1043,singleton
+HUMAN_EN_HIP_HOP_RAP_003,Human,English,Hip-Hop/Rap,80purppp,80purppp,G1044,singleton
+HUMAN_EN_HIP_HOP_RAP_004,Human,English,Hip-Hop/Rap,A Boogie wit da Hoodie,a boogie wit da hoodie,G1045,same_artist
+HUMAN_EN_HIP_HOP_RAP_005,Human,English,Hip-Hop/Rap,A Tribe Called Quest,a tribe called quest,G1046,singleton
+HUMAN_EN_HIP_HOP_RAP_006,Human,English,Hip-Hop/Rap,Arizona Zervas,arizona zervas,G1047,singleton
+HUMAN_EN_HIP_HOP_RAP_007,Human,English,Hip-Hop/Rap,Azealia Banks,azealia banks,G1048,singleton
+HUMAN_EN_HIP_HOP_RAP_008,Human,English,Hip-Hop/Rap,Black Eyed Peas,black eyed peas,G1049,singleton
+HUMAN_EN_HIP_HOP_RAP_009,Human,English,Hip-Hop/Rap,BROCKHAMPTON,brockhampton,G1050,singleton
+HUMAN_EN_HIP_HOP_RAP_010,Human,English,Hip-Hop/Rap,Cardi B,cardi b,G1051,singleton
+HUMAN_EN_HIP_HOP_RAP_011,Human,English,Hip-Hop/Rap,Chief Keef,chief keef,G1052,singleton
+HUMAN_EN_HIP_HOP_RAP_012,Human,English,Hip-Hop/Rap,Childish Gambino,childish gambino,G1053,same_artist
+HUMAN_EN_HIP_HOP_RAP_013,Human,English,Hip-Hop/Rap,Cypress Hill,cypress hill,G1054,singleton
+HUMAN_EN_HIP_HOP_RAP_014,Human,English,Hip-Hop/Rap,DaBaby,dababy,G1055,singleton
+HUMAN_EN_HIP_HOP_RAP_015,Human,English,Hip-Hop/Rap,Drake,drake,G1056,same_artist
+HUMAN_EN_HIP_HOP_RAP_016,Human,English,Hip-Hop/Rap,Eminem,eminem,G1057,same_artist
+HUMAN_EN_HIP_HOP_RAP_017,Human,English,Hip-Hop/Rap,Famous Dex,famous dex,G1058,singleton
+HUMAN_EN_HIP_HOP_RAP_018,Human,English,Hip-Hop/Rap,Fetty Wap,fetty wap,G1059,singleton
+HUMAN_EN_HIP_HOP_RAP_019,Human,English,Hip-Hop/Rap,Flipp Dinero,flipp dinero,G1060,singleton
+HUMAN_EN_HIP_HOP_RAP_020,Human,English,Hip-Hop/Rap,Flo Milli,flo milli,G1061,singleton
+HUMAN_EN_HIP_HOP_RAP_021,Human,English,Hip-Hop/Rap,Flo Rida,flo rida,G1115,same_artist
+HUMAN_EN_HIP_HOP_RAP_022,Human,English,Hip-Hop/Rap,Future,future,G1062,singleton
+HUMAN_EN_HIP_HOP_RAP_023,Human,English,Hip-Hop/Rap,Gunna,gunna,G1063,same_artist
+HUMAN_EN_HIP_HOP_RAP_024,Human,English,Hip-Hop/Rap,J. Cole,j. cole,G1064,same_artist
+HUMAN_EN_HIP_HOP_RAP_025,Human,English,Hip-Hop/Rap,Jack Harlow,jack harlow,G1065,same_artist
+HUMAN_EN_HIP_HOP_RAP_026,Human,English,Hip-Hop/Rap,Juice WRLD,juice wrld,G1066,same_artist
+HUMAN_EN_HIP_HOP_RAP_027,Human,English,Hip-Hop/Rap,Kanye West,kanye west,G1067,same_artist
+HUMAN_EN_HIP_HOP_RAP_028,Human,English,Hip-Hop/Rap,Kendrick Lamar,kendrick lamar,G1068,singleton
+HUMAN_EN_HIP_HOP_RAP_029,Human,English,Hip-Hop/Rap,Kid Cudi,kid cudi,G1069,singleton
+HUMAN_EN_HIP_HOP_RAP_030,Human,English,Hip-Hop/Rap,KIDS SEE GHOSTS,kids see ghosts,G1070,singleton
+HUMAN_EN_HIP_HOP_RAP_031,Human,English,Hip-Hop/Rap,Kodak Black,kodak black,G1071,singleton
+HUMAN_EN_HIP_HOP_RAP_032,Human,English,Hip-Hop/Rap,Lil Mosey,lil mosey,G1072,singleton
+HUMAN_EN_HIP_HOP_RAP_033,Human,English,Hip-Hop/Rap,Lil Uzi Vert,lil uzi vert,G1073,singleton
+HUMAN_EN_HIP_HOP_RAP_034,Human,English,Hip-Hop/Rap,Lil Wayne,lil wayne,G1074,singleton
+HUMAN_EN_HIP_HOP_RAP_035,Human,English,Hip-Hop/Rap,Lupe Fiasco,lupe fiasco,G1075,singleton
+HUMAN_EN_HIP_HOP_RAP_036,Human,English,Hip-Hop/Rap,Mac Miller,mac miller,G1076,singleton
+HUMAN_EN_HIP_HOP_RAP_037,Human,English,Hip-Hop/Rap,Megan Thee Stallion,megan thee stallion,G1077,singleton
+HUMAN_EN_HIP_HOP_RAP_038,Human,English,Hip-Hop/Rap,NAV,nav,G1078,singleton
+HUMAN_EN_HIP_HOP_RAP_039,Human,English,Hip-Hop/Rap,NF,nf,G1079,singleton
+HUMAN_EN_HIP_HOP_RAP_040,Human,English,Hip-Hop/Rap,Nicki Minaj,nicki minaj,G1080,singleton
+HUMAN_EN_HIP_HOP_RAP_041,Human,English,Hip-Hop/Rap,NLE Choppa,nle choppa,G1081,singleton
+HUMAN_EN_HIP_HOP_RAP_042,Human,English,Hip-Hop/Rap,Petey Pablo,petey pablo,G1082,singleton
+HUMAN_EN_HIP_HOP_RAP_043,Human,English,Hip-Hop/Rap,Pitbull,pitbull,G1083,singleton
+HUMAN_EN_HIP_HOP_RAP_044,Human,English,Hip-Hop/Rap,Polo G,polo g,G1084,singleton
+HUMAN_EN_HIP_HOP_RAP_045,Human,English,Hip-Hop/Rap,Post Malone,post malone,G1085,singleton
+HUMAN_EN_HIP_HOP_RAP_046,Human,English,Hip-Hop/Rap,Ski Mask the Slump God,ski mask the slump god,G1086,singleton
+HUMAN_EN_HIP_HOP_RAP_047,Human,English,Hip-Hop/Rap,Snoop Dogg,snoop dogg,G1087,singleton
+HUMAN_EN_HIP_HOP_RAP_048,Human,English,Hip-Hop/Rap,T.I.,t.i,G1088,singleton
+HUMAN_EN_HIP_HOP_RAP_049,Human,English,Hip-Hop/Rap,Tay-K,tay-k,G1089,singleton
+HUMAN_EN_HIP_HOP_RAP_050,Human,English,Hip-Hop/Rap,Travis Scott,travis scott,G1090,singleton
+HUMAN_EN_HIP_HOP_RAP_051,Human,English,Hip-Hop/Rap,YoungBoy Never Broke Again,youngboy never broke again,G1091,singleton
+HUMAN_EN_HIP_HOP_RAP_052,Human,English,Hip-Hop/Rap,Yung Lean,yung lean,G1092,singleton
+HUMAN_EN_HIP_HOP_RAP_053,Human,English,Hip-Hop/Rap,Childish Gambino,childish gambino,G1053,same_artist
+HUMAN_EN_HIP_HOP_RAP_054,Human,English,Hip-Hop/Rap,Drake,drake,G1056,same_artist
+HUMAN_EN_HIP_HOP_RAP_055,Human,English,Hip-Hop/Rap,Eminem,eminem,G1057,same_artist
+HUMAN_EN_HIP_HOP_RAP_056,Human,English,Hip-Hop/Rap,Gunna,gunna,G1063,same_artist
+HUMAN_EN_HIP_HOP_RAP_057,Human,English,Hip-Hop/Rap,J. Cole,j. cole,G1064,same_artist
+HUMAN_EN_HIP_HOP_RAP_058,Human,English,Hip-Hop/Rap,Jack Harlow,jack harlow,G1065,same_artist
+HUMAN_EN_HIP_HOP_RAP_059,Human,English,Hip-Hop/Rap,Juice WRLD,juice wrld,G1066,same_artist
+HUMAN_EN_HIP_HOP_RAP_060,Human,English,Hip-Hop/Rap,Kanye West,kanye west,G1067,same_artist
+HUMAN_EN_R&B_SOUL_001,Human,English,R&B/Soul,Alicia Keys,alicia keys,G1143,same_artist
+HUMAN_EN_R&B_SOUL_002,Human,English,R&B/Soul,Aretha Franklin,aretha franklin,G1144,singleton
+HUMAN_EN_R&B_SOUL_003,Human,English,R&B/Soul,Ashanti,ashanti,G1145,singleton
+HUMAN_EN_R&B_SOUL_004,Human,English,R&B/Soul,Ben E. King,ben e. king,G1146,singleton
+HUMAN_EN_R&B_SOUL_005,Human,English,R&B/Soul,Bill Withers,bill withers,G1147,singleton
+HUMAN_EN_R&B_SOUL_006,Human,English,R&B/Soul,Black Pumas,black pumas,G1148,singleton
+HUMAN_EN_R&B_SOUL_007,Human,English,R&B/Soul,Brent Faiyaz,brent faiyaz,G1149,same_artist
+HUMAN_EN_R&B_SOUL_008,Human,English,R&B/Soul,Childish Gambino,childish gambino,G1053,same_artist
+HUMAN_EN_R&B_SOUL_009,Human,English,R&B/Soul,Chris Brown,chris brown,G1150,same_artist
+HUMAN_EN_R&B_SOUL_010,Human,English,R&B/Soul,Commodores,commodores,G1151,singleton
+HUMAN_EN_R&B_SOUL_011,Human,English,R&B/Soul,Corinne Bailey Rae,corinne bailey rae,G1152,singleton
+HUMAN_EN_R&B_SOUL_012,Human,English,R&B/Soul,Daniel Caesar,daniel caesar,G1153,same_artist
+HUMAN_EN_R&B_SOUL_013,Human,English,R&B/Soul,Doja Cat,doja cat,G1154,singleton
+HUMAN_EN_R&B_SOUL_014,Human,English,R&B/Soul,Ella Mai,ella mai,G1155,singleton
+HUMAN_EN_R&B_SOUL_015,Human,English,R&B/Soul,Ginuwine,ginuwine,G1156,singleton
+HUMAN_EN_R&B_SOUL_016,Human,English,R&B/Soul,Jenevieve,jenevieve,G1157,singleton
+HUMAN_EN_R&B_SOUL_017,Human,English,R&B/Soul,Jeremih,jeremih,G1158,singleton
+HUMAN_EN_R&B_SOUL_018,Human,English,R&B/Soul,Joji,joji,G1159,same_artist
+HUMAN_EN_R&B_SOUL_019,Human,English,R&B/Soul,JoJo,jojo,G1160,singleton
+HUMAN_EN_R&B_SOUL_020,Human,English,R&B/Soul,Kali Uchis,kali uchis,G1161,singleton
+HUMAN_EN_R&B_SOUL_021,Human,English,R&B/Soul,Kehlani,kehlani,G1162,singleton
+HUMAN_EN_R&B_SOUL_022,Human,English,R&B/Soul,Keyshia Cole,keyshia cole,G1163,singleton
+HUMAN_EN_R&B_SOUL_023,Human,English,R&B/Soul,Khalid,khalid,G1164,singleton
+HUMAN_EN_R&B_SOUL_024,Human,English,R&B/Soul,Leon Bridges,leon bridges,G1165,singleton
+HUMAN_EN_R&B_SOUL_025,Human,English,R&B/Soul,Lucky Daye,lucky daye,G1166,singleton
+HUMAN_EN_R&B_SOUL_026,Human,English,R&B/Soul,Luther Vandross,luther vandross,G1167,singleton
+HUMAN_EN_R&B_SOUL_027,Human,English,R&B/Soul,Mario,mario,G1168,singleton
+HUMAN_EN_R&B_SOUL_028,Human,English,R&B/Soul,Marvin Gaye,marvin gaye,G1169,singleton
+HUMAN_EN_R&B_SOUL_029,Human,English,R&B/Soul,Miguel,miguel,G1170,same_artist
+HUMAN_EN_R&B_SOUL_030,Human,English,R&B/Soul,Minnie Riperton,minnie riperton,G1171,singleton
+HUMAN_EN_R&B_SOUL_031,Human,English,R&B/Soul,Ne-Yo,ne-yo,G1172,same_artist
+HUMAN_EN_R&B_SOUL_032,Human,English,R&B/Soul,PARTYNEXTDOOR,partynextdoor,G1173,singleton
+HUMAN_EN_R&B_SOUL_033,Human,English,R&B/Soul,Sade,sade,G1174,singleton
+HUMAN_EN_R&B_SOUL_034,Human,English,R&B/Soul,Sam Cooke,sam cooke,G1175,singleton
+HUMAN_EN_R&B_SOUL_035,Human,English,R&B/Soul,Solange,solange,G1176,singleton
+HUMAN_EN_R&B_SOUL_036,Human,English,R&B/Soul,Sonder,sonder,G1177,singleton
+HUMAN_EN_R&B_SOUL_037,Human,English,R&B/Soul,Soul for Real,soul for real,G1178,singleton
+HUMAN_EN_R&B_SOUL_038,Human,English,R&B/Soul,Steve Lacy,steve lacy,G1179,singleton
+HUMAN_EN_R&B_SOUL_039,Human,English,R&B/Soul,Stevie Wonder,stevie wonder,G1180,singleton
+HUMAN_EN_R&B_SOUL_040,Human,English,R&B/Soul,Summer Walker,summer walker,G1181,singleton
+HUMAN_EN_R&B_SOUL_041,Human,English,R&B/Soul,SZA,sza,G1182,singleton
+HUMAN_EN_R&B_SOUL_042,Human,English,R&B/Soul,The Flamingos,the flamingos,G1183,singleton
+HUMAN_EN_R&B_SOUL_043,Human,English,R&B/Soul,The Internet,the internet,G1184,singleton
+HUMAN_EN_R&B_SOUL_044,Human,English,R&B/Soul,The Temptations,the temptations,G1185,singleton
+HUMAN_EN_R&B_SOUL_045,Human,English,R&B/Soul,The Weeknd,the weeknd,G1186,singleton
+HUMAN_EN_R&B_SOUL_046,Human,English,R&B/Soul,Thee Sacred Souls,thee sacred souls,G1187,singleton
+HUMAN_EN_R&B_SOUL_047,Human,English,R&B/Soul,Thundercat,thundercat,G1188,singleton
+HUMAN_EN_R&B_SOUL_048,Human,English,R&B/Soul,TLC,tlc,G1189,singleton
+HUMAN_EN_R&B_SOUL_049,Human,English,R&B/Soul,Trey Songz,trey songz,G1190,singleton
+HUMAN_EN_R&B_SOUL_050,Human,English,R&B/Soul,Usher,usher,G1191,singleton
+HUMAN_EN_R&B_SOUL_051,Human,English,R&B/Soul,Alicia Keys,alicia keys,G1143,same_artist
+HUMAN_EN_R&B_SOUL_052,Human,English,R&B/Soul,Brent Faiyaz,brent faiyaz,G1149,same_artist
+HUMAN_EN_R&B_SOUL_053,Human,English,R&B/Soul,Childish Gambino,childish gambino,G1053,same_artist
+HUMAN_EN_R&B_SOUL_054,Human,English,R&B/Soul,Chris Brown,chris brown,G1150,same_artist
+HUMAN_EN_R&B_SOUL_055,Human,English,R&B/Soul,Daniel Caesar,daniel caesar,G1153,same_artist
+HUMAN_EN_R&B_SOUL_056,Human,English,R&B/Soul,Joji,joji,G1159,same_artist
+HUMAN_EN_R&B_SOUL_057,Human,English,R&B/Soul,Miguel,miguel,G1170,same_artist
+HUMAN_EN_R&B_SOUL_058,Human,English,R&B/Soul,Ne-Yo,ne-yo,G1172,same_artist
+HUMAN_EN_FOLK_ACOUSTIC_001,Human,English,Folk,Big Thief,big thief,G0995,same_artist
+HUMAN_EN_FOLK_ACOUSTIC_002,Human,English,Pop,Billie Eilish,billie eilish,G0996,same_artist
+HUMAN_EN_FOLK_ACOUSTIC_003,Human,English,Folk,Bon Iver,bon iver,G1121,same_artist
+HUMAN_EN_FOLK_ACOUSTIC_004,Human,English,Folk,Brooks & Dunn,brooks,G0997,singleton
+HUMAN_EN_FOLK_ACOUSTIC_005,Human,English,Folk,Chris Stapleton,chris stapleton,G0998,same_artist
+HUMAN_EN_FOLK_ACOUSTIC_006,Human,English,Folk,Darius Rucker,darius rucker,G0999,singleton
+HUMAN_EN_FOLK_ACOUSTIC_007,Human,English,Folk,Dean Lewis,dean lewis,G1000,singleton
+HUMAN_EN_FOLK_ACOUSTIC_008,Human,English,Folk,Dolly Parton,dolly parton,G1001,same_artist
+HUMAN_EN_FOLK_ACOUSTIC_009,Human,English,Folk,Father John Misty,father john misty,G1002,singleton
+HUMAN_EN_FOLK_ACOUSTIC_010,Human,English,Folk,Faye Webster,faye webster,G1003,singleton
+HUMAN_EN_FOLK_ACOUSTIC_011,Human,English,Folk,Fiona Apple,fiona apple,G1004,singleton
+HUMAN_EN_FOLK_ACOUSTIC_012,Human,English,Folk,Flatsound,flatsound,G1005,singleton
+HUMAN_EN_FOLK_ACOUSTIC_013,Human,English,Folk,Fleet Foxes,fleet foxes,G1006,singleton
+HUMAN_EN_FOLK_ACOUSTIC_014,Human,English,Folk,George Ezra,george ezra,G1007,singleton
+HUMAN_EN_FOLK_ACOUSTIC_015,Human,English,Folk,Glen Campbell,glen campbell,G1008,singleton
+HUMAN_EN_FOLK_ACOUSTIC_016,Human,English,Folk,Hozier,hozier,G1009,singleton
+HUMAN_EN_FOLK_ACOUSTIC_017,Human,English,Folk,John Denver,john denver,G1010,singleton
+HUMAN_EN_FOLK_ACOUSTIC_018,Human,English,Folk,Johnny Cash,johnny cash,G1011,singleton
+HUMAN_EN_FOLK_ACOUSTIC_019,Human,English,Folk,Jon Pardi,jon pardi,G1012,singleton
+HUMAN_EN_FOLK_ACOUSTIC_020,Human,English,Folk,Lana Del Rey,lana del rey,G1013,same_artist
+HUMAN_EN_FOLK_ACOUSTIC_021,Human,English,Folk,Luke Bryan,luke bryan,G1014,singleton
+HUMAN_EN_FOLK_ACOUSTIC_022,Human,English,Folk,Luke Combs,luke combs,G1015,singleton
+HUMAN_EN_FOLK_ACOUSTIC_023,Human,English,Folk,Maggie Rogers,maggie rogers,G1016,singleton
+HUMAN_EN_FOLK_ACOUSTIC_024,Human,English,Folk,Marty Robbins,marty robbins,G1017,singleton
+HUMAN_EN_FOLK_ACOUSTIC_025,Human,English,Folk,Mitski,mitski,G1018,same_artist
+HUMAN_EN_FOLK_ACOUSTIC_026,Human,English,Folk,Morgan Wallen,morgan wallen,G1019,same_artist
+HUMAN_EN_FOLK_ACOUSTIC_027,Human,English,Folk,Mother Mother,mother mother,G1020,same_artist
+HUMAN_EN_FOLK_ACOUSTIC_028,Human,English,Folk,Mt. Joy,mt. joy,G1021,singleton
+HUMAN_EN_FOLK_ACOUSTIC_029,Human,English,Folk,Mumford & Sons,mumford,G1022,singleton
+HUMAN_EN_FOLK_ACOUSTIC_030,Human,English,Folk,Nick Drake,nick drake,G1121,near_duplicate_embedding;near_duplicate_lyrics
+HUMAN_EN_FOLK_ACOUSTIC_031,Human,English,Folk,Noah Kahan,noah kahan,G1023,singleton
+HUMAN_EN_FOLK_ACOUSTIC_032,Human,English,Folk,Novo Amor,novo amor,G1024,singleton
+HUMAN_EN_FOLK_ACOUSTIC_033,Human,English,Folk,Of Monsters and Men,of monsters,G1025,singleton
+HUMAN_EN_FOLK_ACOUSTIC_034,Human,English,Folk,Paramore,paramore,G1026,singleton
+HUMAN_EN_FOLK_ACOUSTIC_035,Human,English,Folk,Phoebe Bridgers,phoebe bridgers,G1027,singleton
+HUMAN_EN_FOLK_ACOUSTIC_036,Human,English,Folk,Radiohead,radiohead,G1028,singleton
+HUMAN_EN_FOLK_ACOUSTIC_037,Human,English,Folk,Regina Spektor,regina spektor,G1029,singleton
+HUMAN_EN_FOLK_ACOUSTIC_038,Human,English,Folk,Richy Mitch & The Coal Miners,richy mitch,G1030,singleton
+HUMAN_EN_FOLK_ACOUSTIC_039,Human,English,Folk,Skeeter Davis,skeeter davis,G1031,singleton
+HUMAN_EN_FOLK_ACOUSTIC_040,Human,English,Folk,Sufjan Stevens,sufjan stevens,G1032,singleton
+HUMAN_EN_FOLK_ACOUSTIC_041,Human,English,Pop,Taylor Swift,taylor swift,G1139,same_artist
+HUMAN_EN_FOLK_ACOUSTIC_042,Human,English,Folk,The Handsome Family,the handsome family,G1033,singleton
+HUMAN_EN_FOLK_ACOUSTIC_043,Human,English,Folk,The Moldy Peaches,the moldy peaches,G1034,singleton
+HUMAN_EN_FOLK_ACOUSTIC_044,Human,English,Folk,The Mountain Goats,the mountain goats,G1035,singleton
+HUMAN_EN_FOLK_ACOUSTIC_045,Human,English,Folk,Tom Odell,tom odell,G1036,singleton
+HUMAN_EN_FOLK_ACOUSTIC_046,Human,English,Folk,Tom Rosenthal,tom rosenthal,G1037,singleton
+HUMAN_EN_FOLK_ACOUSTIC_047,Human,English,Folk,Tracy Chapman,tracy chapman,G1038,singleton
+HUMAN_EN_FOLK_ACOUSTIC_048,Human,English,Folk,Vance Joy,vance joy,G1039,singleton
+HUMAN_EN_FOLK_ACOUSTIC_049,Human,English,Folk,Vanessa Carlton,vanessa carlton,G1040,singleton
+HUMAN_EN_FOLK_ACOUSTIC_050,Human,English,Folk,Zac Brown Band,zac brown band,G1041,singleton
+HUMAN_EN_FOLK_ACOUSTIC_051,Human,English,Folk,Big Thief,big thief,G0995,same_artist
+HUMAN_EN_FOLK_ACOUSTIC_052,Human,English,Pop,Billie Eilish,billie eilish,G0996,same_artist
+HUMAN_EN_FOLK_ACOUSTIC_053,Human,English,Folk,Bon Iver,bon iver,G1121,near_duplicate_embedding;near_duplicate_lyrics;same_artist
+HUMAN_EN_FOLK_ACOUSTIC_054,Human,English,Folk,Chris Stapleton,chris stapleton,G0998,same_artist
+HUMAN_EN_FOLK_ACOUSTIC_055,Human,English,Folk,Dolly Parton,dolly parton,G1001,same_artist
+HUMAN_EN_FOLK_ACOUSTIC_057,Human,English,Folk,Lana Del Rey,lana del rey,G1013,same_artist
+HUMAN_EN_FOLK_ACOUSTIC_058,Human,English,Folk,Mitski,mitski,G1018,same_artist
+HUMAN_EN_FOLK_ACOUSTIC_059,Human,English,Folk,Morgan Wallen,morgan wallen,G1019,same_artist
+HUMAN_EN_FOLK_ACOUSTIC_060,Human,English,Folk,Mother Mother,mother mother,G1020,same_artist
+HUMAN_EN_POP_012,Human,English,Pop,Taylor Swift,taylor swift,G1139,same_artist
+HUMAN_EN_POP_047,Human,English,Pop,Katy Perry,katy perry,G1126,same_artist
+HI_HUMAN_ROCK_034,Human,Hindi,Rock,Shahid Mallya,shahid mallya,G0977,singleton
+HI_HUMAN_ROCK_035,Human,Hindi,Rock,"Aarohan, Asawari Srivastava & Rohan Prasanna",aarohan,G0978,singleton
+HI_HUMAN_HIPHOP_015,Human,Hindi,Hip-Hop/Rap,Aavrutti,aavrutti,G0855,singleton
+HI_HUMAN_POP_021,Human,Hindi,Pop,Abdul Hannan,abdul hannan,G0895,singleton
+HI_HUMAN_FOLK_014,Human,Hindi,Folk,Abhay Jodhpurkar & R. Naaz,abhay jodhpurkar,G0818,same_artist
+HI_HUMAN_POP_022,Human,Hindi,Pop,"Abhay Jodhpurkar, Akshay Punse & Samrat Tarafdar",abhay jodhpurkar,G0818,same_artist
+HI_HUMAN_FOLK_053,Human,Hindi,Folk,Sona Mohapatra & Ram Sampath,sona mohapatra,G0842,same_artist
+HI_HUMAN_POP_003,Human,Hindi,Pop,Abhijeet Srivastava & Shreya Ghoshal,abhijeet srivastava,G0884,singleton
+HI_HUMAN_POP_004,Human,Hindi,Pop,Aditi Singh Sharma,aditi singh sharma,G0885,singleton
+HI_HUMAN_RNB_052,Human,Hindi,R&B/Soul,Studio Melody,studio melody,G0959,singleton
+HI_HUMAN_RNB_023,Human,Hindi,R&B/Soul,Aditya Rikhari & Ravator,aditya rikhari,G0938,same_artist
+HI_HUMAN_POP_005,Human,Hindi,Pop,"Aditya Rikhari, Ravator & Kutle Khan",aditya rikhari,G0938,same_artist
+HI_HUMAN_POP_023,Human,Hindi,Pop,Adnan Sami & Hussain Haidry,adnan sami,G0896,singleton
+HI_HUMAN_ROCK_002,Human,Hindi,Rock,SPUNK IN,spunk in,G0961,singleton
+HI_HUMAN_RNB_003,Human,Hindi,R&B/Soul,Akanksha Bhandari,akanksha bhandari,G0928,same_artist
+HI_HUMAN_POP_024,Human,Hindi,Pop,Akanksha Bhandari & Shubham J,akanksha bhandari,G0928,same_artist
+HI_HUMAN_RNB_021,Human,Hindi,R&B/Soul,"Akanksha Bhandari, Iqlipse Nova & Aditya A",akanksha bhandari,G0928,same_artist
+HI_HUMAN_POP_025,Human,Hindi,Pop,Akhil Sachdeva,akhil sachdeva,G0897,same_artist
+HI_HUMAN_POP_006,Human,Hindi,Pop,Akshath,akshath,G0886,same_artist
+HI_HUMAN_RNB_022,Human,Hindi,R&B/Soul,"Akshath, Soham Mukherji & Rajan Batra",akshath,G0886,same_artist
+HI_HUMAN_ROCK_036,Human,Hindi,Rock,Ali Azmat,ali azmat,G0979,singleton
+HI_HUMAN_POP_027,Human,Hindi,Pop,Amaal Mallik & Armaan Malik,amaal mallik,G0899,singleton
+HI_HUMAN_POP_028,Human,Hindi,Pop,Payal Dev,payal dev,G0900,singleton
+HI_HUMAN_RNB_025,Human,Hindi,R&B/Soul,Music Melody ,music melody,G0939,singleton
+HI_HUMAN_POP_007,Human,Hindi,Pop,SonyMusicIndia,sonymusicindia,G0887,singleton
+HI_HUMAN_POP_029,Human,Hindi,Pop,Ankit Tiwari,ankit tiwari,G0901,singleton
+HI_HUMAN_POP_030,Human,Hindi,Pop,Ankur Tewari,ankur tewari,G0902,near_duplicate_embedding;near_duplicate_lyrics;same_artist
+HI_HUMAN_POP_031,Human,Hindi,Pop,Antara Mitra & Mann,antara mitra,G0903,singleton
+HI_HUMAN_ROCK_003,Human,Hindi,Rock,Antariksh,antariksh,G0962,same_artist
+HI_HUMAN_POP_032,Human,Hindi,Pop,Anumita Nadesan,anumita nadesan,G0904,same_artist
+HI_HUMAN_POP_033,Human,Hindi,Pop,Anuv Jain,anuv jain,G0905,singleton
+HI_HUMAN_POP_034,Human,Hindi,Pop,Arjun Kanungo,arjun kanungo,G0906,same_artist
+HI_HUMAN_FOLK_055,Human,Hindi,Folk,Arko,arko,G0843,same_artist
+HI_HUMAN_POP_035,Human,Hindi,Pop,Arko & Saaj Bhatt,arko,G0843,same_artist
+HI_HUMAN_POP_036,Human,Hindi,Pop,Armaan Malik & Shreya Ghoshal,armaan malik,G0907,singleton
+HI_HUMAN_RNB_027,Human,Hindi,R&B/Soul,Arooj Aftab,arooj aftab,G0940,same_artist
+HI_HUMAN_POP_037,Human,Hindi,Pop,Ash King,ash king,G0908,singleton
+HI_HUMAN_POP_038,Human,Hindi,Pop,Asim Azhar,asim azhar,G0909,same_artist
+HI_HUMAN_ROCK_037,Human,Hindi,Rock,Asim Azhar & Aima Baig,asim azhar,G0909,same_artist
+HI_HUMAN_RNB_057,Human,Hindi,R&B/Soul,Asim Azhar & Sabri Sisters,asim azhar,G0909,same_artist
+HI_HUMAN_HIPHOP_017,Human,Hindi,Hip-Hop/Rap,"Asim Azhar, Shamoon Ismail, Young Stunners & Raamis",asim azhar,G0909,same_artist
+HI_HUMAN_ROCK_038,Human,Hindi,Rock,Astitva,astitva,G0902,near_duplicate_embedding;near_duplicate_lyrics;same_artist
+HI_HUMAN_HIPHOP_018,Human,Hindi,Hip-Hop/Rap,"Astitva, Aksh, Ridham & Kalash",astitva,G0902,same_artist
+HI_HUMAN_POP_039,Human,Hindi,Pop,Atif Aslam & Velo Sound Station,atif aslam,G0910,singleton
+HI_HUMAN_POP_009,Human,Hindi,Pop,"Ayushmann Khurrana, Tanishk Bagchi & Vayu",ayushmann khurrana,G0889,same_artist
+HI_HUMAN_FOLK_017,Human,Hindi,Folk,Aziz Mian,aziz mian,G0819,singleton
+HI_HUMAN_POP_001,Human,Hindi,Pop,Shirley Setia,shirley setia,G0883,singleton
+HI_HUMAN_HIPHOP_019,Human,Hindi,Hip-Hop/Rap,Prabh Deep,prabh deep,G0856,same_artist
+HI_HUMAN_ROCK_039,Human,Hindi,Rock,Bandish,bandish,G0980,same_artist
+HI_HUMAN_POP_041,Human,Hindi,Pop,"Bandish, Sameer Hussain & Kumaar",bandish,G0980,same_artist
+HI_HUMAN_FOLK_018,Human,Hindi,Folk,Bawari Basanti,bawari basanti,G0820,same_artist
+HI_HUMAN_ROCK_040,Human,Hindi,Rock,Bayaan,bayaan,G0981,same_artist
+HI_HUMAN_POP_042,Human,Hindi,Pop,"Bayaan, Sherazam & Rovalio",bayaan,G0981,same_artist
+HI_HUMAN_FOLK_019,Human,Hindi,Folk,Begum Akhtar,begum akhtar,G0821,same_artist
+HI_HUMAN_POP_011,Human,Hindi,Pop,Bella,bella,G0890,same_artist
+HI_HUMAN_POP_043,Human,Hindi,Pop,Bharat Chauhan,bharat chauhan,G0912,same_artist
+HI_HUMAN_POP_044,Human,Hindi,Pop,Bharg,bharg,G0913,singleton
+HI_HUMAN_FOLK_020,Human,Hindi,Folk,Bhupinder Singh,bhupinder singh,G0822,singleton
+HI_HUMAN_RNB_029,Human,Hindi,R&B/Soul,Bhuvan Bam,bhuvan bam,G0941,same_artist
+HI_HUMAN_FOLK_058,Human,Hindi,Folk,Bismil & Aditya Dev,bismil,G0844,same_artist
+HI_HUMAN_FOLK_021,Human,Hindi,Folk,"Bismil, Arjun Sarkar & Arjit Srivastava",bismil,G0844,same_artist
+HI_HUMAN_FOLK_022,Human,Hindi,Folk,"Brijesh Shandilya, Gul Saxena & Love Bagga",brijesh shandilya,G0823,singleton
+HI_HUMAN_HIPHOP_022,Human,Hindi,Hip-Hop/Rap,"Calm, DL91 Era & OG Lucifer",calm,G0857,singleton
+HI_HUMAN_POP_045,Human,Hindi,Pop,Neha Kakkar,neha kakkar,G0914,singleton
+HI_HUMAN_RNB_006,Human,Hindi,R&B/Soul,Chaar Diwaari & Raftaar,chaar diwaari,G0929,same_artist
+HI_HUMAN_FOLK_059,Human,Hindi,Folk,Chitra Singh,chitra singh,G0845,same_artist
+HI_HUMAN_FOLK_023,Human,Hindi,Folk,"Chitra Singh, Jagjit Singh, Kuldeep Singh & Javed Akhtar",chitra singh,G0845,same_artist
+HI_HUMAN_POP_046,Human,Hindi,Pop,Clinton Cerejo,clinton cerejo,G0915,singleton
+HI_HUMAN_HIPHOP_026,Human,Hindi,Hip-Hop/Rap,"DIVINE, Frenzzy, Sammohit & Shah Rule",divine,G0859,singleton
+HI_HUMAN_POP_012,Human,Hindi,Pop,Nikhita Gandhi & Amjad Nadeem Aamir,nikhita gandhi,G0891,singleton
+HI_HUMAN_ROCK_019,Human,Hindi,Rock,"Daira, Lakheshwar Khudaram & Alok Ranjan Srivastava",daira,G0966,near_duplicate_lyrics;same_artist
+HI_HUMAN_HIPHOP_014,Human,Hindi,Hip-Hop/Rap,Dakait & Sez on the Beat,dakait,G0854,singleton
+HI_HUMAN_POP_047,Human,Hindi,Pop,Darshan Raval,darshan raval,G0916,singleton
+HI_HUMAN_POP_048,Human,Hindi,Pop,Dev Negi,dev negi,G0917,singleton
+HI_HUMAN_HIPHOP_025,Human,Hindi,Hip-Hop/Rap,Dino James,dino james,G0858,same_artist
+HI_HUMAN_POP_013,Human,Hindi,Pop,Dino James & Jasleen Royal,dino james,G0858,same_artist
+HI_HUMAN_RNB_002,Human,Hindi,R&B/Soul,Easy Wanderlings,easy wanderlings,G0927,near_duplicate_embedding;near_duplicate_lyrics
+HI_HUMAN_HIPHOP_027,Human,Hindi,Hip-Hop/Rap,Emiway Bantai,emiway bantai,G0860,same_artist
+HI_HUMAN_HIPHOP_028,Human,Hindi,Hip-Hop/Rap,Encore ABJ & DL91 Era,encore abj,G0861,singleton
+HI_HUMAN_POP_014,Human,Hindi,Pop,Vishal Mishra,vishal mishra,G0892,same_artist
+HI_HUMAN_ROCK_014,Human,Hindi,Rock,Euphoria,euphoria,G0965,same_artist
+HI_HUMAN_ROCK_007,Human,Hindi,Rock,Euphoria & Palash Sen,euphoria,G0965,same_artist
+HI_HUMAN_ROCK_041,Human,Hindi,Rock,Farhan Akhtar,farhan akhtar,G0982,singleton
+HI_HUMAN_FOLK_060,Human,Hindi,Folk,Farhan Saeed,farhan saeed,G0902,same_artist
+HI_HUMAN_POP_050,Human,Hindi,Pop,Farhan Saeed & Nusrat Fateh Ali Khan,farhan saeed,G0902,same_artist
+HI_HUMAN_FOLK_024,Human,Hindi,Folk,"Farhan Saeed, Amna Rai, Qasim Dahir & Hassan Rai",farhan saeed,G0902,near_duplicate_embedding;near_duplicate_lyrics;same_artist
+HI_HUMAN_FOLK_025,Human,Hindi,Folk,Farida Khanum,farida khanum,G0824,singleton
+HI_HUMAN_ROCK_031,Human,Hindi,Rock,Bloodywood,bloodywood,G0975,singleton
+HI_HUMAN_ROCK_028,Human,Hindi,Rock,"Faridkot, Rajarshi Sanyal, IP Singh & Bhuvan Bam",faridkot,G0973,same_artist
+HI_HUMAN_ROCK_033,Human,Hindi,Rock,Nooran Sisters,nooran sisters,G0976,same_artist
+HI_HUMAN_POP_051,Human,Hindi,Pop,Fitoor,fitoor,G0918,singleton
+HI_HUMAN_POP_015,Human,Hindi,Pop,Fotty Seven,fotty seven,G0893,same_artist
+HI_HUMAN_HIPHOP_003,Human,Hindi,Hip-Hop/Rap,Frappe Ash & toorjo dey,frappe ash,G0847,singleton
+HI_HUMAN_HIPHOP_031,Human,Hindi,Hip-Hop/Rap,Jokhay & Talha Anjum,jokhay,G0863,singleton
+HI_HUMAN_ROCK_042,Human,Hindi,Rock,Fuzon & Wajeeh Uddin Meer,fuzon,G0983,singleton
+HI_HUMAN_HIPHOP_032,Human,Hindi,Hip-Hop/Rap,Harjas Harjaayi & ECSTASY,harjas harjaayi,G0864,same_artist
+HI_HUMAN_POP_052,Human,Hindi,Pop,Gajendra Verma,gajendra verma,G0919,same_artist
+HI_HUMAN_FOLK_026,Human,Hindi,Folk,"Gaurav Dagaonkar, Orunima Bhattacharya & Hercules Basnet",gaurav dagaonkar,G0825,same_artist
+HI_HUMAN_POP_053,Human,Hindi,Pop,"Gaurav Dagaonkar, Sakuni Keerthimali & Dilan Gamage",gaurav dagaonkar,G0825,same_artist
+HI_HUMAN_POP_054,Human,Hindi,Pop,Ghulam Ali,ghulam ali,G0920,same_artist
+HI_HUMAN_POP_055,Human,Hindi,Pop,Goldie Sohel,goldie sohel,G0921,same_artist
+HI_HUMAN_RNB_060,Human,Hindi,R&B/Soul,Goldie Sohel & Asees Kaur,goldie sohel,G0921,same_artist
+HI_HUMAN_RNB_030,Human,Hindi,R&B/Soul,"Goldie Sohel, Neha Karode & Preet Mangat",goldie sohel,G0921,same_artist
+HI_HUMAN_POP_056,Human,Hindi,Pop,Hanita Bhambri,hanita bhambri,G0922,same_artist
+HI_HUMAN_POP_016,Human,Hindi,Pop,Harjas Harjaayi,harjas harjaayi,G0864,same_artist
+HI_HUMAN_POP_057,Human,Hindi,Pop,Dhvani Bhanushali,dhvani bhanushali,G0923,singleton
+HI_HUMAN_HIPHOP_035,Human,Hindi,Hip-Hop/Rap,Hashim Nawaz & Farasat Anees,hashim nawaz,G0866,singleton
+HI_HUMAN_POP_058,Human,Hindi,Pop,"Himesh Reshammiya, Kamaal Khan & Payal Dev",himesh reshammiya,G0924,singleton
+HI_HUMAN_HIPHOP_036,Human,Hindi,Hip-Hop/Rap,Karma,karma,G0867,same_artist
+HI_HUMAN_ROCK_020,Human,Hindi,Rock,Indian Ocean,indian ocean,G0967,same_artist
+HI_HUMAN_FOLK_028,Human,Hindi,Folk,Talat Aziz & Rohit Sharma,talat aziz,G0826,same_artist
+HI_HUMAN_HIPHOP_005,Human,Hindi,Hip-Hop/Rap,Iqlipse Nova,iqlipse nova,G0848,same_artist
+HI_HUMAN_POP_017,Human,Hindi,Pop,Iqlipse Nova & Adeetiiya,iqlipse nova,G0848,same_artist
+HI_HUMAN_RNB_031,Human,Hindi,R&B/Soul,J Trix,j trix,G0942,same_artist
+HI_HUMAN_HIPHOP_037,Human,Hindi,Hip-Hop/Rap,J Trix & SubSpace,j trix,G0942,same_artist
+HI_HUMAN_POP_059,Human,Hindi,Pop,JANI & superdupersultan,jani,G0902,same_artist
+HI_HUMAN_RNB_032,Human,Hindi,R&B/Soul,Jasleen Royal,jasleen royal,G0943,singleton
+HI_HUMAN_FOLK_029,Human,Hindi,Folk,Javed Bashir,javed bashir,G0827,singleton
+HI_HUMAN_POP_060,Human,Hindi,Pop,Jigar Saraiya,jigar saraiya,G0925,singleton
+HI_HUMAN_HIPHOP_043,Human,Hindi,Hip-Hop/Rap,KR$NA,kr$na,G0870,same_artist
+HI_HUMAN_HIPHOP_001,Human,Hindi,Hip-Hop/Rap,KR$NA & Dhanda Nyoliwala,kr$na,G0870,same_artist
+HI_HUMAN_ROCK_008,Human,Hindi,Rock,Kabir Cafe,kabir cafe,G0966,near_duplicate_embedding;near_duplicate_lyrics;same_artist
+HI_HUMAN_POP_018,Human,Hindi,Pop,Kamakshi Khanna,kamakshi khanna,G0894,singleton
+HI_HUMAN_RNB_033,Human,Hindi,R&B/Soul,Kanishk Seth & Kavita Seth,kanishk seth,G0944,same_artist
+HI_HUMAN_POP_019,Human,Hindi,Pop,"Kanishk Seth, Kavita Seth & Kimeraa",kanishk seth,G0944,same_artist
+HI_HUMAN_HIPHOP_006,Human,Hindi,Hip-Hop/Rap,"Karan Kanchan, Rashmeet Kaur & Yashraj",karan kanchan,G0849,singleton
+HI_HUMAN_POP_020,Human,Hindi,Pop,Karma,karma,G0867,same_artist
+HI_HUMAN_HIPHOP_040,Human,Hindi,Hip-Hop/Rap,Karma & Raftaar,karma,G0867,same_artist
+HI_HUMAN_ROCK_021,Human,Hindi,Rock,Raman Negi,raman negi,G0968,singleton
+HI_HUMAN_FOLK_005,Human,Hindi,Folk,Kavita Seth,kavita seth,G0812,same_artist
+HI_HUMAN_FOLK_030,Human,Hindi,Folk,Kavita Seth & Various Artists,kavita seth,G0812,same_artist
+HI_HUMAN_RNB_009,Human,Hindi,R&B/Soul,Kayan,kayan,G0930,singleton
+HI_HUMAN_HIPHOP_041,Human,Hindi,Hip-Hop/Rap,Kidshot,kidshot,G0868,singleton
+HI_HUMAN_HIPHOP_042,Human,Hindi,Hip-Hop/Rap,"Raftaar, Jasleen Royal & Manna Dey",raftaar,G0869,singleton
+HI_HUMAN_RNB_034,Human,Hindi,R&B/Soul,Lifafa,lifafa,G0945,singleton
+HI_HUMAN_RNB_019,Human,Hindi,R&B/Soul,Lisa Mishra,lisa mishra,G0937,singleton
+HI_HUMAN_HIPHOP_007,Human,Hindi,Hip-Hop/Rap,Loka & Aakash,loka,G0850,singleton
+HI_HUMAN_HIPHOP_044,Human,Hindi,Hip-Hop/Rap,MC Altaf,mc altaf,G0871,singleton
+HI_HUMAN_HIPHOP_045,Human,Hindi,Hip-Hop/Rap,MC Heam,mc heam,G0872,same_artist
+HI_HUMAN_RNB_035,Human,Hindi,R&B/Soul,MC Heam & Dikshyant,mc heam,G0872,same_artist
+HI_HUMAN_HIPHOP_008,Human,Hindi,Hip-Hop/Rap,Bella,bella,G0890,same_artist
+HI_HUMAN_FOLK_032,Human,Hindi,Folk,Malini Awasthi,malini awasthi,G0828,singleton
+HI_HUMAN_FOLK_006,Human,Hindi,Folk,Mame Khan,mame khan,G0813,same_artist
+HI_HUMAN_FOLK_033,Human,Hindi,Folk,Mehdi Hassan,mehdi hassan,G0829,singleton
+HI_HUMAN_RNB_036,Human,Hindi,R&B/Soul,Mitraz,mitraz,G0902,same_artist
+HI_HUMAN_RNB_037,Human,Hindi,R&B/Soul,Mohammed Irfan & Asif Panjwani,mohammed irfan,G0946,singleton
+HI_HUMAN_HIPHOP_009,Human,Hindi,Hip-Hop/Rap,Muhfaad,muhfaad,G0851,same_artist
+HI_HUMAN_ROCK_044,Human,Hindi,Rock,Mustafa Zahid & Waqar Ali,mustafa zahid,G0985,singleton
+HI_HUMAN_ROCK_009,Human,Hindi,Rock,NAALAYAK,naalayak,G0963,same_artist
+HI_HUMAN_HIPHOP_047,Human,Hindi,Hip-Hop/Rap,Naezy,naezy,G0873,singleton
+HI_HUMAN_RNB_001,Human,Hindi,R&B/Soul,Nanku,nanku,G0926,same_artist
+HI_HUMAN_RNB_020,Human,Hindi,R&B/Soul,Nanku & HVSH,nanku,G0926,same_artist
+HI_HUMAN_HIPHOP_048,Human,Hindi,Hip-Hop/Rap,Muhfaad,muhfaad,G0851,near_duplicate_lyrics;same_artist
+HI_HUMAN_FOLK_034,Human,Hindi,Folk,"Neeraj Arya, Rahul Bhatt & Vikas Kumar Vishwakarma",neeraj arya,G0830,singleton
+HI_HUMAN_RNB_038,Human,Hindi,R&B/Soul,Nikhil D'Souza,nikhil d'souza,G0947,singleton
+HI_HUMAN_FOLK_035,Human,Hindi,Folk,Nilotpal Bora,nilotpal bora,G0831,singleton
+HI_HUMAN_FOLK_007,Human,Hindi,Folk,Nooran Sisters,nooran sisters,G0976,same_artist
+HI_HUMAN_ROCK_046,Human,Hindi,Rock,Munawar Faruqui,munawar faruqui,G0987,same_artist
+HI_HUMAN_FOLK_036,Human,Hindi,Folk,Nusrat Fateh Ali Khan & Kabul Bukhari,nusrat fateh ali khan,G0832,singleton
+HI_HUMAN_RNB_039,Human,Hindi,R&B/Soul,"OAFF, Savera, Sameer Rahat & Kamakshi Khanna",oaff,G0948,singleton
+HI_HUMAN_RNB_040,Human,Hindi,R&B/Soul,Osho Jain,osho jain,G0949,same_artist
+HI_HUMAN_FOLK_008,Human,Hindi,Folk,Osho Jain & Sanchi,osho jain,G0949,same_artist
+HI_HUMAN_HIPHOP_049,Human,Hindi,Hip-Hop/Rap,Panther,panther,G0874,same_artist
+HI_HUMAN_FOLK_037,Human,Hindi,Folk,Papon & Pratibha Singh Baghel,papon,G0833,singleton
+HI_HUMAN_ROCK_047,Human,Hindi,Rock,Parashara,parashara,G0927,near_duplicate_embedding;near_duplicate_lyrics;same_artist
+HI_HUMAN_FOLK_012,Human,Hindi,Folk,"Piyush Mishra, Rahul Ram & Indian Ocean",piyush mishra,G0816,singleton
+HI_HUMAN_HIPHOP_050,Human,Hindi,Hip-Hop/Rap,Prabh Deep & Vasu Raina,prabh deep,G0856,same_artist
+HI_HUMAN_RNB_041,Human,Hindi,R&B/Soul,Prateek Kuhad,prateek kuhad,G0950,same_artist
+HI_HUMAN_HIPHOP_010,Human,Hindi,Hip-Hop/Rap,Dino James,dino james,G0858,same_artist
+HI_HUMAN_HIPHOP_052,Human,Hindi,Hip-Hop/Rap,Raga,raga,G0875,singleton
+HI_HUMAN_FOLK_038,Human,Hindi,Folk,Raghav Sachar,raghav sachar,G0834,singleton
+HI_HUMAN_FOLK_013,Human,Hindi,Folk,Rahat Fateh Ali Khan,rahat fateh ali khan,G0817,singleton
+HI_HUMAN_HIPHOP_053,Human,Hindi,Hip-Hop/Rap,Rap Demon,rap demon,G0876,singleton
+HI_HUMAN_HIPHOP_054,Human,Hindi,Hip-Hop/Rap,Rawal & Tsumyoki,rawal,G0877,singleton
+HI_HUMAN_HIPHOP_055,Human,Hindi,Hip-Hop/Rap,King & Aditya Dev,king,G0878,singleton
+HI_HUMAN_FOLK_039,Human,Hindi,Folk,Rekha Bhardwaj & Kaushal Mahavir,rekha bhardwaj,G0835,singleton
+HI_HUMAN_FOLK_040,Human,Hindi,Folk,Richa Sharma,richa sharma,G0836,singleton
+HI_HUMAN_RNB_042,Human,Hindi,R&B/Soul,"Rito Riba, Rajat Nagpal & Kashi Kashyap",rito riba,G0951,singleton
+HI_HUMAN_RNB_010,Human,Hindi,R&B/Soul,Rituraj Mohanty,rituraj mohanty,G0931,same_artist
+HI_HUMAN_FOLK_041,Human,Hindi,Folk,Rituraj Mohanty & Danish Ali,rituraj mohanty,G0931,same_artist
+HI_HUMAN_RNB_043,Human,Hindi,R&B/Soul,Ritviz,ritviz,G0952,same_artist
+HI_HUMAN_ROCK_001,Human,Hindi,Rock,Ayushmann Khurrana,ayushmann khurrana,G0889,same_artist
+HI_HUMAN_RNB_044,Human,Hindi,R&B/Soul,Sabri Brothers,sabri brothers,G0953,same_artist
+HI_HUMAN_HIPHOP_002,Human,Hindi,Hip-Hop/Rap,Sachin Kumar,sachin kumar,G0846,singleton
+HI_HUMAN_FOLK_043,Human,Hindi,Folk,Sameer Rahat & Mohan Kannan,sameer rahat,G0837,same_artist
+HI_HUMAN_RNB_011,Human,Hindi,R&B/Soul,"Sanjeeta Bhattacharya, Utsavi Jha, Sanjana Devarajan, Akanksha Sethi & Sagar Dhote",sanjeeta bhattacharya,G0932,singleton
+HI_HUMAN_FOLK_044,Human,Hindi,Folk,Sarwar Khan,sarwar khan,G0902,near_duplicate_embedding;near_duplicate_lyrics
+HI_HUMAN_HIPHOP_056,Human,Hindi,Hip-Hop/Rap,Savage & superdupersultan,savage,G0879,singleton
+HI_HUMAN_RNB_012,Human,Hindi,R&B/Soul,"Savera, Ajay Jayanthi & Ginny Diwan",savera,G0933,singleton
+HI_HUMAN_HIPHOP_057,Human,Hindi,Hip-Hop/Rap,Yo Yo Honey Singh,yo yo honey singh,G0880,same_artist
+HI_HUMAN_ROCK_054,Human,Hindi,Rock,Shadow And Light & Dulal Manki,shadow,G0992,same_artist
+HI_HUMAN_ROCK_048,Human,Hindi,Rock,The Down Troddence & T. M. Krishna,the down troddence,G0988,same_artist
+HI_HUMAN_HIPHOP_011,Human,Hindi,Hip-Hop/Rap,Shafqat Amanat Ali,shafqat amanat ali,G0852,same_artist
+HI_HUMAN_HIPHOP_058,Human,Hindi,Hip-Hop/Rap,Shah Rule & Raja Kumari,shah rule,G0881,singleton
+HI_HUMAN_HIPHOP_059,Human,Hindi,Hip-Hop/Rap,Yo Yo Honey Singh,yo yo honey singh,G0880,same_artist
+HI_HUMAN_RNB_045,Human,Hindi,R&B/Soul,Shashwat Singh & Arunita Kanjilal,shashwat singh,G0954,singleton
+HI_HUMAN_FOLK_010,Human,Hindi,Folk,Shubha Mudgal,shubha mudgal,G0814,singleton
+HI_HUMAN_RNB_046,Human,Hindi,R&B/Soul,Shuja Haider,shuja haider,G0955,singleton
+HI_HUMAN_ROCK_010,Human,Hindi,Rock,Sifar,sifar,G0964,same_artist
+HI_HUMAN_FOLK_046,Human,Hindi,Folk,Sona Mohapatra & Ram Sampath,sona mohapatra,G0842,same_artist
+HI_HUMAN_HIPHOP_060,Human,Hindi,Hip-Hop/Rap,Spitfire & Rakhis,spitfire,G0882,singleton
+HI_HUMAN_FOLK_011,Human,Hindi,Folk,Suzonn,suzonn,G0815,singleton
+HI_HUMAN_FOLK_047,Human,Hindi,Folk,"Swanand Kirkire, Shrey Gupta & Khwaab",swanand kirkire,G0838,singleton
+HI_HUMAN_FOLK_048,Human,Hindi,Folk,Swaroop Khan,swaroop khan,G0839,singleton
+HI_HUMAN_ROCK_049,Human,Hindi,Rock,Swastik The Band,swastik the band,G0989,same_artist
+HI_HUMAN_FOLK_049,Human,Hindi,Folk,Talat Aziz,talat aziz,G0826,same_artist
+HI_HUMAN_RNB_047,Human,Hindi,R&B/Soul,Ritviz,ritviz,G0952,same_artist
+HI_HUMAN_FOLK_050,Human,Hindi,Folk,The Tapi Project,the tapi project,G0840,singleton
+HI_HUMAN_ROCK_017,Human,Hindi,Rock,The Yellow Diary,the yellow diary,G0902,near_duplicate_embedding;near_duplicate_lyrics;same_artist
+HI_HUMAN_FOLK_051,Human,Hindi,Folk,Tochi Raina & Anuj Garg,tochi raina,G0841,singleton
+HI_HUMAN_RNB_013,Human,Hindi,R&B/Soul,Twin Strings,twin strings,G0934,singleton
+HI_HUMAN_ROCK_050,Human,Hindi,Rock,Vayu,vayu,G0990,same_artist
+HI_HUMAN_FOLK_001,Human,Hindi,Folk,Vidya Shah,vidya shah,G0811,singleton
+HI_HUMAN_RNB_049,Human,Hindi,R&B/Soul,Vilen & Kanika Kapoor,vilen,G0956,singleton
+HI_HUMAN_POP_002,Human,Hindi,Pop,Vishal Mishra,vishal mishra,G0892,same_artist
+HI_HUMAN_RNB_014,Human,Hindi,R&B/Soul,When Chai Met Toast & Ankur Tewari,when chai met toast,G0935,singleton
+HI_HUMAN_HIPHOP_013,Human,Hindi,Hip-Hop/Rap,Yashraj & Manïn,yashraj,G0853,singleton
+HI_HUMAN_RNB_050,Human,Hindi,R&B/Soul,Zaeden,zaeden,G0957,same_artist
+HI_HUMAN_RNB_051,Human,Hindi,R&B/Soul,Zeeshan Ali,zeeshan ali,G0958,same_artist
+HI_HUMAN_ROCK_051,Human,Hindi,Rock,Aaroh,aaroh,G0991,same_artist
+HI_HUMAN_RNB_015,Human,Hindi,R&B/Soul,Akshath,akshath,G0886,same_artist
+HI_HUMAN_RNB_054,Human,Hindi,R&B/Soul,Amjad Sabri,amjad sabri,G0960,same_artist
+HI_HUMAN_RNB_026,Human,Hindi,R&B/Soul,Ankur Tewari,ankur tewari,G0902,same_artist
+HI_HUMAN_ROCK_012,Human,Hindi,Rock,Antariksh,antariksh,G0962,same_artist
+HI_HUMAN_RNB_004,Human,Hindi,R&B/Soul,Anumita Nadesan,anumita nadesan,G0904,same_artist
+HI_HUMAN_HIPHOP_016,Human,Hindi,Hip-Hop/Rap,Arjun Kanungo,arjun kanungo,G0906,same_artist
+HI_HUMAN_RNB_056,Human,Hindi,R&B/Soul,Arooj Aftab,arooj aftab,G0940,same_artist
+HI_HUMAN_RNB_028,Human,Hindi,R&B/Soul,Asim Azhar,asim azhar,G0909,same_artist
+HI_HUMAN_ROCK_052,Human,Hindi,Rock,Astitva,astitva,G0902,same_artist
+HI_HUMAN_HIPHOP_020,Human,Hindi,Hip-Hop/Rap,Bandish,bandish,G0980,same_artist
+HI_HUMAN_FOLK_056,Human,Hindi,Folk,Bawari Basanti,bawari basanti,G0820,same_artist
+HI_HUMAN_FOLK_057,Human,Hindi,Folk,Begum Akhtar,begum akhtar,G0821,same_artist
+HI_HUMAN_HIPHOP_021,Human,Hindi,Hip-Hop/Rap,Bella,bella,G0890,same_artist
+HI_HUMAN_RNB_005,Human,Hindi,R&B/Soul,Bharat Chauhan,bharat chauhan,G0912,same_artist
+HI_HUMAN_RNB_058,Human,Hindi,R&B/Soul,Bhuvan Bam,bhuvan bam,G0941,same_artist
+HI_HUMAN_HIPHOP_023,Human,Hindi,Hip-Hop/Rap,Chaar Diwaari,chaar diwaari,G0929,same_artist
+HI_HUMAN_ROCK_005,Human,Hindi,Rock,Daira,daira,G0966,same_artist
+HI_HUMAN_ROCK_024,Human,Hindi,Rock,Bhayanak Maut,bhayanak maut,G0970,near_duplicate_embedding;near_duplicate_lyrics
+HI_HUMAN_RNB_018,Human,Hindi,R&B/Soul,Hasan Raheem & Abdullah Kasumbi,hasan raheem,G0936,singleton
+HI_HUMAN_HIPHOP_029,Human,Hindi,Hip-Hop/Rap,Epr Iyer,epr iyer,G0862,singleton
+HI_HUMAN_HIPHOP_030,Human,Hindi,Hip-Hop/Rap,Fotty Seven,fotty seven,G0893,same_artist
+HI_HUMAN_FOLK_027,Human,Hindi,Folk,Ghulam Ali,ghulam ali,G0920,same_artist
+HI_HUMAN_RNB_007,Human,Hindi,R&B/Soul,Hanita Bhambri,hanita bhambri,G0922,same_artist
+HI_HUMAN_HIPHOP_034,Human,Hindi,Hip-Hop/Rap,Harjas Harjaayi,harjas harjaayi,G0864,same_artist
+HI_HUMAN_ROCK_029,Human,Hindi,Rock,Indian Ocean,indian ocean,G0967,same_artist
+HI_HUMAN_RNB_008,Human,Hindi,R&B/Soul,Iqlipse Nova,iqlipse nova,G0848,same_artist
+HI_HUMAN_HIPHOP_038,Human,Hindi,Hip-Hop/Rap,JANI & superdupersultan,jani,G0902,near_duplicate_embedding;near_duplicate_lyrics;same_artist
+HI_HUMAN_ROCK_015,Human,Hindi,Rock,Kabir Cafe,kabir cafe,G0966,same_artist
+HI_HUMAN_ROCK_025,Human,Hindi,Rock,Kashmir,kashmir,G0971,same_artist
+HI_HUMAN_HIPHOP_046,Human,Hindi,Hip-Hop/Rap,Munawar Faruqui,munawar faruqui,G0987,same_artist
+HI_HUMAN_ROCK_026,Human,Hindi,Rock,Girish And The Chronicles,girish,G0972,singleton
+HI_HUMAN_ROCK_053,Human,Hindi,Rock,Parashara,parashara,G0927,same_artist
+HI_HUMAN_FOLK_042,Human,Hindi,Folk,Sabri Brothers,sabri brothers,G0953,same_artist
+HI_HUMAN_FOLK_045,Human,Hindi,Folk,Shafqat Amanat Ali,shafqat amanat ali,G0852,same_artist
+HI_HUMAN_ROCK_016,Human,Hindi,Rock,Sifar,sifar,G0964,same_artist
+HI_HUMAN_ROCK_055,Human,Hindi,Rock,Swastik The Band,swastik the band,G0989,same_artist
+HI_HUMAN_ROCK_023,Human,Hindi,Rock,A Boogie Wit da Hoodie,a boogie wit da hoodie,G1045,same_artist
+HI_HUMAN_ROCK_056,Human,Hindi,Rock,Vayu,vayu,G0990,same_artist
+HI_HUMAN_FOLK_052,Human,Hindi,Folk,Zeeshan Ali,zeeshan ali,G0958,same_artist
+HI_HUMAN_ROCK_057,Human,Hindi,Rock,Aaroh,aaroh,G0991,same_artist
+HI_HUMAN_FOLK_015,Human,Hindi,Folk,Amjad Sabri,amjad sabri,G0960,same_artist
+HI_HUMAN_RNB_055,Human,Hindi,R&B/Soul,Zaeden & Aakash,zaeden,G0957,same_artist
+HI_HUMAN_RNB_016,Human,Hindi,R&B/Soul,Anumita Nadesan,anumita nadesan,G0904,same_artist
+HI_HUMAN_ROCK_058,Human,Hindi,Rock,The Down Troddence & Anohnymouss,the down troddence,G0988,same_artist
+HI_HUMAN_RNB_017,Human,Hindi,R&B/Soul,Bharat Chauhan,bharat chauhan,G0912,same_artist
+HI_HUMAN_FOLK_003,Human,Hindi,Folk,Daira,daira,G0966,same_artist
+HI_HUMAN_RNB_059,Human,Hindi,R&B/Soul,Emiway Bantai,emiway bantai,G0860,same_artist
+HI_HUMAN_ROCK_032,Human,Hindi,Rock,Parvaaz,parvaaz,G0902,same_artist
+HI_HUMAN_FOLK_004,Human,Hindi,Folk,Kabir Cafe,kabir cafe,G0966,near_duplicate_lyrics;same_artist
+HI_HUMAN_ROCK_030,Human,Hindi,Rock,Dhruv Visvanath & Vishwadeep Zeest,dhruv visvanath,G0974,singleton
+HI_HUMAN_ROCK_045,Human,Hindi,Rock,Shankar-Ehsaan-Loy & Asha Bhosle,shankar-ehsaan-loy,G0986,singleton
+HI_HUMAN_ROCK_022,Human,Hindi,Rock,Swarathma,swarathma,G0969,singleton
+HI_HUMAN_ROCK_059,Human,Hindi,Rock,Parikrama,parikrama,G0993,singleton
+HI_HUMAN_ROCK_027,Human,Hindi,Rock,Parvaaz,parvaaz,G0902,near_duplicate_embedding;near_duplicate_lyrics;same_artist
+HI_HUMAN_ROCK_060,Human,Hindi,Rock,Aswekeepsearching,aswekeepsearching,G0994,singleton
+HI_HUMAN_FOLK_054,Human,Hindi,Folk,Amjad Sabri,amjad sabri,G0960,same_artist
+HI_HUMAN_RNB_053,Human,Hindi,R&B/Soul,Mitraz & Arijit Anand,mitraz,G0902,near_duplicate_embedding;near_duplicate_lyrics;same_artist
+HI_HUMAN_RNB_024,Human,Hindi,R&B/Soul,Kanishk Seth & Aarifah,kanishk seth,G0944,same_artist
+HI_HUMAN_POP_008,Human,Hindi,Pop,"Sachet Tandon, Parampara Tandon & Sayeed Quadri",sachet tandon,G0888,singleton
+HI_HUMAN_FOLK_016,Human,Hindi,Folk,Mame Khan,mame khan,G0813,same_artist
+HI_HUMAN_ROCK_004,Human,Hindi,Rock,NAALAYAK,naalayak,G0963,same_artist
+HI_HUMAN_POP_040,Human,Hindi,Pop,Yasser Desai & Dipanshi Tripathi,yasser desai,G0911,singleton
+HI_HUMAN_POP_010,Human,Hindi,Pop,Gajendra Verma,gajendra verma,G0919,same_artist
+HI_HUMAN_FOLK_002,Human,Hindi,Folk,Sameer Rahat,sameer rahat,G0837,same_artist
+HI_HUMAN_HIPHOP_004,Human,Hindi,Hip-Hop/Rap,Nanku,nanku,G0926,same_artist
+HI_HUMAN_HIPHOP_024,Human,Hindi,Hip-Hop/Rap,Panther & Rish,panther,G0874,same_artist
+HI_HUMAN_ROCK_006,Human,Hindi,Rock,The Yellow Diary,the yellow diary,G0902,same_artist
+HI_HUMAN_HIPHOP_033,Human,Hindi,Hip-Hop/Rap,Talha Anjum & Umair,talha anjum,G0865,singleton
+HI_HUMAN_HIPHOP_039,Human,Hindi,Hip-Hop/Rap,Yungsta,yungsta,G0902,near_duplicate_embedding;near_duplicate_lyrics
+HI_HUMAN_FOLK_031,Human,Hindi,Folk,"Abhay Jodhpurkar, Meenal Jain & Niladri Kumar",abhay jodhpurkar,G0818,same_artist
+HI_HUMAN_ROCK_043,Human,Hindi,Rock,Agnee,agnee,G0984,singleton
+HI_HUMAN_FOLK_009,Human,Hindi,Folk,Arko,arko,G0843,same_artist
+HI_HUMAN_HIPHOP_012,Human,Hindi,Hip-Hop/Rap,Nanku & toorjo dey,nanku,G0926,same_artist
+HI_HUMAN_RNB_048,Human,Hindi,R&B/Soul,Prateek Kuhad,prateek kuhad,G0950,same_artist
+HI_HUMAN_ROCK_011,Human,Hindi,Rock,"Faridkot, Rajarshi Sanyal, IP Singh & Nupoor Khedkar",faridkot,G0973,same_artist
+HI_HUMAN_ROCK_013,Human,Hindi,Rock,Kashmir,kashmir,G0971,same_artist
+HI_HUMAN_ROCK_018,Human,Hindi,Rock,"Shadow And Light, Salim Merchant & Pavithra Chari",shadow,G0992,same_artist
+HI_HUMAN_POP_026,Human,Hindi,Pop,Shekhar Ravjiani,shekhar ravjiani,G0898,singleton
+HI_HUMAN_POP_049,Human,Hindi,Pop,Akhil Sachdeva,akhil sachdeva,G0897,same_artist
+HI_HUMAN_HIPHOP_051,Human,Hindi,Hip-Hop/Rap,Astitva,astitva,G0902,same_artist
+ZH_HUMAN_ROCK_012,Human,Chinese,Rock,Chinese Football,chinese football,G1443,singleton
+ZH_HUMAN_HIPHOP_027,Human,Chinese,Hip-Hop/Rap,3Bangz,3bangz,G1303,singleton
+ZH_HUMAN_POP_011,Human,Chinese,Pop,Sandy Lam,sandy lam,G1339,near_duplicate_lyrics
+ZH_HUMAN_POP_012,Human,Chinese,Pop,5 Zheng,5 zheng,G1340,singleton
+ZH_HUMAN_POP_049,Human,Chinese,Pop,Cyndi Wang (),cyndi wang,G1372,singleton
+ZH_HUMAN_ROCK_013,Human,Chinese,Rock,Zuriaake,zuriaake,G1444,near_duplicate_lyrics
+ZH_HUMAN_HIPHOP_020,Human,Chinese,Hip-Hop/Rap,AK刘彰,ak刘彰,G1297,singleton
+ZH_HUMAN_POP_013,Human,Chinese,Pop,ANGIE安吉,angie安吉,G1341,singleton
+ZH_HUMAN_HIPHOP_021,Human,Chinese,Hip-Hop/Rap,"盛宇, 派克特 & NINEONE趙馨玥",盛宇,G1444,same_artist
+ZH_HUMAN_HIPHOP_046,Human,Chinese,Hip-Hop/Rap,AR刘夫阳 & 肥宝,ar刘夫阳,G1321,singleton
+ZH_HUMAN_HIPHOP_028,Human,Chinese,Hip-Hop/Rap,Alan Tam,alan tam,G1304,same_artist
+ZH_HUMAN_HIPHOP_019,Human,Chinese,Hip-Hop/Rap,Adam Ocean & Jesse Margiela,adam ocean,G1296,singleton
+ZH_HUMAN_HIPHOP_008,Human,Chinese,Hip-Hop/Rap,Afar陈侣帆,afar陈侣帆,G1286,singleton
+ZH_HUMAN_POP_050,Human,Chinese,Pop,Anson Kong 江𤒹生,anson kong 江𤒹生,G1373,singleton
+ZH_HUMAN_POP_020,Human,Chinese,Pop,CORSAK,corsak,G1345,singleton
+ZH_HUMAN_POP_051,Human,Chinese,Pop,Anson Lo 盧瀚霆,anson lo 盧瀚霆,G1374,singleton
+ZH_HUMAN_RNB_018,Human,Chinese,R&B/Soul,ZI (Stefan Chen),zi,G1400,singleton
+ZH_HUMAN_POP_021,Human,Chinese,Pop,"AuZTIN, LCY呂植宇 & SEAN KO 高翔",auztin,G1346,singleton
+ZH_HUMAN_POP_029,Human,Chinese,Pop,BK,bk,G1354,singleton
+ZH_HUMAN_RNB_031,Human,Chinese,R&B/Soul,BRADD,bradd,G1412,singleton
+ZH_HUMAN_HIPHOP_047,Human,Chinese,Hip-Hop/Rap,Higher Brothers,higher brothers,G1322,same_artist
+ZH_HUMAN_POP_052,Human,Chinese,Pop,Bii,bii,G1375,singleton
+ZH_HUMAN_HIPHOP_048,Human,Chinese,Hip-Hop/Rap,MC $oHo & KidNey,mc $oho,G1323,singleton
+ZH_HUMAN_POP_053,Human,Chinese,Pop,Billy Choi,billy choi,G1376,singleton
+ZH_HUMAN_RNB_020,Human,Chinese,R&B/Soul,BlackreDSpirit,blackredspirit,G1402,singleton
+ZH_HUMAN_HIPHOP_022,Human,Chinese,Hip-Hop/Rap,BrAnTB白景屹,brantb白景屹,G1298,singleton
+ZH_HUMAN_HIPHOP_030,Human,Chinese,Hip-Hop/Rap,Bu$Y,bu$y,G1306,singleton
+ZH_HUMAN_POP_030,Human,Chinese,Pop,C AllStar,c allstar,G1355,singleton
+ZH_HUMAN_HIPHOP_050,Human,Chinese,Hip-Hop/Rap,CHILL GANG,chill gang,G1324,singleton
+ZH_HUMAN_HIPHOP_009,Human,Chinese,Hip-Hop/Rap,CHOCKEY有三 & Tizzy T,chockey有三,G1287,singleton
+ZH_HUMAN_POP_023,Human,Chinese,Pop,Chendy (),chendy,G1348,singleton
+ZH_HUMAN_POP_054,Human,Chinese,Pop,Capper,capper,G1377,same_artist
+ZH_HUMAN_HIPHOP_049,Human,Chinese,Hip-Hop/Rap,"Capper, Tizzy T, MC HOTDOG & Gali",capper,G1377,same_artist
+ZH_HUMAN_POP_055,Human,Chinese,Pop,Tiger Wong,tiger wong,G1378,singleton
+ZH_HUMAN_HIPHOP_031,Human,Chinese,Hip-Hop/Rap,CashTrippy,cashtrippy,G1307,singleton
+ZH_HUMAN_POP_022,Human,Chinese,Pop,Chainhaha,chainhaha,G1347,singleton
+ZH_HUMAN_POP_056,Human,Chinese,Pop,魏如萱,魏如萱,G1379,singleton
+ZH_HUMAN_HIPHOP_051,Human,Chinese,Hip-Hop/Rap,Jony J,jony j,G1325,same_artist
+ZH_HUMAN_HIPHOP_052,Human,Chinese,Hip-Hop/Rap,攬佬SKAI ISYOURGOD,攬佬skai isyourgod,G1326,singleton
+ZH_HUMAN_HIPHOP_010,Human,Chinese,Hip-Hop/Rap,RussTong,russtong,G1288,singleton
+ZH_HUMAN_RNB_021,Human,Chinese,R&B/Soul,DOLLARZOO,dollarzoo,G1403,singleton
+ZH_HUMAN_POP_024,Human,Chinese,Pop,DOUDOU & 马帮乐队,doudou,G1349,singleton
+ZH_HUMAN_ROCK_051,Human,Chinese,Rock,DSPS,dsps,G1473,singleton
+ZH_HUMAN_POP_017,Human,Chinese,Pop,Pu Shu,pu shu,G1342,near_duplicate_lyrics
+ZH_HUMAN_POP_057,Human,Chinese,Pop,Ian 陳卓賢,ian 陳卓賢,G1380,singleton
+ZH_HUMAN_HIPHOP_011,Human,Chinese,Hip-Hop/Rap,Delta T 蛋撻頭,delta t 蛋撻頭,G1289,singleton
+ZH_HUMAN_POP_018,Human,Chinese,Pop,Dizparity & 王嘉儀,dizparity,G1343,singleton
+ZH_HUMAN_HIPHOP_032,Human,Chinese,Hip-Hop/Rap,Dizzy Dizzo 蔡詩芸,dizzy dizzo 蔡詩芸,G1308,singleton
+ZH_HUMAN_POP_019,Human,Chinese,Pop,Don Lou,don lou,G1344,singleton
+ZH_HUMAN_HIPHOP_053,Human,Chinese,Hip-Hop/Rap,Dough-Boy,dough-boy,G1327,singleton
+ZH_HUMAN_RNB_009,Human,Chinese,R&B/Soul,ERIKA,erika,G1391,singleton
+ZH_HUMAN_HIPHOP_012,Human,Chinese,Hip-Hop/Rap,ET,et,G1290,singleton
+ZH_HUMAN_POP_058,Human,Chinese,Pop,Edan 吕爵安,edan 吕爵安,G1381,singleton
+ZH_HUMAN_POP_059,Human,Chinese,Pop,Edan 呂爵安,edan 呂爵安,G1382,singleton
+ZH_HUMAN_RNB_011,Human,Chinese,R&B/Soul,Elin Lee,elin lee,G1393,singleton
+ZH_HUMAN_ROCK_014,Human,Chinese,Rock,FIESTER,fiester,G1445,singleton
+ZH_HUMAN_POP_060,Human,Chinese,Pop,"Faye Wong, Gate Yen, Shao Kang & Oscar Lam",faye wong,G1383,singleton
+ZH_HUMAN_POP_026,Human,Chinese,Pop,Faye 詹雯婷,faye 詹雯婷,G1351,singleton
+ZH_HUMAN_HIPHOP_033,Human,Chinese,Hip-Hop/Rap,Feezy,feezy,G1309,singleton
+ZH_HUMAN_HIPHOP_034,Human,Chinese,Hip-Hop/Rap,Fylo,fylo,G1310,singleton
+ZH_HUMAN_HIPHOP_013,Human,Chinese,Hip-Hop/Rap,G.K. 高伟庭,g.k. 高伟庭,G1291,singleton
+ZH_HUMAN_HIPHOP_014,Human,Chinese,Hip-Hop/Rap,"瘦子E.SO, 歐陽靖, 李佳隆 & 小春Kenzy",瘦子e.so,G1292,singleton
+ZH_HUMAN_POP_027,Human,Chinese,Pop,GAI,gai,G1352,same_artist
+ZH_HUMAN_POP_028,Human,Chinese,Pop,GALI,gali,G1353,same_artist
+ZH_HUMAN_POP_034,Human,Chinese,Pop,Panda Xiong,panda xiong,G1359,singleton
+ZH_HUMAN_HIPHOP_055,Human,Chinese,Hip-Hop/Rap,Gali,gali,G1353,same_artist
+ZH_HUMAN_HIPHOP_056,Human,Chinese,Hip-Hop/Rap,艾热AIR & SHarK米尔艾力,艾热air,G1328,singleton
+ZH_HUMAN_POP_031,Human,Chinese,Pop,Ginger,ginger,G1356,singleton
+ZH_HUMAN_HIPHOP_015,Human,Chinese,Hip-Hop/Rap,MC HotDog & MC脏脏,mc hotdog,G1293,singleton
+ZH_HUMAN_POP_032,Human,Chinese,Pop,GooChan,goochan,G1357,singleton
+ZH_HUMAN_POP_033,Human,Chinese,Pop,FloruitShow,floruitshow,G1358,near_duplicate_embedding;near_duplicate_lyrics
+ZH_HUMAN_FOLK_006,Human,Chinese,Folk,HAYA乐团,haya乐团,G1444,same_artist
+ZH_HUMAN_HIPHOP_018,Human,Chinese,Hip-Hop/Rap,HSU林庭絮,hsu林庭絮,G1295,singleton
+ZH_HUMAN_HIPHOP_023,Human,Chinese,Hip-Hop/Rap,"HYPEEZY, 馮泳 & Handsome Lau",hypeezy,G1299,singleton
+ZH_HUMAN_ROCK_008,Human,Chinese,Rock,Yoga Lin,yoga lin,G1440,same_artist
+ZH_HUMAN_POP_035,Human,Chinese,Pop,Haezee 黃瑋昕,haezee 黃瑋昕,G1360,singleton
+ZH_HUMAN_HIPHOP_007,Human,Chinese,Hip-Hop/Rap,G.E.M.,g.e.m,G1285,singleton
+ZH_HUMAN_POP_036,Human,Chinese,Pop,Haze哈澤,haze哈澤,G1361,singleton
+ZH_HUMAN_HIPHOP_057,Human,Chinese,Hip-Hop/Rap,Wang Yitai,wang yitai,G1329,singleton
+ZH_HUMAN_HIPHOP_016,Human,Chinese,Hip-Hop/Rap,"Heyo, 阿弗, Jan Curious & Lydia",heyo,G1294,singleton
+ZH_HUMAN_HIPHOP_017,Human,Chinese,Hip-Hop/Rap,Higher Brothers,higher brothers,G1322,same_artist
+ZH_HUMAN_ROCK_025,Human,Chinese,Rock,Hillsong 華語,hillsong 華語,G1454,singleton
+ZH_HUMAN_HIPHOP_035,Human,Chinese,Hip-Hop/Rap,GALI & INDEcompany,gali,G1353,same_artist
+ZH_HUMAN_HIPHOP_006,Human,Chinese,Hip-Hop/Rap,Aristophanes,aristophanes,G1284,singleton
+ZH_HUMAN_HIPHOP_025,Human,Chinese,Hip-Hop/Rap,ICE楊長青,ice楊長青,G1301,singleton
+ZH_HUMAN_HIPHOP_036,Human,Chinese,Hip-Hop/Rap,ITACHI20,itachi20,G1311,singleton
+ZH_HUMAN_POP_037,Human,Chinese,Pop,Ian 陈卓贤,ian 陈卓贤,G1362,singleton
+ZH_HUMAN_HIPHOP_024,Human,Chinese,Hip-Hop/Rap,W.M.L,w.m.l,G1300,singleton
+ZH_HUMAN_ROCK_026,Human,Chinese,Rock,The Hertz (HKG),the hertz,G1444,near_duplicate_lyrics;same_artist
+ZH_HUMAN_FOLK_017,Human,Chinese,Folk,InnerPeaceFinder,innerpeacefinder,G1251,singleton
+ZH_HUMAN_FOLK_038,Human,Chinese,Folk,Innokids,innokids,G1266,singleton
+ZH_HUMAN_POP_039,Human,Chinese,Pop,BLOODZ BOI  & bod [],bloodz boi,G1364,singleton
+ZH_HUMAN_POP_040,Human,Chinese,Pop,JACE 陳凱詠,jace 陳凱詠,G1365,singleton
+ZH_HUMAN_POP_042,Human,Chinese,Pop,JADE,jade,G1367,singleton
+ZH_HUMAN_POP_044,Human,Chinese,Pop,JB,jb,G1368,singleton
+ZH_HUMAN_POP_045,Human,Chinese,Pop,JC 陳詠桐,jc 陳詠桐,G1369,singleton
+ZH_HUMAN_POP_047,Human,Chinese,Pop,JNYBeatz,jnybeatz,G1371,singleton
+ZH_HUMAN_FOLK_022,Human,Chinese,Folk,JOYCE 就以斯,joyce 就以斯,G1254,singleton
+ZH_HUMAN_POP_043,Human,Chinese,Pop,Alan Tam,alan tam,G1304,same_artist
+ZH_HUMAN_POP_046,Human,Chinese,Pop,Jeffrey 魏浚笙,jeffrey 魏浚笙,G1370,singleton
+ZH_HUMAN_RNB_044,Human,Chinese,R&B/Soul,Jeremy J.M,jeremy j.m,G1421,singleton
+ZH_HUMAN_RNB_023,Human,Chinese,R&B/Soul,Jinbo,jinbo,G1405,singleton
+ZH_HUMAN_HIPHOP_026,Human,Chinese,Hip-Hop/Rap,Jinx周君怡,jinx周君怡,G1302,singleton
+ZH_HUMAN_HIPHOP_058,Human,Chinese,Hip-Hop/Rap,Jony J,jony j,G1325,same_artist
+ZH_HUMAN_HIPHOP_037,Human,Chinese,Hip-Hop/Rap,揽佬SKAI ISYOURGOD,揽佬skai isyourgod,G1312,singleton
+ZH_HUMAN_HIPHOP_038,Human,Chinese,Hip-Hop/Rap,June Pan & 河智昊,june pan,G1313,singleton
+ZH_HUMAN_HIPHOP_059,Human,Chinese,Hip-Hop/Rap,K!ddingboi,k!ddingboi,G1330,singleton
+ZH_HUMAN_HIPHOP_039,Human,Chinese,Hip-Hop/Rap,Triple G,triple g,G1314,singleton
+ZH_HUMAN_POP_010,Human,Chinese,Pop,Karencici,karencici,G1338,singleton
+ZH_HUMAN_HIPHOP_040,Human,Chinese,Hip-Hop/Rap,Haysen Cheng,haysen cheng,G1315,near_duplicate_lyrics
+ZH_HUMAN_ROCK_015,Human,Chinese,Rock,Kolor,kolor,G1444,near_duplicate_lyrics
+ZH_HUMAN_ROCK_052,Human,Chinese,Rock,LATENINE6,latenine6,G1474,singleton
+ZH_HUMAN_HIPHOP_041,Human,Chinese,Hip-Hop/Rap,LEGGO,leggo,G1316,singleton
+ZH_HUMAN_RNB_033,Human,Chinese,R&B/Soul,LINION,linion,G1414,singleton
+ZH_HUMAN_ROCK_007,Human,Chinese,Rock,Eason Chan,eason chan,G1439,singleton
+ZH_HUMAN_HIPHOP_005,Human,Chinese,Hip-Hop/Rap,Yamy (CHN),yamy,G1283,singleton
+ZH_HUMAN_HIPHOP_042,Human,Chinese,Hip-Hop/Rap,Lil RAD,lil rad,G1317,singleton
+ZH_HUMAN_HIPHOP_043,Human,Chinese,Hip-Hop/Rap,Karena Lam,karena lam,G1318,singleton
+ZH_HUMAN_RNB_014,Human,Chinese,R&B/Soul,MC光光,mc光光,G1396,singleton
+ZH_HUMAN_HIPHOP_044,Human,Chinese,Hip-Hop/Rap,陳嫺靜,陳嫺靜,G1319,singleton
+ZH_HUMAN_ROCK_027,Human,Chinese,Rock,Mandarin,mandarin,G1455,singleton
+ZH_HUMAN_ROCK_016,Human,Chinese,Rock,Maniac & Marf Yau,maniac,G1446,singleton
+ZH_HUMAN_HIPHOP_045,Human,Chinese,Hip-Hop/Rap,Vinida Weng,vinida weng,G1320,singleton
+ZH_HUMAN_RNB_034,Human,Chinese,R&B/Soul,Miao Miao Flow,miao miao flow,G1339,near_duplicate_lyrics
+ZH_HUMAN_ROCK_017,Human,Chinese,Rock,Milk&honey Worship,milk,G1447,singleton
+ZH_HUMAN_FOLK_020,Human,Chinese,Folk,Yoyo Sham,yoyo sham,G1444,near_duplicate_embedding;near_duplicate_lyrics
+ZH_HUMAN_RNB_047,Human,Chinese,R&B/Soul,Yoga Lin,yoga lin,G1440,same_artist
+ZH_HUMAN_HIPHOP_001,Human,Chinese,Hip-Hop/Rap,Novel Fergus,novel fergus,G1281,same_artist
+ZH_HUMAN_ROCK_009,Human,Chinese,Rock,OBSESS,obsess,G1441,singleton
+ZH_HUMAN_FOLK_025,Human,Chinese,Folk,Ofelia 歐菲,ofelia 歐菲,G1256,singleton
+ZH_HUMAN_RNB_035,Human,Chinese,R&B/Soul,"One&Two, 陈瑜 Lona, 万妮达 & Joeboy",one,G1415,singleton
+ZH_HUMAN_ROCK_018,Human,Chinese,Rock,PIZZALI & 福夢,pizzali,G1448,singleton
+ZH_HUMAN_ROCK_053,Human,Chinese,Rock,草东没有派对,草东没有派对,G1475,singleton
+ZH_HUMAN_FOLK_018,Human,Chinese,Folk,PeterZerg,peterzerg,G1252,singleton
+ZH_HUMAN_FOLK_030,Human,Chinese,Folk,Carsick Cars,carsick cars,G1444,near_duplicate_lyrics
+ZH_HUMAN_RNB_048,Human,Chinese,R&B/Soul,Resa Club,resa club,G1424,singleton
+ZH_HUMAN_RNB_049,Human,Chinese,R&B/Soul,袁婭維,袁婭維,G1315,near_duplicate_lyrics
+ZH_HUMAN_ROCK_019,Human,Chinese,Rock,Room307,room307,G1444,near_duplicate_embedding;near_duplicate_lyrics
+ZH_HUMAN_ROCK_028,Human,Chinese,Rock,Run Run Run,run run run,G1456,singleton
+ZH_HUMAN_RNB_024,Human,Chinese,R&B/Soul,SHINGBOY,shingboy,G1406,singleton
+ZH_HUMAN_ROCK_054,Human,Chinese,Rock,Schoolgirl Byebye,schoolgirl byebye,G1476,singleton
+ZH_HUMAN_ROCK_011,Human,Chinese,Rock,Soul of Ears,soul of ears,G1442,singleton
+ZH_HUMAN_RNB_015,Human,Chinese,R&B/Soul,鄧松傑,鄧松傑,G1397,singleton
+ZH_HUMAN_ROCK_055,Human,Chinese,Rock,Sunken Boat沉舟乐队,sunken boat沉舟乐队,G1444,near_duplicate_embedding;near_duplicate_lyrics
+ZH_HUMAN_RNB_050,Human,Chinese,R&B/Soul,TAP,tap,G1425,singleton
+ZH_HUMAN_FOLK_046,Human,Chinese,Folk,Tennyson King & 楊予菁,tennyson king,G1272,singleton
+ZH_HUMAN_RNB_051,Human,Chinese,R&B/Soul,Dizkar,dizkar,G1426,singleton
+ZH_HUMAN_ROCK_010,Human,Chinese,Rock,The Hertz,the hertz,G1444,same_artist
+ZH_HUMAN_FOLK_031,Human,Chinese,Folk,Jackie Chan,jackie chan,G1260,singleton
+ZH_HUMAN_ROCK_056,Human,Chinese,Rock,deca joins,deca joins,G1477,same_artist
+ZH_HUMAN_RNB_036,Human,Chinese,R&B/Soul,VIA,via,G1315,near_duplicate_lyrics
+ZH_HUMAN_ROCK_058,Human,Chinese,Rock,VOOID,vooid,G1479,singleton
+ZH_HUMAN_RNB_037,Human,Chinese,R&B/Soul,"YEHAIYAHAN, 阿克江Akin & Delf",yehaiyahan,G1416,singleton
+ZH_HUMAN_RNB_052,Human,Chinese,R&B/Soul,YELLOW黃宣,yellow黃宣,G1427,singleton
+ZH_HUMAN_RNB_038,Human,Chinese,R&B/Soul,YELLOW黄宣,yellow黄宣,G1417,singleton
+ZH_HUMAN_HIPHOP_004,Human,Chinese,Hip-Hop/Rap,Yaka,yaka,G1282,singleton
+ZH_HUMAN_POP_014,Human,Chinese,Pop,before the night ends,before the night ends,G1358,near_duplicate_embedding;near_duplicate_lyrics
+ZH_HUMAN_ROCK_050,Human,Chinese,Rock,deca joins,deca joins,G1477,same_artist
+ZH_HUMAN_RNB_043,Human,Chinese,R&B/Soul,elong,elong,G1420,singleton
+ZH_HUMAN_POP_025,Human,Chinese,Pop,SOPHY,sophy,G1350,singleton
+ZH_HUMAN_POP_038,Human,Chinese,Pop,icyball 冰球乐团,icyball 冰球乐团,G1363,singleton
+ZH_HUMAN_ROCK_020,Human,Chinese,Rock,the Huiting 陳惠婷,the huiting 陳惠婷,G1449,singleton
+ZH_HUMAN_ROCK_057,Human,Chinese,Rock,victor ma007,victor ma007,G1478,singleton
+ZH_HUMAN_RNB_053,Human,Chinese,R&B/Soul,ØZI,øzi,G1428,singleton
+ZH_HUMAN_ROCK_021,Human,Chinese,Rock,一種心情,一種心情,G1450,singleton
+ZH_HUMAN_RNB_054,Human,Chinese,R&B/Soul,Dusty Bottle,dusty bottle,G1429,singleton
+ZH_HUMAN_FOLK_013,Human,Chinese,Folk,上海民族乐团,上海民族乐团,G1444,near_duplicate_embedding;near_duplicate_lyrics;same_artist
+ZH_HUMAN_ROCK_022,Human,Chinese,Rock,By2,by2,G1451,singleton
+ZH_HUMAN_ROCK_030,Human,Chinese,Rock,丢莱卡,丢莱卡,G1457,singleton
+ZH_HUMAN_FOLK_032,Human,Chinese,Folk,暖音拾光匣,暖音拾光匣,G1261,singleton
+ZH_HUMAN_FOLK_033,Human,Chinese,Folk,乌兰图雅,乌兰图雅,G1262,near_duplicate_lyrics
+ZH_HUMAN_FOLK_023,Human,Chinese,Folk,乌达,乌达,G1444,near_duplicate_embedding;near_duplicate_lyrics
+ZH_HUMAN_FOLK_010,Human,Chinese,Folk,云飞,云飞,G1246,singleton
+ZH_HUMAN_POP_003,Human,Chinese,Pop,五月天,五月天,G1334,same_artist
+ZH_HUMAN_ROCK_002,Human,Chinese,Rock,伍佰 & China Blue,伍佰,G1436,singleton
+ZH_HUMAN_RNB_005,Human,Chinese,R&B/Soul,余佳运,余佳运,G1388,same_artist
+ZH_HUMAN_RNB_013,Human,Chinese,R&B/Soul,余佳運,余佳運,G1395,singleton
+ZH_HUMAN_FOLK_034,Human,Chinese,Folk,俞隆華,俞隆華,G1444,near_duplicate_embedding;near_duplicate_lyrics
+ZH_HUMAN_ROCK_031,Human,Chinese,Rock,傷心欲絕,傷心欲絕,G1458,singleton
+ZH_HUMAN_ROCK_029,Human,Chinese,Rock,Chyi Chin,chyi chin,G1444,same_artist
+ZH_HUMAN_ROCK_023,Human,Chinese,Rock,Dear Jane,dear jane,G1452,singleton
+ZH_HUMAN_ROCK_032,Human,Chinese,Rock,刘森,刘森,G1459,singleton
+ZH_HUMAN_ROCK_059,Human,Chinese,Rock,吳汶芳 & 鄭興,吳汶芳,G1480,singleton
+ZH_HUMAN_ROCK_024,Human,Chinese,Rock,劉森,劉森,G1453,singleton
+ZH_HUMAN_RNB_026,Human,Chinese,R&B/Soul,匹诺曹人声乐团,匹诺曹人声乐团,G1407,singleton
+ZH_HUMAN_RNB_017,Human,Chinese,R&B/Soul,區善騫,區善騫,G1399,singleton
+ZH_HUMAN_RNB_055,Human,Chinese,R&B/Soul,叶柔 & 乌日高娃,叶柔,G1430,singleton
+ZH_HUMAN_RNB_056,Human,Chinese,R&B/Soul,吕彦良,吕彦良,G1431,singleton
+ZH_HUMAN_RNB_010,Human,Chinese,R&B/Soul,吳卓源,吳卓源,G1392,singleton
+ZH_HUMAN_RNB_039,Human,Chinese,R&B/Soul,AGA,aga,G1315,near_duplicate_lyrics
+ZH_HUMAN_FOLK_001,Human,Chinese,Folk,Sunya,sunya,G1241,singleton
+ZH_HUMAN_RNB_027,Human,Chinese,R&B/Soul,呂彥良,呂彥良,G1408,singleton
+ZH_HUMAN_RNB_028,Human,Chinese,R&B/Soul,呆小帅,呆小帅,G1409,singleton
+ZH_HUMAN_POP_002,Human,Chinese,Pop,周杰伦,周杰伦,G1333,singleton
+ZH_HUMAN_RNB_029,Human,Chinese,R&B/Soul,周麒,周麒,G1410,singleton
+ZH_HUMAN_RNB_040,Human,Chinese,R&B/Soul,問題總部,問題總部,G1418,singleton
+ZH_HUMAN_ROCK_060,Human,Chinese,Rock,回春丹,回春丹,G1481,singleton
+ZH_HUMAN_RNB_057,Human,Chinese,R&B/Soul,回环,回环,G1432,singleton
+ZH_HUMAN_ROCK_033,Human,Chinese,Rock,团雾,团雾,G1460,singleton
+ZH_HUMAN_RNB_058,Human,Chinese,R&B/Soul,地磁卡,地磁卡,G1433,singleton
+ZH_HUMAN_ROCK_034,Human,Chinese,Rock,Arches (Band),arches,G1444,near_duplicate_embedding;near_duplicate_lyrics
+ZH_HUMAN_FOLK_027,Human,Chinese,Folk,Danny Chan,danny chan,G1257,singleton
+ZH_HUMAN_RNB_059,Human,Chinese,R&B/Soul,孙盛希,孙盛希,G1434,singleton
+ZH_HUMAN_FOLK_049,Human,Chinese,Folk,宋冬野,宋冬野,G1274,singleton
+ZH_HUMAN_RNB_060,Human,Chinese,R&B/Soul,宋秉勤,宋秉勤,G1444,near_duplicate_embedding;near_duplicate_lyrics
+ZH_HUMAN_FOLK_021,Human,Chinese,Folk,小时姑娘,小时姑娘,G1253,singleton
+ZH_HUMAN_ROCK_035,Human,Chinese,Rock,小男孩樂團,小男孩樂團,G1461,singleton
+ZH_HUMAN_FOLK_024,Human,Chinese,Folk,尤雅,尤雅,G1255,singleton
+ZH_HUMAN_ROCK_036,Human,Chinese,Rock,島嶼心情,島嶼心情,G1462,singleton
+ZH_HUMAN_FOLK_035,Human,Chinese,Folk,巴奈,巴奈,G1263,singleton
+ZH_HUMAN_FOLK_019,Human,Chinese,Folk,广东民族乐团,广东民族乐团,G1444,near_duplicate_lyrics
+ZH_HUMAN_ROCK_037,Human,Chinese,Rock,WWWW,wwww,G1463,singleton
+ZH_HUMAN_ROCK_038,Human,Chinese,Rock,张醒婵,张醒婵,G1444,near_duplicate_lyrics
+ZH_HUMAN_ROCK_039,Human,Chinese,Rock,张震岳,张震岳,G1464,singleton
+ZH_HUMAN_ROCK_001,Human,Chinese,Rock,張震嶽,張震嶽,G1435,singleton
+ZH_HUMAN_FOLK_029,Human,Chinese,Folk,微醺開根 RadiwRaliw,微醺開根 radiwraliw,G1259,singleton
+ZH_HUMAN_RNB_030,Human,Chinese,R&B/Soul,心头肉,心头肉,G1411,singleton
+ZH_HUMAN_ROCK_040,Human,Chinese,Rock,打倒三明治,打倒三明治,G1465,singleton
+ZH_HUMAN_ROCK_041,Human,Chinese,Rock,The Hertz (HKG),the hertz,G1444,same_artist
+ZH_HUMAN_RNB_002,Human,Chinese,R&B/Soul,Kris Wu,kris wu,G1385,singleton
+ZH_HUMAN_FOLK_028,Human,Chinese,Folk,方瑞娥,方瑞娥,G1258,singleton
+ZH_HUMAN_RNB_012,Human,Chinese,R&B/Soul,时峥峰,时峥峰,G1394,singleton
+ZH_HUMAN_FOLK_026,Human,Chinese,Folk,星语堂,星语堂,G1444,near_duplicate_embedding;near_duplicate_lyrics
+ZH_HUMAN_FOLK_039,Human,Chinese,Folk,Ziwei,ziwei,G1267,singleton
+ZH_HUMAN_RNB_016,Human,Chinese,R&B/Soul,Yao Lee,yao lee,G1398,singleton
+ZH_HUMAN_RNB_019,Human,Chinese,R&B/Soul,A-Mei,a-mei,G1401,singleton
+ZH_HUMAN_RNB_042,Human,Chinese,R&B/Soul,李丁丁,李丁丁,G1315,near_duplicate_lyrics
+ZH_HUMAN_FOLK_036,Human,Chinese,Folk,李兆麟,李兆麟,G1264,singleton
+ZH_HUMAN_ROCK_043,Human,Chinese,Rock,李浩瑋,李浩瑋,G1467,singleton
+ZH_HUMAN_POP_005,Human,Chinese,Pop,杨乃文,杨乃文,G1335,singleton
+ZH_HUMAN_FOLK_011,Human,Chinese,Folk,杨紫琼,杨紫琼,G1247,singleton
+ZH_HUMAN_FOLK_037,Human,Chinese,Folk,林浩一,林浩一,G1265,singleton
+ZH_HUMAN_FOLK_008,Human,Chinese,Folk,林淑容,林淑容,G1245,singleton
+ZH_HUMAN_ROCK_044,Human,Chinese,Rock,柳爽,柳爽,G1468,singleton
+ZH_HUMAN_FOLK_040,Human,Chinese,Folk,Leslie Cheung,leslie cheung,G1444,near_duplicate_embedding;near_duplicate_lyrics
+ZH_HUMAN_RNB_007,Human,Chinese,R&B/Soul,桃子A1J,桃子a1j,G1390,singleton
+ZH_HUMAN_POP_006,Human,Chinese,Pop,Tien Fu-Chen,tien fu-chen,G1336,singleton
+ZH_HUMAN_FOLK_041,Human,Chinese,Folk,Prince Chiu,prince chiu,G1268,singleton
+ZH_HUMAN_FOLK_042,Human,Chinese,Folk,楊世暄,楊世暄,G1269,singleton
+ZH_HUMAN_ROCK_045,Human,Chinese,Rock,死水微澜,死水微澜,G1469,singleton
+ZH_HUMAN_FOLK_043,Human,Chinese,Folk,江晟榮,江晟榮,G1270,singleton
+ZH_HUMAN_FOLK_044,Human,Chinese,Folk,江蕙,江蕙,G1271,singleton
+ZH_HUMAN_FOLK_045,Human,Chinese,Folk,汤宇歆,汤宇歆,G1342,near_duplicate_lyrics
+ZH_HUMAN_ROCK_046,Human,Chinese,Rock,汪峯,汪峯,G1470,singleton
+ZH_HUMAN_ROCK_047,Human,Chinese,Rock,沉默橙,沉默橙,G1471,singleton
+ZH_HUMAN_ROCK_048,Human,Chinese,Rock,deca joins,deca joins,G1477,same_artist
+ZH_HUMAN_FOLK_015,Human,Chinese,Folk,Chopsticks Brothers,chopsticks brothers,G1250,singleton
+ZH_HUMAN_HIPHOP_003,Human,Chinese,Hip-Hop/Rap,"盛宇, 杨和苏KeyNG, GAI, 万妮达, VAVA, 王以太, 刘聪, Capper, 早安, Tizzy T, MC HOTDOG, 布瑞吉Bridge, Gali, 功夫胖, 艾热AIR & 刘炫廷",盛宇,G1444,near_duplicate_embedding;near_duplicate_lyrics;same_artist
+ZH_HUMAN_FOLK_009,Human,Chinese,Folk,科尔沁夫,科尔沁夫,G1262,near_duplicate_lyrics
+ZH_HUMAN_FOLK_052,Human,Chinese,Folk,Jam Hsiao,jam hsiao,G1276,singleton
+ZH_HUMAN_RNB_001,Human,Chinese,R&B/Soul,罗森涛,罗森涛,G1384,singleton
+ZH_HUMAN_FOLK_053,Human,Chinese,Folk,Alan Tam,alan tam,G1304,same_artist
+ZH_HUMAN_FOLK_054,Human,Chinese,Folk,Yoga Lin,yoga lin,G1440,same_artist
+ZH_HUMAN_FOLK_003,Human,Chinese,Folk,腾格尔,腾格尔,G1243,same_artist
+ZH_HUMAN_FOLK_055,Human,Chinese,Folk,艾米尔,艾米尔,G1277,singleton
+ZH_HUMAN_FOLK_056,Human,Chinese,Folk,LÜCY,lücy,G1342,near_duplicate_lyrics
+ZH_HUMAN_FOLK_057,Human,Chinese,Folk,葉啟田,葉啟田,G1278,singleton
+ZH_HUMAN_RNB_003,Human,Chinese,R&B/Soul,董又霖,董又霖,G1386,singleton
+ZH_HUMAN_FOLK_058,Human,Chinese,Folk,蔡秋鳳,蔡秋鳳,G1358,near_duplicate_embedding;near_duplicate_lyrics
+ZH_HUMAN_FOLK_059,Human,Chinese,Folk,Valen Hsu,valen hsu,G1279,singleton
+ZH_HUMAN_ROCK_003,Human,Chinese,Rock,许巍,许巍,G1437,same_artist
+ZH_HUMAN_FOLK_060,Human,Chinese,Folk,赵雷,赵雷,G1280,singleton
+ZH_HUMAN_ROCK_005,Human,Chinese,Rock,达达乐队,达达乐队,G1438,singleton
+ZH_HUMAN_POP_007,Human,Chinese,Pop,"Yellow Claw, CORSAK & Julia Wu",yellow claw,G1315,near_duplicate_lyrics
+ZH_HUMAN_POP_009,Human,Chinese,Pop,陈淑桦,陈淑桦,G1337,singleton
+ZH_HUMAN_FOLK_004,Human,Chinese,Folk,额尔古纳乐队,额尔古纳乐队,G1244,singleton
+ZH_HUMAN_HIPHOP_029,Human,Chinese,Hip-Hop/Rap,直火帮XZT,直火帮xzt,G1305,singleton
+ZH_HUMAN_ROCK_049,Human,Chinese,Rock,ChiliChill,chilichill,G1472,singleton
+ZH_HUMAN_HIPHOP_054,Human,Chinese,Hip-Hop/Rap,GAI,gai,G1352,same_artist
+ZH_HUMAN_RNB_022,Human,Chinese,R&B/Soul,Gordon Flanders,gordon flanders,G1404,singleton
+ZH_HUMAN_FOLK_007,Human,Chinese,Folk,HAYA乐团,haya乐团,G1444,near_duplicate_embedding;near_duplicate_lyrics;same_artist
+ZH_HUMAN_RNB_046,Human,Chinese,R&B/Soul,Yang Yan,yang yan,G1423,singleton
+ZH_HUMAN_HIPHOP_002,Human,Chinese,Hip-Hop/Rap,Novel Fergus,novel fergus,G1281,same_artist
+ZH_HUMAN_FOLK_047,Human,Chinese,Folk,上海民族乐团,上海民族乐团,G1444,near_duplicate_embedding;near_duplicate_lyrics;same_artist
+ZH_HUMAN_POP_004,Human,Chinese,Pop,五月天,五月天,G1334,same_artist
+ZH_HUMAN_RNB_025,Human,Chinese,R&B/Soul,余佳运,余佳运,G1388,same_artist
+ZH_HUMAN_RNB_041,Human,Chinese,R&B/Soul,Tong Li,tong li,G1419,singleton
+ZH_HUMAN_RNB_004,Human,Chinese,R&B/Soul,Zheng Yuan,zheng yuan,G1387,singleton
+ZH_HUMAN_FOLK_014,Human,Chinese,Folk,Zhao Lei,zhao lei,G1249,singleton
+ZH_HUMAN_FOLK_050,Human,Chinese,Folk,Joy Rich,joy rich,G1275,singleton
+ZH_HUMAN_FOLK_051,Human,Chinese,Folk,Chyi Chin,chyi chin,G1444,near_duplicate_embedding;near_duplicate_lyrics;same_artist
+ZH_HUMAN_FOLK_005,Human,Chinese,Folk,腾格尔,腾格尔,G1243,same_artist
+ZH_HUMAN_ROCK_004,Human,Chinese,Rock,许巍,许巍,G1437,same_artist
+ZH_HUMAN_RNB_006,Human,Chinese,R&B/Soul,方大同,方大同,G1389,same_artist
+ZH_HUMAN_ROCK_006,Human,Chinese,Rock,许巍,许巍,G1437,same_artist
+ZH_HUMAN_RNB_008,Human,Chinese,R&B/Soul,方大同,方大同,G1389,same_artist
+ZH_HUMAN_POP_001,Human,Chinese,Pop,Jerry Huang,jerry huang,G1332,singleton
+ZH_HUMAN_RNB_045,Human,Chinese,R&B/Soul,Rainie Yang,rainie yang,G1422,singleton
+ZH_HUMAN_FOLK_012,Human,Chinese,Folk,Da Mouth,da mouth,G1248,singleton
+ZH_HUMAN_FOLK_048,Human,Chinese,Folk,Raymond Lam,raymond lam,G1273,singleton
+ZH_HUMAN_RNB_032,Human,Chinese,R&B/Soul,丁世光,丁世光,G1413,singleton
+ZH_HUMAN_POP_041,Human,Chinese,Pop,林家謙,林家謙,G1366,singleton
+ZH_HUMAN_HIPHOP_060,Human,Chinese,Hip-Hop/Rap,"404 RAPPER, 啊之 & Drunkid",404 rapper,G1331,singleton
+ZH_HUMAN_FOLK_002,Human,Chinese,Folk,Bwen & YanEr,bwen,G1242,singleton
+ZH_HUMAN_ROCK_042,Human,Chinese,Rock,溫室雜草,溫室雜草,G1466,singleton
+ZH_HUMAN_FOLK_016,Human,Chinese,Folk,靈動音樂坊 Smart.Music.Workshop,靈動音樂坊 smart.music.workshop,G1444,near_duplicate_embedding;near_duplicate_lyrics
+AI_EN_FOLK_ACOUSTIC_001,AI,English,Folk/Acoustic,,,G0295,singleton
+AI_EN_FOLK_ACOUSTIC_002,AI,English,Folk/Acoustic,,,G0296,singleton
+AI_EN_FOLK_ACOUSTIC_003,AI,English,Folk/Acoustic,,,G0297,singleton
+AI_EN_FOLK_ACOUSTIC_004,AI,English,Folk/Acoustic,,,G0298,near_duplicate_embedding;near_duplicate_lyrics
+AI_EN_FOLK_ACOUSTIC_005,AI,English,Folk/Acoustic,,,G0299,singleton
+AI_EN_FOLK_ACOUSTIC_006,AI,English,Folk/Acoustic,,,G0300,singleton
+AI_EN_FOLK_ACOUSTIC_007,AI,English,Folk/Acoustic,,,G0301,singleton
+AI_EN_FOLK_ACOUSTIC_008,AI,English,Folk/Acoustic,,,G0302,singleton
+AI_EN_FOLK_ACOUSTIC_009,AI,English,Folk/Acoustic,,,G0303,singleton
+AI_EN_FOLK_ACOUSTIC_010,AI,English,Folk/Acoustic,,,G0304,singleton
+AI_EN_FOLK_ACOUSTIC_011,AI,English,Folk/Acoustic,,,G0305,near_duplicate_embedding;near_duplicate_lyrics
+AI_EN_FOLK_ACOUSTIC_012,AI,English,Folk/Acoustic,,,G0306,singleton
+AI_EN_FOLK_ACOUSTIC_013,AI,English,Folk/Acoustic,,,G0307,singleton
+AI_EN_FOLK_ACOUSTIC_014,AI,English,Folk/Acoustic,,,G0308,singleton
+AI_EN_FOLK_ACOUSTIC_015,AI,English,Folk/Acoustic,,,G0309,singleton
+AI_EN_FOLK_ACOUSTIC_016,AI,English,Folk/Acoustic,,,G0310,singleton
+AI_EN_FOLK_ACOUSTIC_017,AI,English,Folk/Acoustic,,,G0311,singleton
+AI_EN_FOLK_ACOUSTIC_018,AI,English,Folk/Acoustic,,,G0312,singleton
+AI_EN_FOLK_ACOUSTIC_019,AI,English,Folk/Acoustic,,,G0313,singleton
+AI_EN_FOLK_ACOUSTIC_020,AI,English,Folk/Acoustic,,,G0314,singleton
+AI_EN_FOLK_ACOUSTIC_021,AI,English,Folk/Acoustic,,,G0315,singleton
+AI_EN_FOLK_ACOUSTIC_022,AI,English,Folk/Acoustic,,,G0316,singleton
+AI_EN_FOLK_ACOUSTIC_023,AI,English,Folk/Acoustic,,,G0317,singleton
+AI_EN_FOLK_ACOUSTIC_024,AI,English,Folk/Acoustic,,,G0318,singleton
+AI_EN_FOLK_ACOUSTIC_025,AI,English,Folk/Acoustic,,,G0319,singleton
+AI_EN_FOLK_ACOUSTIC_026,AI,English,Folk/Acoustic,,,G0320,singleton
+AI_EN_FOLK_ACOUSTIC_027,AI,English,Folk/Acoustic,,,G0321,singleton
+AI_EN_FOLK_ACOUSTIC_028,AI,English,Folk/Acoustic,,,G0322,singleton
+AI_EN_FOLK_ACOUSTIC_029,AI,English,Folk/Acoustic,,,G0323,singleton
+AI_EN_FOLK_ACOUSTIC_030,AI,English,Folk/Acoustic,,,G0324,singleton
+AI_EN_FOLK_ACOUSTIC_031,AI,English,Folk/Acoustic,,,G0325,singleton
+AI_EN_FOLK_ACOUSTIC_032,AI,English,Folk/Acoustic,,,G0326,singleton
+AI_EN_FOLK_ACOUSTIC_033,AI,English,Folk/Acoustic,,,G0327,singleton
+AI_EN_FOLK_ACOUSTIC_034,AI,English,Folk/Acoustic,,,G0328,singleton
+AI_EN_FOLK_ACOUSTIC_035,AI,English,Folk/Acoustic,,,G0329,singleton
+AI_EN_FOLK_ACOUSTIC_036,AI,English,Folk/Acoustic,,,G0330,singleton
+AI_EN_FOLK_ACOUSTIC_037,AI,English,Folk/Acoustic,,,G0331,singleton
+AI_EN_FOLK_ACOUSTIC_038,AI,English,Folk/Acoustic,,,G0332,singleton
+AI_EN_FOLK_ACOUSTIC_039,AI,English,Folk/Acoustic,,,G0333,singleton
+AI_EN_FOLK_ACOUSTIC_040,AI,English,Folk/Acoustic,,,G0334,singleton
+AI_EN_FOLK_ACOUSTIC_041,AI,English,Folk/Acoustic,,,G0335,singleton
+AI_EN_FOLK_ACOUSTIC_042,AI,English,Folk/Acoustic,,,G0336,singleton
+AI_EN_FOLK_ACOUSTIC_043,AI,English,Folk/Acoustic,,,G0337,singleton
+AI_EN_FOLK_ACOUSTIC_044,AI,English,Folk/Acoustic,,,G0338,singleton
+AI_EN_FOLK_ACOUSTIC_045,AI,English,Folk/Acoustic,,,G0339,singleton
+AI_EN_FOLK_ACOUSTIC_046,AI,English,Folk/Acoustic,,,G0340,singleton
+AI_EN_FOLK_ACOUSTIC_047,AI,English,Folk/Acoustic,,,G0341,singleton
+AI_EN_FOLK_ACOUSTIC_048,AI,English,Folk/Acoustic,,,G0342,singleton
+AI_EN_FOLK_ACOUSTIC_049,AI,English,Folk/Acoustic,,,G0343,singleton
+AI_EN_FOLK_ACOUSTIC_050,AI,English,Folk/Acoustic,,,G0344,singleton
+AI_EN_FOLK_ACOUSTIC_051,AI,English,Folk/Acoustic,,,G0345,singleton
+AI_EN_FOLK_ACOUSTIC_052,AI,English,Folk/Acoustic,,,G0346,singleton
+AI_EN_FOLK_ACOUSTIC_053,AI,English,Folk/Acoustic,,,G0347,singleton
+AI_EN_FOLK_ACOUSTIC_054,AI,English,Folk/Acoustic,,,G0348,singleton
+AI_EN_FOLK_ACOUSTIC_055,AI,English,Folk/Acoustic,,,G0349,singleton
+AI_EN_FOLK_ACOUSTIC_056,AI,English,Folk/Acoustic,,,G0350,singleton
+AI_EN_FOLK_ACOUSTIC_057,AI,English,Folk/Acoustic,,,G0298,near_duplicate_embedding;near_duplicate_lyrics
+AI_EN_FOLK_ACOUSTIC_058,AI,English,Folk/Acoustic,,,G0351,singleton
+AI_EN_FOLK_ACOUSTIC_059,AI,English,Folk/Acoustic,,,G0352,singleton
+AI_EN_FOLK_ACOUSTIC_060,AI,English,Folk/Acoustic,,,G0353,singleton
+AI_EN_HIP_HOP_RAP_001,AI,English,Hip-Hop/Rap,,,G0354,near_duplicate_lyrics
+AI_EN_HIP_HOP_RAP_002,AI,English,Hip-Hop/Rap,,,G0355,near_duplicate_lyrics
+AI_EN_HIP_HOP_RAP_003,AI,English,Hip-Hop/Rap,,,G0354,near_duplicate_lyrics
+AI_EN_HIP_HOP_RAP_004,AI,English,Hip-Hop/Rap,,,G0355,near_duplicate_lyrics
+AI_EN_HIP_HOP_RAP_005,AI,English,Hip-Hop/Rap,,,G0356,singleton
+AI_EN_HIP_HOP_RAP_006,AI,English,Hip-Hop/Rap,,,G0357,near_duplicate_lyrics
+AI_EN_HIP_HOP_RAP_007,AI,English,Hip-Hop/Rap,,,G0358,near_duplicate_lyrics
+AI_EN_HIP_HOP_RAP_008,AI,English,Hip-Hop/Rap,,,G0359,near_duplicate_embedding;near_duplicate_lyrics
+AI_EN_HIP_HOP_RAP_009,AI,English,Hip-Hop/Rap,,,G0360,singleton
+AI_EN_HIP_HOP_RAP_010,AI,English,Hip-Hop/Rap,,,G0359,near_duplicate_embedding;near_duplicate_lyrics
+AI_EN_HIP_HOP_RAP_011,AI,English,Hip-Hop/Rap,,,G0361,near_duplicate_lyrics
+AI_EN_HIP_HOP_RAP_012,AI,English,Hip-Hop/Rap,,,G0361,near_duplicate_lyrics
+AI_EN_HIP_HOP_RAP_013,AI,English,Hip-Hop/Rap,,,G0357,near_duplicate_lyrics
+AI_EN_HIP_HOP_RAP_014,AI,English,Hip-Hop/Rap,,,G0358,near_duplicate_lyrics
+AI_EN_HIP_HOP_RAP_015,AI,English,Hip-Hop/Rap,,,G0362,singleton
+AI_EN_HIP_HOP_RAP_016,AI,English,Hip-Hop/Rap,,,G0363,singleton
+AI_EN_HIP_HOP_RAP_017,AI,English,Hip-Hop/Rap,,,G0364,near_duplicate_lyrics
+AI_EN_HIP_HOP_RAP_018,AI,English,Hip-Hop/Rap,,,G0364,near_duplicate_lyrics
+AI_EN_HIP_HOP_RAP_019,AI,English,Hip-Hop/Rap,,,G0365,near_duplicate_lyrics
+AI_EN_HIP_HOP_RAP_020,AI,English,Hip-Hop/Rap,,,G0366,near_duplicate_embedding;near_duplicate_lyrics
+AI_EN_HIP_HOP_RAP_021,AI,English,Hip-Hop/Rap,,,G0365,near_duplicate_lyrics
+AI_EN_HIP_HOP_RAP_022,AI,English,Hip-Hop/Rap,,,G0366,near_duplicate_embedding;near_duplicate_lyrics
+AI_EN_HIP_HOP_RAP_023,AI,English,Hip-Hop/Rap,,,G0367,near_duplicate_lyrics
+AI_EN_HIP_HOP_RAP_024,AI,English,Hip-Hop/Rap,,,G0368,singleton
+AI_EN_HIP_HOP_RAP_025,AI,English,Hip-Hop/Rap,,,G0369,singleton
+AI_EN_HIP_HOP_RAP_026,AI,English,Hip-Hop/Rap,,,G0367,near_duplicate_lyrics
+AI_EN_HIP_HOP_RAP_027,AI,English,Hip-Hop/Rap,,,G0370,singleton
+AI_EN_HIP_HOP_RAP_028,AI,English,Hip-Hop/Rap,,,G0371,singleton
+AI_EN_HIP_HOP_RAP_029,AI,English,Hip-Hop/Rap,,,G0372,singleton
+AI_EN_HIP_HOP_RAP_030,AI,English,Hip-Hop/Rap,,,G0373,near_duplicate_lyrics
+AI_EN_HIP_HOP_RAP_031,AI,English,Hip-Hop/Rap,,,G0374,singleton
+AI_EN_HIP_HOP_RAP_032,AI,English,Hip-Hop/Rap,,,G0375,near_duplicate_lyrics
+AI_EN_HIP_HOP_RAP_033,AI,English,Hip-Hop/Rap,,,G0376,singleton
+AI_EN_HIP_HOP_RAP_034,AI,English,Hip-Hop/Rap,,,G0375,near_duplicate_lyrics
+AI_EN_HIP_HOP_RAP_035,AI,English,Hip-Hop/Rap,,,G0373,near_duplicate_lyrics
+AI_EN_HIP_HOP_RAP_036,AI,English,Hip-Hop/Rap,,,G0377,near_duplicate_lyrics
+AI_EN_HIP_HOP_RAP_037,AI,English,Hip-Hop/Rap,,,G0378,near_duplicate_embedding;near_duplicate_lyrics
+AI_EN_HIP_HOP_RAP_038,AI,English,Hip-Hop/Rap,,,G0379,singleton
+AI_EN_HIP_HOP_RAP_039,AI,English,Hip-Hop/Rap,,,G0378,near_duplicate_embedding;near_duplicate_lyrics
+AI_EN_HIP_HOP_RAP_040,AI,English,Hip-Hop/Rap,,,G0380,near_duplicate_lyrics
+AI_EN_HIP_HOP_RAP_041,AI,English,Hip-Hop/Rap,,,G0377,near_duplicate_lyrics
+AI_EN_HIP_HOP_RAP_042,AI,English,Hip-Hop/Rap,,,G0380,near_duplicate_lyrics
+AI_EN_HIP_HOP_RAP_043,AI,English,Hip-Hop/Rap,,,G0381,near_duplicate_embedding;near_duplicate_lyrics
+AI_EN_HIP_HOP_RAP_044,AI,English,Hip-Hop/Rap,,,G0382,near_duplicate_lyrics
+AI_EN_HIP_HOP_RAP_045,AI,English,Hip-Hop/Rap,,,G0383,singleton
+AI_EN_HIP_HOP_RAP_046,AI,English,Hip-Hop/Rap,,,G0381,near_duplicate_embedding;near_duplicate_lyrics
+AI_EN_HIP_HOP_RAP_047,AI,English,Hip-Hop/Rap,,,G0382,near_duplicate_lyrics
+AI_EN_HIP_HOP_RAP_048,AI,English,Hip-Hop/Rap,,,G0384,near_duplicate_lyrics
+AI_EN_HIP_HOP_RAP_049,AI,English,Hip-Hop/Rap,,,G0385,near_duplicate_lyrics
+AI_EN_HIP_HOP_RAP_050,AI,English,Hip-Hop/Rap,,,G0384,near_duplicate_lyrics
+AI_EN_HIP_HOP_RAP_051,AI,English,Hip-Hop/Rap,,,G0386,singleton
+AI_EN_HIP_HOP_RAP_052,AI,English,Hip-Hop/Rap,,,G0387,near_duplicate_lyrics
+AI_EN_HIP_HOP_RAP_053,AI,English,Hip-Hop/Rap,,,G0385,near_duplicate_lyrics
+AI_EN_HIP_HOP_RAP_054,AI,English,Hip-Hop/Rap,,,G0388,near_duplicate_lyrics
+AI_EN_HIP_HOP_RAP_055,AI,English,Hip-Hop/Rap,,,G0387,near_duplicate_lyrics
+AI_EN_HIP_HOP_RAP_056,AI,English,Hip-Hop/Rap,,,G0388,near_duplicate_lyrics
+AI_EN_HIP_HOP_RAP_057,AI,English,Hip-Hop/Rap,,,G0389,singleton
+AI_EN_HIP_HOP_RAP_058,AI,English,Hip-Hop/Rap,,,G0390,near_duplicate_lyrics
+AI_EN_HIP_HOP_RAP_059,AI,English,Hip-Hop/Rap,,,G0391,singleton
+AI_EN_HIP_HOP_RAP_060,AI,English,Hip-Hop/Rap,,,G0390,near_duplicate_lyrics
+AI_EN_POP_001,AI,English,Pop,,,G0392,singleton
+AI_EN_POP_002,AI,English,Pop,,,G0393,singleton
+AI_EN_POP_003,AI,English,Pop,,,G0394,singleton
+AI_EN_POP_004,AI,English,Pop,,,G0395,singleton
+AI_EN_POP_005,AI,English,Pop,,,G0396,singleton
+AI_EN_POP_006,AI,English,Pop,,,G0397,singleton
+AI_EN_POP_007,AI,English,Pop,,,G0398,singleton
+AI_EN_POP_008,AI,English,Pop,,,G0399,singleton
+AI_EN_POP_009,AI,English,Pop,,,G0400,singleton
+AI_EN_POP_010,AI,English,Pop,,,G0401,singleton
+AI_EN_POP_011,AI,English,Pop,,,G0402,singleton
+AI_EN_POP_012,AI,English,Pop,,,G0403,singleton
+AI_EN_POP_013,AI,English,Pop,,,G0404,singleton
+AI_EN_POP_014,AI,English,Pop,,,G0405,singleton
+AI_EN_POP_015,AI,English,Pop,,,G0406,near_duplicate_lyrics
+AI_EN_POP_016,AI,English,Pop,,,G0407,singleton
+AI_EN_POP_017,AI,English,Pop,,,G0408,singleton
+AI_EN_POP_018,AI,English,Pop,,,G0409,singleton
+AI_EN_POP_019,AI,English,Pop,,,G0410,singleton
+AI_EN_POP_020,AI,English,Pop,,,G0411,singleton
+AI_EN_POP_021,AI,English,Pop,,,G0412,singleton
+AI_EN_POP_022,AI,English,Pop,,,G0406,near_duplicate_lyrics
+AI_EN_POP_023,AI,English,Pop,,,G0413,singleton
+AI_EN_POP_024,AI,English,Pop,,,G0414,singleton
+AI_EN_POP_025,AI,English,Pop,,,G0415,singleton
+AI_EN_POP_026,AI,English,Pop,,,G0416,singleton
+AI_EN_POP_027,AI,English,Pop,,,G0417,near_duplicate_lyrics
+AI_EN_POP_028,AI,English,Pop,,,G0418,singleton
+AI_EN_POP_029,AI,English,Pop,,,G0419,singleton
+AI_EN_POP_030,AI,English,Pop,,,G0420,singleton
+AI_EN_POP_031,AI,English,Pop,,,G0421,singleton
+AI_EN_POP_032,AI,English,Pop,,,G0422,singleton
+AI_EN_POP_033,AI,English,Pop,,,G0423,singleton
+AI_EN_POP_034,AI,English,Pop,,,G0424,singleton
+AI_EN_POP_035,AI,English,Pop,,,G0425,singleton
+AI_EN_POP_036,AI,English,Pop,,,G0426,singleton
+AI_EN_POP_037,AI,English,Pop,,,G0427,singleton
+AI_EN_POP_038,AI,English,Pop,,,G0428,singleton
+AI_EN_POP_039,AI,English,Pop,,,G0429,singleton
+AI_EN_POP_040,AI,English,Pop,,,G0430,singleton
+AI_EN_POP_041,AI,English,Pop,,,G0431,singleton
+AI_EN_POP_042,AI,English,Pop,,,G0432,singleton
+AI_EN_POP_043,AI,English,Pop,,,G0433,singleton
+AI_EN_POP_044,AI,English,Pop,,,G0434,singleton
+AI_EN_POP_045,AI,English,Pop,,,G0435,singleton
+AI_EN_POP_046,AI,English,Pop,,,G0436,singleton
+AI_EN_POP_047,AI,English,Pop,,,G0437,singleton
+AI_EN_POP_048,AI,English,Pop,,,G0438,singleton
+AI_EN_POP_049,AI,English,Pop,,,G0439,singleton
+AI_EN_POP_050,AI,English,Pop,,,G0440,singleton
+AI_EN_POP_051,AI,English,Pop,,,G0441,singleton
+AI_EN_POP_052,AI,English,Pop,,,G0442,singleton
+AI_EN_POP_053,AI,English,Pop,,,G0443,singleton
+AI_EN_POP_054,AI,English,Pop,,,G0444,singleton
+AI_EN_POP_055,AI,English,Pop,,,G0445,singleton
+AI_EN_POP_056,AI,English,Pop,,,G0446,singleton
+AI_EN_POP_057,AI,English,Pop,,,G0417,near_duplicate_lyrics
+AI_EN_POP_058,AI,English,Pop,,,G0447,singleton
+AI_EN_POP_059,AI,English,Pop,,,G0448,singleton
+AI_EN_POP_060,AI,English,Pop,,,G0449,singleton
+AI_EN_R&B_SOUL_001,AI,English,R&B/Soul,,,G0450,near_duplicate_lyrics
+AI_EN_R&B_SOUL_002,AI,English,R&B/Soul,,,G0451,near_duplicate_lyrics
+AI_EN_R&B_SOUL_003,AI,English,R&B/Soul,,,G0452,singleton
+AI_EN_R&B_SOUL_004,AI,English,R&B/Soul,,,G0453,singleton
+AI_EN_R&B_SOUL_005,AI,English,R&B/Soul,,,G0454,near_duplicate_lyrics
+AI_EN_R&B_SOUL_006,AI,English,R&B/Soul,,,G0451,near_duplicate_lyrics
+AI_EN_R&B_SOUL_007,AI,English,R&B/Soul,,,G0455,singleton
+AI_EN_R&B_SOUL_008,AI,English,R&B/Soul,,,G0456,singleton
+AI_EN_R&B_SOUL_009,AI,English,R&B/Soul,,,G0457,near_duplicate_lyrics
+AI_EN_R&B_SOUL_010,AI,English,R&B/Soul,,,G0458,near_duplicate_lyrics
+AI_EN_R&B_SOUL_011,AI,English,R&B/Soul,,,G0459,near_duplicate_embedding;near_duplicate_lyrics
+AI_EN_R&B_SOUL_012,AI,English,R&B/Soul,,,G1121,near_duplicate_embedding;near_duplicate_lyrics
+AI_EN_R&B_SOUL_013,AI,English,R&B/Soul,,,G0460,near_duplicate_lyrics
+AI_EN_R&B_SOUL_014,AI,English,R&B/Soul,,,G0461,singleton
+AI_EN_R&B_SOUL_015,AI,English,R&B/Soul,,,G0459,near_duplicate_embedding;near_duplicate_lyrics
+AI_EN_R&B_SOUL_016,AI,English,R&B/Soul,,,G0462,singleton
+AI_EN_R&B_SOUL_017,AI,English,R&B/Soul,,,G0305,near_duplicate_embedding;near_duplicate_lyrics
+AI_EN_R&B_SOUL_018,AI,English,R&B/Soul,,,G0463,singleton
+AI_EN_R&B_SOUL_019,AI,English,R&B/Soul,,,G0464,near_duplicate_lyrics
+AI_EN_R&B_SOUL_020,AI,English,R&B/Soul,,,G0458,near_duplicate_lyrics
+AI_EN_R&B_SOUL_021,AI,English,R&B/Soul,,,G0465,near_duplicate_lyrics
+AI_EN_R&B_SOUL_022,AI,English,R&B/Soul,,,G0464,near_duplicate_lyrics
+AI_EN_R&B_SOUL_023,AI,English,R&B/Soul,,,G0466,near_duplicate_lyrics
+AI_EN_R&B_SOUL_024,AI,English,R&B/Soul,,,G0466,near_duplicate_lyrics
+AI_EN_R&B_SOUL_025,AI,English,R&B/Soul,,,G0467,singleton
+AI_EN_R&B_SOUL_026,AI,English,R&B/Soul,,,G0450,near_duplicate_lyrics
+AI_EN_R&B_SOUL_027,AI,English,R&B/Soul,,,G0457,near_duplicate_lyrics
+AI_EN_R&B_SOUL_028,AI,English,R&B/Soul,,,G0465,near_duplicate_lyrics
+AI_EN_R&B_SOUL_029,AI,English,R&B/Soul,,,G0468,singleton
+AI_EN_R&B_SOUL_030,AI,English,R&B/Soul,,,G0469,near_duplicate_embedding;near_duplicate_lyrics
+AI_EN_R&B_SOUL_031,AI,English,R&B/Soul,,,G0469,near_duplicate_embedding;near_duplicate_lyrics
+AI_EN_R&B_SOUL_032,AI,English,R&B/Soul,,,G0470,singleton
+AI_EN_R&B_SOUL_033,AI,English,R&B/Soul,,,G0471,singleton
+AI_EN_R&B_SOUL_034,AI,English,R&B/Soul,,,G0454,near_duplicate_lyrics
+AI_EN_R&B_SOUL_035,AI,English,R&B/Soul,,,G1121,near_duplicate_embedding;near_duplicate_lyrics
+AI_EN_R&B_SOUL_036,AI,English,R&B/Soul,,,G0460,near_duplicate_lyrics
+AI_EN_R&B_SOUL_037,AI,English,R&B/Soul,,,G0472,singleton
+AI_EN_R&B_SOUL_038,AI,English,R&B/Soul,,,G0473,near_duplicate_lyrics
+AI_EN_R&B_SOUL_039,AI,English,R&B/Soul,,,G0474,near_duplicate_lyrics
+AI_EN_R&B_SOUL_040,AI,English,R&B/Soul,,,G0475,near_duplicate_lyrics
+AI_EN_R&B_SOUL_041,AI,English,R&B/Soul,,,G0476,singleton
+AI_EN_R&B_SOUL_042,AI,English,R&B/Soul,,,G0477,singleton
+AI_EN_R&B_SOUL_043,AI,English,R&B/Soul,,,G0475,near_duplicate_lyrics
+AI_EN_R&B_SOUL_044,AI,English,R&B/Soul,,,G0478,singleton
+AI_EN_R&B_SOUL_045,AI,English,R&B/Soul,,,G0479,singleton
+AI_EN_R&B_SOUL_046,AI,English,R&B/Soul,,,G0480,singleton
+AI_EN_R&B_SOUL_047,AI,English,R&B/Soul,,,G0481,singleton
+AI_EN_R&B_SOUL_048,AI,English,R&B/Soul,,,G0482,singleton
+AI_EN_R&B_SOUL_049,AI,English,R&B/Soul,,,G0483,singleton
+AI_EN_R&B_SOUL_050,AI,English,R&B/Soul,,,G0484,singleton
+AI_EN_R&B_SOUL_051,AI,English,R&B/Soul,,,G0473,near_duplicate_lyrics
+AI_EN_R&B_SOUL_052,AI,English,R&B/Soul,,,G0485,singleton
+AI_EN_R&B_SOUL_053,AI,English,R&B/Soul,,,G0486,singleton
+AI_EN_R&B_SOUL_054,AI,English,R&B/Soul,,,G0487,singleton
+AI_EN_R&B_SOUL_055,AI,English,R&B/Soul,,,G0488,singleton
+AI_EN_R&B_SOUL_056,AI,English,R&B/Soul,,,G0474,near_duplicate_lyrics
+AI_EN_R&B_SOUL_057,AI,English,R&B/Soul,,,G0489,singleton
+AI_EN_R&B_SOUL_058,AI,English,R&B/Soul,,,G0490,singleton
+AI_EN_R&B_SOUL_059,AI,English,R&B/Soul,,,G0491,singleton
+AI_EN_R&B_SOUL_060,AI,English,R&B/Soul,,,G0492,singleton
+AI_EN_ROCK_001,AI,English,Rock,,,G0493,singleton
+AI_EN_ROCK_002,AI,English,Rock,,,G1121,near_duplicate_embedding;near_duplicate_lyrics
+AI_EN_ROCK_003,AI,English,Rock,,,G0494,near_duplicate_embedding;near_duplicate_lyrics
+AI_EN_ROCK_004,AI,English,Rock,,,G0495,singleton
+AI_EN_ROCK_005,AI,English,Rock,,,G0496,singleton
+AI_EN_ROCK_006,AI,English,Rock,,,G0497,singleton
+AI_EN_ROCK_007,AI,English,Rock,,,G0498,singleton
+AI_EN_ROCK_008,AI,English,Rock,,,G0499,singleton
+AI_EN_ROCK_009,AI,English,Rock,,,G1121,near_duplicate_embedding;near_duplicate_lyrics
+AI_EN_ROCK_010,AI,English,Rock,,,G0500,singleton
+AI_EN_ROCK_011,AI,English,Rock,,,G0501,singleton
+AI_EN_ROCK_012,AI,English,Rock,,,G0502,singleton
+AI_EN_ROCK_013,AI,English,Rock,,,G0503,near_duplicate_embedding;near_duplicate_lyrics
+AI_EN_ROCK_014,AI,English,Rock,,,G0504,singleton
+AI_EN_ROCK_015,AI,English,Rock,,,G0505,singleton
+AI_EN_ROCK_016,AI,English,Rock,,,G0506,singleton
+AI_EN_ROCK_017,AI,English,Rock,,,G0507,singleton
+AI_EN_ROCK_018,AI,English,Rock,,,G0508,singleton
+AI_EN_ROCK_019,AI,English,Rock,,,G0509,singleton
+AI_EN_ROCK_020,AI,English,Rock,,,G0510,singleton
+AI_EN_ROCK_021,AI,English,Rock,,,G0503,near_duplicate_embedding;near_duplicate_lyrics
+AI_EN_ROCK_022,AI,English,Rock,,,G0494,near_duplicate_embedding;near_duplicate_lyrics
+AI_EN_ROCK_023,AI,English,Rock,,,G0511,singleton
+AI_EN_ROCK_024,AI,English,Rock,,,G0512,singleton
+AI_EN_ROCK_025,AI,English,Rock,,,G0513,singleton
+AI_EN_ROCK_026,AI,English,Rock,,,G0514,singleton
+AI_EN_ROCK_027,AI,English,Rock,,,G0515,singleton
+AI_EN_ROCK_028,AI,English,Rock,,,G0516,singleton
+AI_EN_ROCK_029,AI,English,Rock,,,G0517,singleton
+AI_EN_ROCK_030,AI,English,Rock,,,G0518,singleton
+AI_EN_ROCK_031,AI,English,Rock,,,G0519,singleton
+AI_EN_ROCK_032,AI,English,Rock,,,G0520,singleton
+AI_EN_ROCK_033,AI,English,Rock,,,G0521,near_duplicate_lyrics
+AI_EN_ROCK_034,AI,English,Rock,,,G0521,near_duplicate_lyrics
+AI_EN_ROCK_035,AI,English,Rock,,,G0522,singleton
+AI_EN_ROCK_036,AI,English,Rock,,,G0523,singleton
+AI_EN_ROCK_037,AI,English,Rock,,,G0524,singleton
+AI_EN_ROCK_038,AI,English,Rock,,,G0525,singleton
+AI_EN_ROCK_039,AI,English,Rock,,,G0526,singleton
+AI_EN_ROCK_040,AI,English,Rock,,,G0527,singleton
+AI_EN_ROCK_041,AI,English,Rock,,,G0528,singleton
+AI_EN_ROCK_042,AI,English,Rock,,,G0529,singleton
+AI_EN_ROCK_043,AI,English,Rock,,,G0530,singleton
+AI_EN_ROCK_044,AI,English,Rock,,,G0531,singleton
+AI_EN_ROCK_045,AI,English,Rock,,,G0532,singleton
+AI_EN_ROCK_046,AI,English,Rock,,,G0533,singleton
+AI_EN_ROCK_047,AI,English,Rock,,,G0534,singleton
+AI_EN_ROCK_048,AI,English,Rock,,,G0535,singleton
+AI_EN_ROCK_049,AI,English,Rock,,,G0536,singleton
+AI_EN_ROCK_050,AI,English,Rock,,,G0537,singleton
+AI_EN_ROCK_051,AI,English,Rock,,,G1121,near_duplicate_embedding;near_duplicate_lyrics
+AI_EN_ROCK_052,AI,English,Rock,,,G0538,singleton
+AI_EN_ROCK_053,AI,English,Rock,,,G0539,singleton
+AI_EN_ROCK_054,AI,English,Rock,,,G0540,singleton
+AI_EN_ROCK_055,AI,English,Rock,,,G0541,singleton
+AI_EN_ROCK_056,AI,English,Rock,,,G0542,singleton
+AI_EN_ROCK_057,AI,English,Rock,,,G0543,singleton
+AI_EN_ROCK_058,AI,English,Rock,,,G0544,singleton
+AI_EN_ROCK_059,AI,English,Rock,,,G0545,singleton
+AI_EN_ROCK_060,AI,English,Rock,,,G0546,singleton
+AI_CN_FOLK_ACOUSTIC_001,AI,Chinese,Folk/Acoustic,,,G0000,singleton
+AI_CN_FOLK_ACOUSTIC_002,AI,Chinese,Folk/Acoustic,,,G0001,singleton
+AI_CN_FOLK_ACOUSTIC_003,AI,Chinese,Folk/Acoustic,,,G0002,singleton
+AI_CN_FOLK_ACOUSTIC_004,AI,Chinese,Folk/Acoustic,,,G0003,singleton
+AI_CN_FOLK_ACOUSTIC_005,AI,Chinese,Folk/Acoustic,,,G0004,singleton
+AI_CN_FOLK_ACOUSTIC_006,AI,Chinese,Folk/Acoustic,,,G0005,singleton
+AI_CN_FOLK_ACOUSTIC_007,AI,Chinese,Folk/Acoustic,,,G0006,singleton
+AI_CN_FOLK_ACOUSTIC_008,AI,Chinese,Folk/Acoustic,,,G0007,singleton
+AI_CN_FOLK_ACOUSTIC_009,AI,Chinese,Folk/Acoustic,,,G0008,singleton
+AI_CN_FOLK_ACOUSTIC_010,AI,Chinese,Folk/Acoustic,,,G0009,singleton
+AI_CN_FOLK_ACOUSTIC_011,AI,Chinese,Folk/Acoustic,,,G0010,singleton
+AI_CN_FOLK_ACOUSTIC_012,AI,Chinese,Folk/Acoustic,,,G0011,near_duplicate_embedding;near_duplicate_lyrics
+AI_CN_FOLK_ACOUSTIC_013,AI,Chinese,Folk/Acoustic,,,G0012,singleton
+AI_CN_FOLK_ACOUSTIC_014,AI,Chinese,Folk/Acoustic,,,G0013,singleton
+AI_CN_FOLK_ACOUSTIC_015,AI,Chinese,Folk/Acoustic,,,G0014,near_duplicate_lyrics
+AI_CN_FOLK_ACOUSTIC_016,AI,Chinese,Folk/Acoustic,,,G0015,singleton
+AI_CN_FOLK_ACOUSTIC_017,AI,Chinese,Folk/Acoustic,,,G0016,singleton
+AI_CN_FOLK_ACOUSTIC_018,AI,Chinese,Folk/Acoustic,,,G0017,singleton
+AI_CN_FOLK_ACOUSTIC_019,AI,Chinese,Folk/Acoustic,,,G0018,singleton
+AI_CN_FOLK_ACOUSTIC_020,AI,Chinese,Folk/Acoustic,,,G0019,singleton
+AI_CN_FOLK_ACOUSTIC_021,AI,Chinese,Folk/Acoustic,,,G0020,singleton
+AI_CN_FOLK_ACOUSTIC_022,AI,Chinese,Folk/Acoustic,,,G0021,singleton
+AI_CN_FOLK_ACOUSTIC_023,AI,Chinese,Folk/Acoustic,,,G0011,near_duplicate_embedding;near_duplicate_lyrics
+AI_CN_FOLK_ACOUSTIC_024,AI,Chinese,Folk/Acoustic,,,G0022,singleton
+AI_CN_FOLK_ACOUSTIC_025,AI,Chinese,Folk/Acoustic,,,G0023,singleton
+AI_CN_FOLK_ACOUSTIC_026,AI,Chinese,Folk/Acoustic,,,G0024,singleton
+AI_CN_FOLK_ACOUSTIC_027,AI,Chinese,Folk/Acoustic,,,G0025,singleton
+AI_CN_FOLK_ACOUSTIC_028,AI,Chinese,Folk/Acoustic,,,G0026,singleton
+AI_CN_FOLK_ACOUSTIC_029,AI,Chinese,Folk/Acoustic,,,G0027,singleton
+AI_CN_FOLK_ACOUSTIC_030,AI,Chinese,Folk/Acoustic,,,G0028,singleton
+AI_CN_FOLK_ACOUSTIC_031,AI,Chinese,Folk/Acoustic,,,G0029,singleton
+AI_CN_FOLK_ACOUSTIC_032,AI,Chinese,Folk/Acoustic,,,G0030,singleton
+AI_CN_FOLK_ACOUSTIC_033,AI,Chinese,Folk/Acoustic,,,G0031,singleton
+AI_CN_FOLK_ACOUSTIC_034,AI,Chinese,Folk/Acoustic,,,G0032,singleton
+AI_CN_FOLK_ACOUSTIC_035,AI,Chinese,Folk/Acoustic,,,G0033,singleton
+AI_CN_FOLK_ACOUSTIC_036,AI,Chinese,Folk/Acoustic,,,G0034,singleton
+AI_CN_FOLK_ACOUSTIC_037,AI,Chinese,Folk/Acoustic,,,G0035,singleton
+AI_CN_FOLK_ACOUSTIC_038,AI,Chinese,Folk/Acoustic,,,G0036,singleton
+AI_CN_FOLK_ACOUSTIC_039,AI,Chinese,Folk/Acoustic,,,G0037,singleton
+AI_CN_FOLK_ACOUSTIC_040,AI,Chinese,Folk/Acoustic,,,G0038,singleton
+AI_CN_FOLK_ACOUSTIC_041,AI,Chinese,Folk/Acoustic,,,G0039,singleton
+AI_CN_FOLK_ACOUSTIC_042,AI,Chinese,Folk/Acoustic,,,G0040,singleton
+AI_CN_FOLK_ACOUSTIC_043,AI,Chinese,Folk/Acoustic,,,G0041,singleton
+AI_CN_FOLK_ACOUSTIC_044,AI,Chinese,Folk/Acoustic,,,G0042,singleton
+AI_CN_FOLK_ACOUSTIC_045,AI,Chinese,Folk/Acoustic,,,G0043,singleton
+AI_CN_FOLK_ACOUSTIC_046,AI,Chinese,Folk/Acoustic,,,G0044,singleton
+AI_CN_FOLK_ACOUSTIC_047,AI,Chinese,Folk/Acoustic,,,G0045,singleton
+AI_CN_FOLK_ACOUSTIC_048,AI,Chinese,Folk/Acoustic,,,G0046,singleton
+AI_CN_FOLK_ACOUSTIC_049,AI,Chinese,Folk/Acoustic,,,G0047,singleton
+AI_CN_FOLK_ACOUSTIC_050,AI,Chinese,Folk/Acoustic,,,G0048,singleton
+AI_CN_FOLK_ACOUSTIC_051,AI,Chinese,Folk/Acoustic,,,G0049,singleton
+AI_CN_FOLK_ACOUSTIC_052,AI,Chinese,Folk/Acoustic,,,G0050,singleton
+AI_CN_FOLK_ACOUSTIC_053,AI,Chinese,Folk/Acoustic,,,G0051,singleton
+AI_CN_FOLK_ACOUSTIC_054,AI,Chinese,Folk/Acoustic,,,G0052,singleton
+AI_CN_FOLK_ACOUSTIC_055,AI,Chinese,Folk/Acoustic,,,G0053,singleton
+AI_CN_FOLK_ACOUSTIC_056,AI,Chinese,Folk/Acoustic,,,G0054,singleton
+AI_CN_FOLK_ACOUSTIC_057,AI,Chinese,Folk/Acoustic,,,G0055,singleton
+AI_CN_FOLK_ACOUSTIC_058,AI,Chinese,Folk/Acoustic,,,G0056,singleton
+AI_CN_FOLK_ACOUSTIC_059,AI,Chinese,Folk/Acoustic,,,G0057,singleton
+AI_CN_FOLK_ACOUSTIC_060,AI,Chinese,Folk/Acoustic,,,G0058,singleton
+AI_CN_HIP_HOP_RAP_001,AI,Chinese,Hip-Hop/Rap,,,G0059,singleton
+AI_CN_HIP_HOP_RAP_002,AI,Chinese,Hip-Hop/Rap,,,G0060,singleton
+AI_CN_HIP_HOP_RAP_003,AI,Chinese,Hip-Hop/Rap,,,G0061,singleton
+AI_CN_HIP_HOP_RAP_004,AI,Chinese,Hip-Hop/Rap,,,G0062,singleton
+AI_CN_HIP_HOP_RAP_005,AI,Chinese,Hip-Hop/Rap,,,G0063,singleton
+AI_CN_HIP_HOP_RAP_006,AI,Chinese,Hip-Hop/Rap,,,G0064,singleton
+AI_CN_HIP_HOP_RAP_007,AI,Chinese,Hip-Hop/Rap,,,G0065,singleton
+AI_CN_HIP_HOP_RAP_008,AI,Chinese,Hip-Hop/Rap,,,G0066,singleton
+AI_CN_HIP_HOP_RAP_009,AI,Chinese,Hip-Hop/Rap,,,G0067,singleton
+AI_CN_HIP_HOP_RAP_010,AI,Chinese,Hip-Hop/Rap,,,G0068,singleton
+AI_CN_HIP_HOP_RAP_011,AI,Chinese,Hip-Hop/Rap,,,G0069,singleton
+AI_CN_HIP_HOP_RAP_012,AI,Chinese,Hip-Hop/Rap,,,G0070,singleton
+AI_CN_HIP_HOP_RAP_013,AI,Chinese,Hip-Hop/Rap,,,G0071,singleton
+AI_CN_HIP_HOP_RAP_014,AI,Chinese,Hip-Hop/Rap,,,G0072,singleton
+AI_CN_HIP_HOP_RAP_015,AI,Chinese,Hip-Hop/Rap,,,G0073,singleton
+AI_CN_HIP_HOP_RAP_016,AI,Chinese,Hip-Hop/Rap,,,G0074,singleton
+AI_CN_HIP_HOP_RAP_017,AI,Chinese,Hip-Hop/Rap,,,G0075,singleton
+AI_CN_HIP_HOP_RAP_018,AI,Chinese,Hip-Hop/Rap,,,G0076,singleton
+AI_CN_HIP_HOP_RAP_019,AI,Chinese,Hip-Hop/Rap,,,G0077,singleton
+AI_CN_HIP_HOP_RAP_020,AI,Chinese,Hip-Hop/Rap,,,G0078,singleton
+AI_CN_HIP_HOP_RAP_021,AI,Chinese,Hip-Hop/Rap,,,G0079,singleton
+AI_CN_HIP_HOP_RAP_022,AI,Chinese,Hip-Hop/Rap,,,G0080,singleton
+AI_CN_HIP_HOP_RAP_023,AI,Chinese,Hip-Hop/Rap,,,G0081,singleton
+AI_CN_HIP_HOP_RAP_024,AI,Chinese,Hip-Hop/Rap,,,G0082,singleton
+AI_CN_HIP_HOP_RAP_025,AI,Chinese,Hip-Hop/Rap,,,G0083,singleton
+AI_CN_HIP_HOP_RAP_026,AI,Chinese,Hip-Hop/Rap,,,G0084,singleton
+AI_CN_HIP_HOP_RAP_027,AI,Chinese,Hip-Hop/Rap,,,G0085,singleton
+AI_CN_HIP_HOP_RAP_028,AI,Chinese,Hip-Hop/Rap,,,G0086,singleton
+AI_CN_HIP_HOP_RAP_029,AI,Chinese,Hip-Hop/Rap,,,G0087,singleton
+AI_CN_HIP_HOP_RAP_030,AI,Chinese,Hip-Hop/Rap,,,G0088,singleton
+AI_CN_HIP_HOP_RAP_031,AI,Chinese,Hip-Hop/Rap,,,G0089,singleton
+AI_CN_HIP_HOP_RAP_032,AI,Chinese,Hip-Hop/Rap,,,G0090,singleton
+AI_CN_HIP_HOP_RAP_033,AI,Chinese,Hip-Hop/Rap,,,G0091,singleton
+AI_CN_HIP_HOP_RAP_034,AI,Chinese,Hip-Hop/Rap,,,G0092,singleton
+AI_CN_HIP_HOP_RAP_035,AI,Chinese,Hip-Hop/Rap,,,G0093,singleton
+AI_CN_HIP_HOP_RAP_036,AI,Chinese,Hip-Hop/Rap,,,G0094,singleton
+AI_CN_HIP_HOP_RAP_037,AI,Chinese,Hip-Hop/Rap,,,G0095,singleton
+AI_CN_HIP_HOP_RAP_038,AI,Chinese,Hip-Hop/Rap,,,G0096,singleton
+AI_CN_HIP_HOP_RAP_039,AI,Chinese,Hip-Hop/Rap,,,G0097,singleton
+AI_CN_HIP_HOP_RAP_040,AI,Chinese,Hip-Hop/Rap,,,G0098,singleton
+AI_CN_HIP_HOP_RAP_041,AI,Chinese,Hip-Hop/Rap,,,G0099,singleton
+AI_CN_HIP_HOP_RAP_042,AI,Chinese,Hip-Hop/Rap,,,G0100,singleton
+AI_CN_HIP_HOP_RAP_044,AI,Chinese,Hip-Hop/Rap,,,G0101,singleton
+AI_CN_HIP_HOP_RAP_045,AI,Chinese,Hip-Hop/Rap,,,G0102,singleton
+AI_CN_HIP_HOP_RAP_046,AI,Chinese,Hip-Hop/Rap,,,G0103,singleton
+AI_CN_HIP_HOP_RAP_047,AI,Chinese,Hip-Hop/Rap,,,G0104,singleton
+AI_CN_HIP_HOP_RAP_048,AI,Chinese,Hip-Hop/Rap,,,G0105,singleton
+AI_CN_HIP_HOP_RAP_049,AI,Chinese,Hip-Hop/Rap,,,G0106,singleton
+AI_CN_HIP_HOP_RAP_050,AI,Chinese,Hip-Hop/Rap,,,G0107,singleton
+AI_CN_HIP_HOP_RAP_051,AI,Chinese,Hip-Hop/Rap,,,G0108,singleton
+AI_CN_HIP_HOP_RAP_052,AI,Chinese,Hip-Hop/Rap,,,G0109,singleton
+AI_CN_HIP_HOP_RAP_053,AI,Chinese,Hip-Hop/Rap,,,G0110,singleton
+AI_CN_HIP_HOP_RAP_054,AI,Chinese,Hip-Hop/Rap,,,G0111,singleton
+AI_CN_HIP_HOP_RAP_055,AI,Chinese,Hip-Hop/Rap,,,G0112,singleton
+AI_CN_HIP_HOP_RAP_056,AI,Chinese,Hip-Hop/Rap,,,G0113,singleton
+AI_CN_HIP_HOP_RAP_057,AI,Chinese,Hip-Hop/Rap,,,G0114,singleton
+AI_CN_HIP_HOP_RAP_058,AI,Chinese,Hip-Hop/Rap,,,G0115,singleton
+AI_CN_HIP_HOP_RAP_059,AI,Chinese,Hip-Hop/Rap,,,G0116,singleton
+AI_CN_HIP_HOP_RAP_060,AI,Chinese,Hip-Hop/Rap,,,G0117,singleton
+AI_CN_POP_001,AI,Chinese,Pop,,,G0118,singleton
+AI_CN_POP_002,AI,Chinese,Pop,,,G0119,singleton
+AI_CN_POP_003,AI,Chinese,Pop,,,G0120,singleton
+AI_CN_POP_004,AI,Chinese,Pop,,,G0121,singleton
+AI_CN_POP_005,AI,Chinese,Pop,,,G0122,singleton
+AI_CN_POP_006,AI,Chinese,Pop,,,G0123,singleton
+AI_CN_POP_007,AI,Chinese,Pop,,,G0124,singleton
+AI_CN_POP_008,AI,Chinese,Pop,,,G0125,singleton
+AI_CN_POP_009,AI,Chinese,Pop,,,G0126,singleton
+AI_CN_POP_010,AI,Chinese,Pop,,,G0127,singleton
+AI_CN_POP_011,AI,Chinese,Pop,,,G0128,singleton
+AI_CN_POP_012,AI,Chinese,Pop,,,G0129,singleton
+AI_CN_POP_013,AI,Chinese,Pop,,,G0130,singleton
+AI_CN_POP_014,AI,Chinese,Pop,,,G0131,singleton
+AI_CN_POP_015,AI,Chinese,Pop,,,G0132,singleton
+AI_CN_POP_016,AI,Chinese,Pop,,,G0133,singleton
+AI_CN_POP_017,AI,Chinese,Pop,,,G0134,singleton
+AI_CN_POP_018,AI,Chinese,Pop,,,G0135,singleton
+AI_CN_POP_019,AI,Chinese,Pop,,,G0136,singleton
+AI_CN_POP_020,AI,Chinese,Pop,,,G0137,singleton
+AI_CN_POP_021,AI,Chinese,Pop,,,G0138,singleton
+AI_CN_POP_022,AI,Chinese,Pop,,,G0139,singleton
+AI_CN_POP_023,AI,Chinese,Pop,,,G0140,singleton
+AI_CN_POP_024,AI,Chinese,Pop,,,G0141,singleton
+AI_CN_POP_025,AI,Chinese,Pop,,,G0142,singleton
+AI_CN_POP_026,AI,Chinese,Pop,,,G0143,singleton
+AI_CN_POP_027,AI,Chinese,Pop,,,G0144,singleton
+AI_CN_POP_028,AI,Chinese,Pop,,,G0145,singleton
+AI_CN_POP_029,AI,Chinese,Pop,,,G0146,singleton
+AI_CN_POP_030,AI,Chinese,Pop,,,G0147,singleton
+AI_CN_POP_031,AI,Chinese,Pop,,,G0148,singleton
+AI_CN_POP_032,AI,Chinese,Pop,,,G0149,singleton
+AI_CN_POP_033,AI,Chinese,Pop,,,G0150,singleton
+AI_CN_POP_034,AI,Chinese,Pop,,,G0151,singleton
+AI_CN_POP_035,AI,Chinese,Pop,,,G0152,singleton
+AI_CN_POP_036,AI,Chinese,Pop,,,G0153,singleton
+AI_CN_POP_037,AI,Chinese,Pop,,,G0154,singleton
+AI_CN_POP_038,AI,Chinese,Pop,,,G0155,singleton
+AI_CN_POP_039,AI,Chinese,Pop,,,G0156,singleton
+AI_CN_POP_040,AI,Chinese,Pop,,,G0157,singleton
+AI_CN_POP_041,AI,Chinese,Pop,,,G0158,near_duplicate_embedding;near_duplicate_lyrics
+AI_CN_POP_042,AI,Chinese,Pop,,,G0159,singleton
+AI_CN_POP_043,AI,Chinese,Pop,,,G0160,singleton
+AI_CN_POP_044,AI,Chinese,Pop,,,G0161,singleton
+AI_CN_POP_045,AI,Chinese,Pop,,,G0162,singleton
+AI_CN_POP_046,AI,Chinese,Pop,,,G0163,singleton
+AI_CN_POP_047,AI,Chinese,Pop,,,G0164,singleton
+AI_CN_POP_048,AI,Chinese,Pop,,,G0165,singleton
+AI_CN_POP_049,AI,Chinese,Pop,,,G0166,singleton
+AI_CN_POP_050,AI,Chinese,Pop,,,G0167,singleton
+AI_CN_POP_051,AI,Chinese,Pop,,,G0168,singleton
+AI_CN_POP_052,AI,Chinese,Pop,,,G0169,singleton
+AI_CN_POP_053,AI,Chinese,Pop,,,G0170,singleton
+AI_CN_POP_054,AI,Chinese,Pop,,,G0014,near_duplicate_lyrics
+AI_CN_POP_055,AI,Chinese,Pop,,,G0171,singleton
+AI_CN_POP_056,AI,Chinese,Pop,,,G0172,singleton
+AI_CN_POP_057,AI,Chinese,Pop,,,G0158,near_duplicate_embedding;near_duplicate_lyrics
+AI_CN_POP_058,AI,Chinese,Pop,,,G0173,singleton
+AI_CN_POP_059,AI,Chinese,Pop,,,G0174,singleton
+AI_CN_POP_060,AI,Chinese,Pop,,,G0175,singleton
+AI_CN_R&B_SOUL_001,AI,Chinese,R&B/Soul,,,G0176,singleton
+AI_CN_R&B_SOUL_002,AI,Chinese,R&B/Soul,,,G0177,singleton
+AI_CN_R&B_SOUL_003,AI,Chinese,R&B/Soul,,,G0178,singleton
+AI_CN_R&B_SOUL_004,AI,Chinese,R&B/Soul,,,G0179,singleton
+AI_CN_R&B_SOUL_005,AI,Chinese,R&B/Soul,,,G0180,singleton
+AI_CN_R&B_SOUL_006,AI,Chinese,R&B/Soul,,,G0181,singleton
+AI_CN_R&B_SOUL_007,AI,Chinese,R&B/Soul,,,G0182,singleton
+AI_CN_R&B_SOUL_008,AI,Chinese,R&B/Soul,,,G0183,singleton
+AI_CN_R&B_SOUL_009,AI,Chinese,R&B/Soul,,,G0184,singleton
+AI_CN_R&B_SOUL_010,AI,Chinese,R&B/Soul,,,G0185,singleton
+AI_CN_R&B_SOUL_011,AI,Chinese,R&B/Soul,,,G0186,singleton
+AI_CN_R&B_SOUL_012,AI,Chinese,R&B/Soul,,,G0187,singleton
+AI_CN_R&B_SOUL_013,AI,Chinese,R&B/Soul,,,G0188,singleton
+AI_CN_R&B_SOUL_014,AI,Chinese,R&B/Soul,,,G0189,singleton
+AI_CN_R&B_SOUL_015,AI,Chinese,R&B/Soul,,,G0190,singleton
+AI_CN_R&B_SOUL_016,AI,Chinese,R&B/Soul,,,G0191,singleton
+AI_CN_R&B_SOUL_017,AI,Chinese,R&B/Soul,,,G0192,singleton
+AI_CN_R&B_SOUL_018,AI,Chinese,R&B/Soul,,,G0193,singleton
+AI_CN_R&B_SOUL_019,AI,Chinese,R&B/Soul,,,G0194,singleton
+AI_CN_R&B_SOUL_020,AI,Chinese,R&B/Soul,,,G0195,singleton
+AI_CN_R&B_SOUL_021,AI,Chinese,R&B/Soul,,,G0196,singleton
+AI_CN_R&B_SOUL_022,AI,Chinese,R&B/Soul,,,G0197,singleton
+AI_CN_R&B_SOUL_023,AI,Chinese,R&B/Soul,,,G0198,singleton
+AI_CN_R&B_SOUL_024,AI,Chinese,R&B/Soul,,,G0199,singleton
+AI_CN_R&B_SOUL_025,AI,Chinese,R&B/Soul,,,G0200,singleton
+AI_CN_R&B_SOUL_026,AI,Chinese,R&B/Soul,,,G0201,singleton
+AI_CN_R&B_SOUL_027,AI,Chinese,R&B/Soul,,,G0202,singleton
+AI_CN_R&B_SOUL_028,AI,Chinese,R&B/Soul,,,G0203,singleton
+AI_CN_R&B_SOUL_029,AI,Chinese,R&B/Soul,,,G0204,singleton
+AI_CN_R&B_SOUL_030,AI,Chinese,R&B/Soul,,,G0205,singleton
+AI_CN_R&B_SOUL_031,AI,Chinese,R&B/Soul,,,G0206,singleton
+AI_CN_R&B_SOUL_032,AI,Chinese,R&B/Soul,,,G0207,singleton
+AI_CN_R&B_SOUL_033,AI,Chinese,R&B/Soul,,,G0208,singleton
+AI_CN_R&B_SOUL_034,AI,Chinese,R&B/Soul,,,G0209,singleton
+AI_CN_R&B_SOUL_035,AI,Chinese,R&B/Soul,,,G0210,singleton
+AI_CN_R&B_SOUL_036,AI,Chinese,R&B/Soul,,,G0211,singleton
+AI_CN_R&B_SOUL_037,AI,Chinese,R&B/Soul,,,G0212,singleton
+AI_CN_R&B_SOUL_038,AI,Chinese,R&B/Soul,,,G0213,singleton
+AI_CN_R&B_SOUL_039,AI,Chinese,R&B/Soul,,,G0214,singleton
+AI_CN_R&B_SOUL_040,AI,Chinese,R&B/Soul,,,G0215,singleton
+AI_CN_R&B_SOUL_041,AI,Chinese,R&B/Soul,,,G0216,singleton
+AI_CN_R&B_SOUL_042,AI,Chinese,R&B/Soul,,,G0217,singleton
+AI_CN_R&B_SOUL_043,AI,Chinese,R&B/Soul,,,G0218,singleton
+AI_CN_R&B_SOUL_044,AI,Chinese,R&B/Soul,,,G0219,singleton
+AI_CN_R&B_SOUL_045,AI,Chinese,R&B/Soul,,,G0220,singleton
+AI_CN_R&B_SOUL_046,AI,Chinese,R&B/Soul,,,G0221,singleton
+AI_CN_R&B_SOUL_047,AI,Chinese,R&B/Soul,,,G0222,singleton
+AI_CN_R&B_SOUL_048,AI,Chinese,R&B/Soul,,,G0223,singleton
+AI_CN_R&B_SOUL_049,AI,Chinese,R&B/Soul,,,G0224,singleton
+AI_CN_R&B_SOUL_050,AI,Chinese,R&B/Soul,,,G0225,singleton
+AI_CN_R&B_SOUL_051,AI,Chinese,R&B/Soul,,,G0226,singleton
+AI_CN_R&B_SOUL_052,AI,Chinese,R&B/Soul,,,G0227,singleton
+AI_CN_R&B_SOUL_053,AI,Chinese,R&B/Soul,,,G0228,singleton
+AI_CN_R&B_SOUL_054,AI,Chinese,R&B/Soul,,,G0229,singleton
+AI_CN_R_B_SOUL_001,AI,Chinese,R&B/Soul,,,G0289,singleton
+AI_CN_R_B_SOUL_002,AI,Chinese,R&B/Soul,,,G0290,singleton
+AI_CN_R_B_SOUL_003,AI,Chinese,R&B/Soul,,,G0291,singleton
+AI_CN_R_B_SOUL_004,AI,Chinese,R&B/Soul,,,G0292,singleton
+AI_CN_R_B_SOUL_005,AI,Chinese,R&B/Soul,,,G0293,singleton
+AI_CN_R_B_SOUL_006,AI,Chinese,R&B/Soul,,,G0294,singleton
+AI_CN_ROCK_001,AI,Chinese,Rock,,,G0230,singleton
+AI_CN_ROCK_002,AI,Chinese,Rock,,,G0231,singleton
+AI_CN_ROCK_003,AI,Chinese,Rock,,,G0232,singleton
+AI_CN_ROCK_004,AI,Chinese,Rock,,,G0233,singleton
+AI_CN_ROCK_005,AI,Chinese,Rock,,,G0234,singleton
+AI_CN_ROCK_006,AI,Chinese,Rock,,,G0235,singleton
+AI_CN_ROCK_007,AI,Chinese,Rock,,,G0236,singleton
+AI_CN_ROCK_008,AI,Chinese,Rock,,,G0237,singleton
+AI_CN_ROCK_009,AI,Chinese,Rock,,,G0238,singleton
+AI_CN_ROCK_010,AI,Chinese,Rock,,,G0239,singleton
+AI_CN_ROCK_011,AI,Chinese,Rock,,,G0240,singleton
+AI_CN_ROCK_012,AI,Chinese,Rock,,,G0241,singleton
+AI_CN_ROCK_013,AI,Chinese,Rock,,,G0242,singleton
+AI_CN_ROCK_014,AI,Chinese,Rock,,,G0243,singleton
+AI_CN_ROCK_015,AI,Chinese,Rock,,,G0244,singleton
+AI_CN_ROCK_016,AI,Chinese,Rock,,,G0245,singleton
+AI_CN_ROCK_017,AI,Chinese,Rock,,,G0246,singleton
+AI_CN_ROCK_018,AI,Chinese,Rock,,,G0247,singleton
+AI_CN_ROCK_019,AI,Chinese,Rock,,,G0248,singleton
+AI_CN_ROCK_020,AI,Chinese,Rock,,,G0249,singleton
+AI_CN_ROCK_021,AI,Chinese,Rock,,,G0250,singleton
+AI_CN_ROCK_022,AI,Chinese,Rock,,,G0251,singleton
+AI_CN_ROCK_023,AI,Chinese,Rock,,,G0252,singleton
+AI_CN_ROCK_024,AI,Chinese,Rock,,,G0253,singleton
+AI_CN_ROCK_025,AI,Chinese,Rock,,,G0254,singleton
+AI_CN_ROCK_026,AI,Chinese,Rock,,,G0255,singleton
+AI_CN_ROCK_027,AI,Chinese,Rock,,,G0256,singleton
+AI_CN_ROCK_028,AI,Chinese,Rock,,,G0257,singleton
+AI_CN_ROCK_029,AI,Chinese,Rock,,,G0258,near_duplicate_embedding;near_duplicate_lyrics
+AI_CN_ROCK_030,AI,Chinese,Rock,,,G0259,singleton
+AI_CN_ROCK_031,AI,Chinese,Rock,,,G0260,singleton
+AI_CN_ROCK_032,AI,Chinese,Rock,,,G0258,near_duplicate_embedding;near_duplicate_lyrics
+AI_CN_ROCK_033,AI,Chinese,Rock,,,G0261,singleton
+AI_CN_ROCK_034,AI,Chinese,Rock,,,G0262,singleton
+AI_CN_ROCK_035,AI,Chinese,Rock,,,G0263,singleton
+AI_CN_ROCK_036,AI,Chinese,Rock,,,G0264,singleton
+AI_CN_ROCK_037,AI,Chinese,Rock,,,G0265,singleton
+AI_CN_ROCK_038,AI,Chinese,Rock,,,G0266,singleton
+AI_CN_ROCK_039,AI,Chinese,Rock,,,G0267,singleton
+AI_CN_ROCK_040,AI,Chinese,Rock,,,G0268,singleton
+AI_CN_ROCK_041,AI,Chinese,Rock,,,G0269,singleton
+AI_CN_ROCK_042,AI,Chinese,Rock,,,G0270,singleton
+AI_CN_ROCK_043,AI,Chinese,Rock,,,G0271,singleton
+AI_CN_ROCK_044,AI,Chinese,Rock,,,G0272,singleton
+AI_CN_ROCK_045,AI,Chinese,Rock,,,G0273,singleton
+AI_CN_ROCK_046,AI,Chinese,Rock,,,G0274,singleton
+AI_CN_ROCK_047,AI,Chinese,Rock,,,G0275,singleton
+AI_CN_ROCK_048,AI,Chinese,Rock,,,G0276,singleton
+AI_CN_ROCK_049,AI,Chinese,Rock,,,G0277,singleton
+AI_CN_ROCK_050,AI,Chinese,Rock,,,G0278,singleton
+AI_CN_ROCK_051,AI,Chinese,Rock,,,G0279,singleton
+AI_CN_ROCK_052,AI,Chinese,Rock,,,G0280,singleton
+AI_CN_ROCK_053,AI,Chinese,Rock,,,G0281,singleton
+AI_CN_ROCK_054,AI,Chinese,Rock,,,G0282,singleton
+AI_CN_ROCK_055,AI,Chinese,Rock,,,G0283,singleton
+AI_CN_ROCK_056,AI,Chinese,Rock,,,G0284,singleton
+AI_CN_ROCK_057,AI,Chinese,Rock,,,G0285,singleton
+AI_CN_ROCK_058,AI,Chinese,Rock,,,G0286,singleton
+AI_CN_ROCK_059,AI,Chinese,Rock,,,G0287,singleton
+AI_CN_ROCK_060,AI,Chinese,Rock,,,G0288,singleton
+AI_HIN_FOLK_ACOUSTIC_001,AI,Hindi,Folk/Acoustic,,,G0547,singleton
+AI_HIN_FOLK_ACOUSTIC_002,AI,Hindi,Folk/Acoustic,,,G0548,singleton
+AI_HIN_FOLK_ACOUSTIC_003,AI,Hindi,Folk/Acoustic,,,G0549,singleton
+AI_HIN_FOLK_ACOUSTIC_004,AI,Hindi,Folk/Acoustic,,,G0550,singleton
+AI_HIN_FOLK_ACOUSTIC_005,AI,Hindi,Folk/Acoustic,,,G0551,near_duplicate_embedding;near_duplicate_lyrics
+AI_HIN_FOLK_ACOUSTIC_006,AI,Hindi,Folk/Acoustic,,,G0552,singleton
+AI_HIN_FOLK_ACOUSTIC_007,AI,Hindi,Folk/Acoustic,,,G0902,near_duplicate_embedding;near_duplicate_lyrics
+AI_HIN_FOLK_ACOUSTIC_008,AI,Hindi,Folk/Acoustic,,,G0902,near_duplicate_embedding;near_duplicate_lyrics
+AI_HIN_FOLK_ACOUSTIC_009,AI,Hindi,Folk/Acoustic,,,G0902,near_duplicate_embedding;near_duplicate_lyrics
+AI_HIN_FOLK_ACOUSTIC_010,AI,Hindi,Folk/Acoustic,,,G0966,near_duplicate_embedding;near_duplicate_lyrics
+AI_HIN_FOLK_ACOUSTIC_011,AI,Hindi,Folk/Acoustic,,,G0553,singleton
+AI_HIN_FOLK_ACOUSTIC_012,AI,Hindi,Folk/Acoustic,,,G0554,singleton
+AI_HIN_FOLK_ACOUSTIC_013,AI,Hindi,Folk/Acoustic,,,G0555,singleton
+AI_HIN_FOLK_ACOUSTIC_014,AI,Hindi,Folk/Acoustic,,,G0902,near_duplicate_embedding;near_duplicate_lyrics
+AI_HIN_FOLK_ACOUSTIC_015,AI,Hindi,Folk/Acoustic,,,G0902,near_duplicate_embedding;near_duplicate_lyrics
+AI_HIN_FOLK_ACOUSTIC_016,AI,Hindi,Folk/Acoustic,,,G0556,singleton
+AI_HIN_FOLK_ACOUSTIC_017,AI,Hindi,Folk/Acoustic,,,G0902,near_duplicate_embedding;near_duplicate_lyrics
+AI_HIN_FOLK_ACOUSTIC_018,AI,Hindi,Folk/Acoustic,,,G0902,near_duplicate_embedding;near_duplicate_lyrics
+AI_HIN_FOLK_ACOUSTIC_019,AI,Hindi,Folk/Acoustic,,,G0557,singleton
+AI_HIN_FOLK_ACOUSTIC_020,AI,Hindi,Folk/Acoustic,,,G0558,singleton
+AI_HIN_FOLK_ACOUSTIC_021,AI,Hindi,Folk/Acoustic,,,G0559,singleton
+AI_HIN_FOLK_ACOUSTIC_022,AI,Hindi,Folk/Acoustic,,,G0560,singleton
+AI_HIN_FOLK_ACOUSTIC_023,AI,Hindi,Folk/Acoustic,,,G0851,near_duplicate_embedding;near_duplicate_lyrics
+AI_HIN_FOLK_ACOUSTIC_024,AI,Hindi,Folk/Acoustic,,,G0902,near_duplicate_embedding;near_duplicate_lyrics
+AI_HIN_FOLK_ACOUSTIC_025,AI,Hindi,Folk/Acoustic,,,G0561,singleton
+AI_HIN_FOLK_ACOUSTIC_026,AI,Hindi,Folk/Acoustic,,,G0970,near_duplicate_embedding;near_duplicate_lyrics
+AI_HIN_FOLK_ACOUSTIC_027,AI,Hindi,Folk/Acoustic,,,G0851,near_duplicate_embedding;near_duplicate_lyrics
+AI_HIN_FOLK_ACOUSTIC_028,AI,Hindi,Folk/Acoustic,,,G0562,singleton
+AI_HIN_FOLK_ACOUSTIC_029,AI,Hindi,Folk/Acoustic,,,G0851,near_duplicate_embedding;near_duplicate_lyrics
+AI_HIN_FOLK_ACOUSTIC_030,AI,Hindi,Folk/Acoustic,,,G0563,singleton
+AI_HIN_FOLK_ACOUSTIC_031,AI,Hindi,Folk/Acoustic,,,G0927,near_duplicate_embedding;near_duplicate_lyrics
+AI_HIN_FOLK_ACOUSTIC_032,AI,Hindi,Folk/Acoustic,,,G0564,singleton
+AI_HIN_FOLK_ACOUSTIC_033,AI,Hindi,Folk/Acoustic,,,G0970,near_duplicate_embedding;near_duplicate_lyrics
+AI_HIN_FOLK_ACOUSTIC_034,AI,Hindi,Folk/Acoustic,,,G0902,near_duplicate_embedding;near_duplicate_lyrics
+AI_HIN_FOLK_ACOUSTIC_035,AI,Hindi,Folk/Acoustic,,,G0565,singleton
+AI_HIN_FOLK_ACOUSTIC_036,AI,Hindi,Folk/Acoustic,,,G0851,near_duplicate_embedding;near_duplicate_lyrics
+AI_HIN_FOLK_ACOUSTIC_037,AI,Hindi,Folk/Acoustic,,,G0566,singleton
+AI_HIN_FOLK_ACOUSTIC_038,AI,Hindi,Folk/Acoustic,,,G0902,near_duplicate_embedding;near_duplicate_lyrics
+AI_HIN_FOLK_ACOUSTIC_039,AI,Hindi,Folk/Acoustic,,,G0567,singleton
+AI_HIN_FOLK_ACOUSTIC_040,AI,Hindi,Folk/Acoustic,,,G0902,near_duplicate_embedding;near_duplicate_lyrics
+AI_HIN_FOLK_ACOUSTIC_041,AI,Hindi,Folk/Acoustic,,,G0568,singleton
+AI_HIN_FOLK_ACOUSTIC_042,AI,Hindi,Folk/Acoustic,,,G0851,near_duplicate_embedding;near_duplicate_lyrics
+AI_HIN_FOLK_ACOUSTIC_043,AI,Hindi,Folk/Acoustic,,,G0569,singleton
+AI_HIN_FOLK_ACOUSTIC_044,AI,Hindi,Folk/Acoustic,,,G0851,near_duplicate_lyrics
+AI_HIN_FOLK_ACOUSTIC_045,AI,Hindi,Folk/Acoustic,,,G0966,near_duplicate_embedding;near_duplicate_lyrics
+AI_HIN_FOLK_ACOUSTIC_046,AI,Hindi,Folk/Acoustic,,,G0927,near_duplicate_embedding;near_duplicate_lyrics
+AI_HIN_FOLK_ACOUSTIC_047,AI,Hindi,Folk/Acoustic,,,G0902,near_duplicate_embedding;near_duplicate_lyrics
+AI_HIN_FOLK_ACOUSTIC_048,AI,Hindi,Folk/Acoustic,,,G0570,singleton
+AI_HIN_FOLK_ACOUSTIC_049,AI,Hindi,Folk/Acoustic,,,G0902,near_duplicate_embedding;near_duplicate_lyrics
+AI_HIN_FOLK_ACOUSTIC_050,AI,Hindi,Folk/Acoustic,,,G0571,singleton
+AI_HIN_FOLK_ACOUSTIC_051,AI,Hindi,Folk/Acoustic,,,G0902,near_duplicate_embedding;near_duplicate_lyrics
+AI_HIN_FOLK_ACOUSTIC_052,AI,Hindi,Folk/Acoustic,,,G0902,near_duplicate_embedding;near_duplicate_lyrics
+AI_HIN_FOLK_ACOUSTIC_053,AI,Hindi,Folk/Acoustic,,,G0551,near_duplicate_embedding;near_duplicate_lyrics
+AI_HIN_FOLK_ACOUSTIC_054,AI,Hindi,Folk/Acoustic,,,G0902,near_duplicate_embedding;near_duplicate_lyrics
+AI_HIN_FOLK_ACOUSTIC_055,AI,Hindi,Folk/Acoustic,,,G0572,singleton
+AI_HIN_FOLK_ACOUSTIC_056,AI,Hindi,Folk/Acoustic,,,G0902,near_duplicate_embedding;near_duplicate_lyrics
+AI_HIN_FOLK_ACOUSTIC_057,AI,Hindi,Folk/Acoustic,,,G0573,singleton
+AI_HIN_FOLK_ACOUSTIC_058,AI,Hindi,Folk/Acoustic,,,G0574,singleton
+AI_HIN_FOLK_ACOUSTIC_059,AI,Hindi,Folk/Acoustic,,,G0970,near_duplicate_embedding;near_duplicate_lyrics
+AI_HIN_FOLK_ACOUSTIC_060,AI,Hindi,Folk/Acoustic,,,G0902,near_duplicate_embedding;near_duplicate_lyrics
+AI_HIN_HIP_HOP_RAP_001,AI,Hindi,Hip-Hop/Rap,,,G0575,singleton
+AI_HIN_HIP_HOP_RAP_002,AI,Hindi,Hip-Hop/Rap,,,G0576,singleton
+AI_HIN_HIP_HOP_RAP_003,AI,Hindi,Hip-Hop/Rap,,,G0577,singleton
+AI_HIN_HIP_HOP_RAP_004,AI,Hindi,Hip-Hop/Rap,,,G0578,singleton
+AI_HIN_HIP_HOP_RAP_005,AI,Hindi,Hip-Hop/Rap,,,G0579,singleton
+AI_HIN_HIP_HOP_RAP_006,AI,Hindi,Hip-Hop/Rap,,,G0580,singleton
+AI_HIN_HIP_HOP_RAP_007,AI,Hindi,Hip-Hop/Rap,,,G0581,singleton
+AI_HIN_HIP_HOP_RAP_008,AI,Hindi,Hip-Hop/Rap,,,G0902,near_duplicate_embedding;near_duplicate_lyrics
+AI_HIN_HIP_HOP_RAP_009,AI,Hindi,Hip-Hop/Rap,,,G0582,singleton
+AI_HIN_HIP_HOP_RAP_010,AI,Hindi,Hip-Hop/Rap,,,G0583,singleton
+AI_HIN_HIP_HOP_RAP_011,AI,Hindi,Hip-Hop/Rap,,,G0584,singleton
+AI_HIN_HIP_HOP_RAP_012,AI,Hindi,Hip-Hop/Rap,,,G0585,singleton
+AI_HIN_HIP_HOP_RAP_013,AI,Hindi,Hip-Hop/Rap,,,G0586,singleton
+AI_HIN_HIP_HOP_RAP_014,AI,Hindi,Hip-Hop/Rap,,,G0587,singleton
+AI_HIN_HIP_HOP_RAP_015,AI,Hindi,Hip-Hop/Rap,,,G0588,singleton
+AI_HIN_HIP_HOP_RAP_016,AI,Hindi,Hip-Hop/Rap,,,G0589,singleton
+AI_HIN_HIP_HOP_RAP_017,AI,Hindi,Hip-Hop/Rap,,,G0590,singleton
+AI_HIN_HIP_HOP_RAP_018,AI,Hindi,Hip-Hop/Rap,,,G0591,singleton
+AI_HIN_HIP_HOP_RAP_019,AI,Hindi,Hip-Hop/Rap,,,G0592,singleton
+AI_HIN_HIP_HOP_RAP_020,AI,Hindi,Hip-Hop/Rap,,,G0593,singleton
+AI_HIN_HIP_HOP_RAP_021,AI,Hindi,Hip-Hop/Rap,,,G0594,singleton
+AI_HIN_HIP_HOP_RAP_022,AI,Hindi,Hip-Hop/Rap,,,G0595,singleton
+AI_HIN_HIP_HOP_RAP_023,AI,Hindi,Hip-Hop/Rap,,,G0596,singleton
+AI_HIN_HIP_HOP_RAP_024,AI,Hindi,Hip-Hop/Rap,,,G0597,singleton
+AI_HIN_HIP_HOP_RAP_025,AI,Hindi,Hip-Hop/Rap,,,G0598,singleton
+AI_HIN_HIP_HOP_RAP_026,AI,Hindi,Hip-Hop/Rap,,,G0599,singleton
+AI_HIN_HIP_HOP_RAP_027,AI,Hindi,Hip-Hop/Rap,,,G0600,singleton
+AI_HIN_HIP_HOP_RAP_028,AI,Hindi,Hip-Hop/Rap,,,G0601,singleton
+AI_HIN_HIP_HOP_RAP_029,AI,Hindi,Hip-Hop/Rap,,,G0602,singleton
+AI_HIN_HIP_HOP_RAP_030,AI,Hindi,Hip-Hop/Rap,,,G0603,singleton
+AI_HIN_HIP_HOP_RAP_031,AI,Hindi,Hip-Hop/Rap,,,G0604,singleton
+AI_HIN_HIP_HOP_RAP_032,AI,Hindi,Hip-Hop/Rap,,,G0605,singleton
+AI_HIN_HIP_HOP_RAP_033,AI,Hindi,Hip-Hop/Rap,,,G0606,singleton
+AI_HIN_HIP_HOP_RAP_034,AI,Hindi,Hip-Hop/Rap,,,G0607,singleton
+AI_HIN_HIP_HOP_RAP_035,AI,Hindi,Hip-Hop/Rap,,,G0608,singleton
+AI_HIN_HIP_HOP_RAP_036,AI,Hindi,Hip-Hop/Rap,,,G0609,singleton
+AI_HIN_HIP_HOP_RAP_037,AI,Hindi,Hip-Hop/Rap,,,G0610,singleton
+AI_HIN_HIP_HOP_RAP_038,AI,Hindi,Hip-Hop/Rap,,,G0611,singleton
+AI_HIN_HIP_HOP_RAP_039,AI,Hindi,Hip-Hop/Rap,,,G0612,singleton
+AI_HIN_HIP_HOP_RAP_040,AI,Hindi,Hip-Hop/Rap,,,G0613,singleton
+AI_HIN_HIP_HOP_RAP_041,AI,Hindi,Hip-Hop/Rap,,,G0614,singleton
+AI_HIN_HIP_HOP_RAP_042,AI,Hindi,Hip-Hop/Rap,,,G0615,singleton
+AI_HIN_HIP_HOP_RAP_043,AI,Hindi,Hip-Hop/Rap,,,G0616,singleton
+AI_HIN_HIP_HOP_RAP_044,AI,Hindi,Hip-Hop/Rap,,,G0617,singleton
+AI_HIN_HIP_HOP_RAP_045,AI,Hindi,Hip-Hop/Rap,,,G0618,singleton
+AI_HIN_HIP_HOP_RAP_046,AI,Hindi,Hip-Hop/Rap,,,G0619,singleton
+AI_HIN_HIP_HOP_RAP_047,AI,Hindi,Hip-Hop/Rap,,,G0620,singleton
+AI_HIN_HIP_HOP_RAP_048,AI,Hindi,Hip-Hop/Rap,,,G0621,singleton
+AI_HIN_HIP_HOP_RAP_049,AI,Hindi,Hip-Hop/Rap,,,G0622,singleton
+AI_HIN_HIP_HOP_RAP_050,AI,Hindi,Hip-Hop/Rap,,,G0623,singleton
+AI_HIN_HIP_HOP_RAP_051,AI,Hindi,Hip-Hop/Rap,,,G0624,singleton
+AI_HIN_HIP_HOP_RAP_052,AI,Hindi,Hip-Hop/Rap,,,G0902,near_duplicate_embedding;near_duplicate_lyrics
+AI_HIN_HIP_HOP_RAP_053,AI,Hindi,Hip-Hop/Rap,,,G0625,singleton
+AI_HIN_HIP_HOP_RAP_054,AI,Hindi,Hip-Hop/Rap,,,G0626,singleton
+AI_HIN_HIP_HOP_RAP_055,AI,Hindi,Hip-Hop/Rap,,,G0627,singleton
+AI_HIN_HIP_HOP_RAP_056,AI,Hindi,Hip-Hop/Rap,,,G0628,singleton
+AI_HIN_HIP_HOP_RAP_057,AI,Hindi,Hip-Hop/Rap,,,G0629,singleton
+AI_HIN_HIP_HOP_RAP_058,AI,Hindi,Hip-Hop/Rap,,,G0630,singleton
+AI_HIN_HIP_HOP_RAP_059,AI,Hindi,Hip-Hop/Rap,,,G0631,singleton
+AI_HIN_HIP_HOP_RAP_060,AI,Hindi,Hip-Hop/Rap,,,G0632,singleton
+AI_HIN_POP_001,AI,Hindi,Pop,,,G0633,singleton
+AI_HIN_POP_002,AI,Hindi,Pop,,,G0634,singleton
+AI_HIN_POP_003,AI,Hindi,Pop,,,G0635,singleton
+AI_HIN_POP_004,AI,Hindi,Pop,,,G0636,singleton
+AI_HIN_POP_005,AI,Hindi,Pop,,,G0637,singleton
+AI_HIN_POP_006,AI,Hindi,Pop,,,G0638,singleton
+AI_HIN_POP_007,AI,Hindi,Pop,,,G0639,singleton
+AI_HIN_POP_008,AI,Hindi,Pop,,,G0640,singleton
+AI_HIN_POP_009,AI,Hindi,Pop,,,G0641,singleton
+AI_HIN_POP_010,AI,Hindi,Pop,,,G0642,singleton
+AI_HIN_POP_011,AI,Hindi,Pop,,,G0643,singleton
+AI_HIN_POP_012,AI,Hindi,Pop,,,G0644,singleton
+AI_HIN_POP_013,AI,Hindi,Pop,,,G0645,singleton
+AI_HIN_POP_014,AI,Hindi,Pop,,,G0646,singleton
+AI_HIN_POP_015,AI,Hindi,Pop,,,G0647,singleton
+AI_HIN_POP_016,AI,Hindi,Pop,,,G0648,singleton
+AI_HIN_POP_017,AI,Hindi,Pop,,,G0649,singleton
+AI_HIN_POP_018,AI,Hindi,Pop,,,G0650,singleton
+AI_HIN_POP_019,AI,Hindi,Pop,,,G0651,singleton
+AI_HIN_POP_020,AI,Hindi,Pop,,,G0652,singleton
+AI_HIN_POP_021,AI,Hindi,Pop,,,G0653,singleton
+AI_HIN_POP_022,AI,Hindi,Pop,,,G0654,singleton
+AI_HIN_POP_023,AI,Hindi,Pop,,,G0655,singleton
+AI_HIN_POP_024,AI,Hindi,Pop,,,G0656,singleton
+AI_HIN_POP_025,AI,Hindi,Pop,,,G0657,singleton
+AI_HIN_POP_026,AI,Hindi,Pop,,,G0658,singleton
+AI_HIN_POP_027,AI,Hindi,Pop,,,G0659,singleton
+AI_HIN_POP_028,AI,Hindi,Pop,,,G0660,singleton
+AI_HIN_POP_029,AI,Hindi,Pop,,,G0661,singleton
+AI_HIN_POP_030,AI,Hindi,Pop,,,G0662,singleton
+AI_HIN_POP_031,AI,Hindi,Pop,,,G0663,singleton
+AI_HIN_POP_032,AI,Hindi,Pop,,,G0664,singleton
+AI_HIN_POP_033,AI,Hindi,Pop,,,G0665,singleton
+AI_HIN_POP_034,AI,Hindi,Pop,,,G0666,singleton
+AI_HIN_POP_035,AI,Hindi,Pop,,,G0667,singleton
+AI_HIN_POP_036,AI,Hindi,Pop,,,G0668,singleton
+AI_HIN_POP_037,AI,Hindi,Pop,,,G0669,singleton
+AI_HIN_POP_038,AI,Hindi,Pop,,,G0670,singleton
+AI_HIN_POP_039,AI,Hindi,Pop,,,G0671,singleton
+AI_HIN_POP_040,AI,Hindi,Pop,,,G0672,singleton
+AI_HIN_POP_041,AI,Hindi,Pop,,,G0673,singleton
+AI_HIN_POP_042,AI,Hindi,Pop,,,G0674,singleton
+AI_HIN_POP_043,AI,Hindi,Pop,,,G0675,singleton
+AI_HIN_POP_044,AI,Hindi,Pop,,,G0676,singleton
+AI_HIN_POP_045,AI,Hindi,Pop,,,G0677,singleton
+AI_HIN_POP_046,AI,Hindi,Pop,,,G0678,singleton
+AI_HIN_POP_047,AI,Hindi,Pop,,,G0679,singleton
+AI_HIN_POP_048,AI,Hindi,Pop,,,G0680,singleton
+AI_HIN_POP_049,AI,Hindi,Pop,,,G0681,singleton
+AI_HIN_POP_050,AI,Hindi,Pop,,,G0682,singleton
+AI_HIN_POP_051,AI,Hindi,Pop,,,G0683,singleton
+AI_HIN_POP_052,AI,Hindi,Pop,,,G0684,singleton
+AI_HIN_POP_053,AI,Hindi,Pop,,,G0685,singleton
+AI_HIN_POP_054,AI,Hindi,Pop,,,G0686,singleton
+AI_HIN_POP_055,AI,Hindi,Pop,,,G0687,singleton
+AI_HIN_POP_056,AI,Hindi,Pop,,,G0688,singleton
+AI_HIN_POP_057,AI,Hindi,Pop,,,G0689,singleton
+AI_HIN_POP_058,AI,Hindi,Pop,,,G0690,singleton
+AI_HIN_POP_059,AI,Hindi,Pop,,,G0691,singleton
+AI_HIN_POP_060,AI,Hindi,Pop,,,G0692,singleton
+AI_HIN_R_B_SOUL_001,AI,Hindi,R&B/Soul,,,G0751,singleton
+AI_HIN_R_B_SOUL_002,AI,Hindi,R&B/Soul,,,G0752,singleton
+AI_HIN_R_B_SOUL_003,AI,Hindi,R&B/Soul,,,G0753,singleton
+AI_HIN_R_B_SOUL_004,AI,Hindi,R&B/Soul,,,G0754,singleton
+AI_HIN_R_B_SOUL_005,AI,Hindi,R&B/Soul,,,G0755,singleton
+AI_HIN_R_B_SOUL_006,AI,Hindi,R&B/Soul,,,G0756,singleton
+AI_HIN_R_B_SOUL_007,AI,Hindi,R&B/Soul,,,G0757,singleton
+AI_HIN_R_B_SOUL_008,AI,Hindi,R&B/Soul,,,G0758,singleton
+AI_HIN_R_B_SOUL_009,AI,Hindi,R&B/Soul,,,G0759,singleton
+AI_HIN_R_B_SOUL_010,AI,Hindi,R&B/Soul,,,G0760,singleton
+AI_HIN_R_B_SOUL_011,AI,Hindi,R&B/Soul,,,G0761,singleton
+AI_HIN_R_B_SOUL_012,AI,Hindi,R&B/Soul,,,G0762,singleton
+AI_HIN_R_B_SOUL_013,AI,Hindi,R&B/Soul,,,G0763,singleton
+AI_HIN_R_B_SOUL_014,AI,Hindi,R&B/Soul,,,G0764,singleton
+AI_HIN_R_B_SOUL_015,AI,Hindi,R&B/Soul,,,G0765,singleton
+AI_HIN_R_B_SOUL_016,AI,Hindi,R&B/Soul,,,G0766,singleton
+AI_HIN_R_B_SOUL_017,AI,Hindi,R&B/Soul,,,G0767,singleton
+AI_HIN_R_B_SOUL_018,AI,Hindi,R&B/Soul,,,G0768,singleton
+AI_HIN_R_B_SOUL_019,AI,Hindi,R&B/Soul,,,G0769,singleton
+AI_HIN_R_B_SOUL_020,AI,Hindi,R&B/Soul,,,G0770,singleton
+AI_HIN_R_B_SOUL_021,AI,Hindi,R&B/Soul,,,G0771,singleton
+AI_HIN_R_B_SOUL_022,AI,Hindi,R&B/Soul,,,G0772,singleton
+AI_HIN_R_B_SOUL_023,AI,Hindi,R&B/Soul,,,G0773,singleton
+AI_HIN_R_B_SOUL_024,AI,Hindi,R&B/Soul,,,G0774,singleton
+AI_HIN_R_B_SOUL_025,AI,Hindi,R&B/Soul,,,G0775,singleton
+AI_HIN_R_B_SOUL_026,AI,Hindi,R&B/Soul,,,G0776,singleton
+AI_HIN_R_B_SOUL_027,AI,Hindi,R&B/Soul,,,G0777,singleton
+AI_HIN_R_B_SOUL_028,AI,Hindi,R&B/Soul,,,G0778,singleton
+AI_HIN_R_B_SOUL_029,AI,Hindi,R&B/Soul,,,G0779,singleton
+AI_HIN_R_B_SOUL_030,AI,Hindi,R&B/Soul,,,G0780,singleton
+AI_HIN_R_B_SOUL_031,AI,Hindi,R&B/Soul,,,G0781,singleton
+AI_HIN_R_B_SOUL_032,AI,Hindi,R&B/Soul,,,G0782,singleton
+AI_HIN_R_B_SOUL_033,AI,Hindi,R&B/Soul,,,G0783,singleton
+AI_HIN_R_B_SOUL_034,AI,Hindi,R&B/Soul,,,G0784,singleton
+AI_HIN_R_B_SOUL_035,AI,Hindi,R&B/Soul,,,G0785,singleton
+AI_HIN_R_B_SOUL_036,AI,Hindi,R&B/Soul,,,G0786,singleton
+AI_HIN_R_B_SOUL_037,AI,Hindi,R&B/Soul,,,G0787,singleton
+AI_HIN_R_B_SOUL_038,AI,Hindi,R&B/Soul,,,G0788,singleton
+AI_HIN_R_B_SOUL_039,AI,Hindi,R&B/Soul,,,G0789,singleton
+AI_HIN_R_B_SOUL_040,AI,Hindi,R&B/Soul,,,G0790,singleton
+AI_HIN_R_B_SOUL_041,AI,Hindi,R&B/Soul,,,G0791,singleton
+AI_HIN_R_B_SOUL_042,AI,Hindi,R&B/Soul,,,G0792,singleton
+AI_HIN_R_B_SOUL_043,AI,Hindi,R&B/Soul,,,G0793,singleton
+AI_HIN_R_B_SOUL_044,AI,Hindi,R&B/Soul,,,G0794,singleton
+AI_HIN_R_B_SOUL_045,AI,Hindi,R&B/Soul,,,G0795,singleton
+AI_HIN_R_B_SOUL_046,AI,Hindi,R&B/Soul,,,G0796,singleton
+AI_HIN_R_B_SOUL_047,AI,Hindi,R&B/Soul,,,G0797,singleton
+AI_HIN_R_B_SOUL_048,AI,Hindi,R&B/Soul,,,G0798,singleton
+AI_HIN_R_B_SOUL_049,AI,Hindi,R&B/Soul,,,G0799,singleton
+AI_HIN_R_B_SOUL_050,AI,Hindi,R&B/Soul,,,G0800,singleton
+AI_HIN_R_B_SOUL_051,AI,Hindi,R&B/Soul,,,G0801,singleton
+AI_HIN_R_B_SOUL_052,AI,Hindi,R&B/Soul,,,G0802,singleton
+AI_HIN_R_B_SOUL_053,AI,Hindi,R&B/Soul,,,G0803,singleton
+AI_HIN_R_B_SOUL_054,AI,Hindi,R&B/Soul,,,G0804,singleton
+AI_HIN_R_B_SOUL_055,AI,Hindi,R&B/Soul,,,G0805,singleton
+AI_HIN_R_B_SOUL_056,AI,Hindi,R&B/Soul,,,G0806,singleton
+AI_HIN_R_B_SOUL_057,AI,Hindi,R&B/Soul,,,G0807,singleton
+AI_HIN_R_B_SOUL_058,AI,Hindi,R&B/Soul,,,G0808,singleton
+AI_HIN_R_B_SOUL_059,AI,Hindi,R&B/Soul,,,G0809,singleton
+AI_HIN_R_B_SOUL_060,AI,Hindi,R&B/Soul,,,G0810,singleton
+AI_HIN_ROCK_001,AI,Hindi,Rock,,,G0693,singleton
+AI_HIN_ROCK_002,AI,Hindi,Rock,,,G0694,singleton
+AI_HIN_ROCK_003,AI,Hindi,Rock,,,G0695,singleton
+AI_HIN_ROCK_004,AI,Hindi,Rock,,,G0696,singleton
+AI_HIN_ROCK_005,AI,Hindi,Rock,,,G0697,singleton
+AI_HIN_ROCK_006,AI,Hindi,Rock,,,G0698,singleton
+AI_HIN_ROCK_007,AI,Hindi,Rock,,,G0699,singleton
+AI_HIN_ROCK_008,AI,Hindi,Rock,,,G0700,singleton
+AI_HIN_ROCK_009,AI,Hindi,Rock,,,G0701,singleton
+AI_HIN_ROCK_010,AI,Hindi,Rock,,,G0702,singleton
+AI_HIN_ROCK_011,AI,Hindi,Rock,,,G0703,singleton
+AI_HIN_ROCK_012,AI,Hindi,Rock,,,G0704,singleton
+AI_HIN_ROCK_013,AI,Hindi,Rock,,,G0705,singleton
+AI_HIN_ROCK_014,AI,Hindi,Rock,,,G0706,singleton
+AI_HIN_ROCK_015,AI,Hindi,Rock,,,G0707,singleton
+AI_HIN_ROCK_016,AI,Hindi,Rock,,,G0708,singleton
+AI_HIN_ROCK_017,AI,Hindi,Rock,,,G0709,singleton
+AI_HIN_ROCK_018,AI,Hindi,Rock,,,G0710,singleton
+AI_HIN_ROCK_019,AI,Hindi,Rock,,,G0711,singleton
+AI_HIN_ROCK_020,AI,Hindi,Rock,,,G0902,near_duplicate_embedding;near_duplicate_lyrics
+AI_HIN_ROCK_021,AI,Hindi,Rock,,,G0712,singleton
+AI_HIN_ROCK_022,AI,Hindi,Rock,,,G0713,singleton
+AI_HIN_ROCK_023,AI,Hindi,Rock,,,G0714,singleton
+AI_HIN_ROCK_024,AI,Hindi,Rock,,,G0715,singleton
+AI_HIN_ROCK_025,AI,Hindi,Rock,,,G0716,singleton
+AI_HIN_ROCK_026,AI,Hindi,Rock,,,G0717,singleton
+AI_HIN_ROCK_027,AI,Hindi,Rock,,,G0902,near_duplicate_embedding;near_duplicate_lyrics
+AI_HIN_ROCK_028,AI,Hindi,Rock,,,G0718,singleton
+AI_HIN_ROCK_029,AI,Hindi,Rock,,,G0719,singleton
+AI_HIN_ROCK_030,AI,Hindi,Rock,,,G0720,singleton
+AI_HIN_ROCK_031,AI,Hindi,Rock,,,G0721,singleton
+AI_HIN_ROCK_032,AI,Hindi,Rock,,,G0722,singleton
+AI_HIN_ROCK_033,AI,Hindi,Rock,,,G0723,singleton
+AI_HIN_ROCK_034,AI,Hindi,Rock,,,G0724,singleton
+AI_HIN_ROCK_035,AI,Hindi,Rock,,,G0725,singleton
+AI_HIN_ROCK_036,AI,Hindi,Rock,,,G0726,singleton
+AI_HIN_ROCK_037,AI,Hindi,Rock,,,G0727,singleton
+AI_HIN_ROCK_038,AI,Hindi,Rock,,,G0728,singleton
+AI_HIN_ROCK_039,AI,Hindi,Rock,,,G0729,singleton
+AI_HIN_ROCK_040,AI,Hindi,Rock,,,G0730,singleton
+AI_HIN_ROCK_041,AI,Hindi,Rock,,,G0731,singleton
+AI_HIN_ROCK_042,AI,Hindi,Rock,,,G0732,singleton
+AI_HIN_ROCK_043,AI,Hindi,Rock,,,G0733,singleton
+AI_HIN_ROCK_044,AI,Hindi,Rock,,,G0734,singleton
+AI_HIN_ROCK_045,AI,Hindi,Rock,,,G0735,singleton
+AI_HIN_ROCK_046,AI,Hindi,Rock,,,G0736,singleton
+AI_HIN_ROCK_047,AI,Hindi,Rock,,,G0737,singleton
+AI_HIN_ROCK_048,AI,Hindi,Rock,,,G0738,singleton
+AI_HIN_ROCK_049,AI,Hindi,Rock,,,G0739,singleton
+AI_HIN_ROCK_050,AI,Hindi,Rock,,,G0740,singleton
+AI_HIN_ROCK_051,AI,Hindi,Rock,,,G0741,singleton
+AI_HIN_ROCK_052,AI,Hindi,Rock,,,G0742,singleton
+AI_HIN_ROCK_053,AI,Hindi,Rock,,,G0743,singleton
+AI_HIN_ROCK_054,AI,Hindi,Rock,,,G0744,singleton
+AI_HIN_ROCK_055,AI,Hindi,Rock,,,G0745,singleton
+AI_HIN_ROCK_056,AI,Hindi,Rock,,,G0746,singleton
+AI_HIN_ROCK_057,AI,Hindi,Rock,,,G0747,singleton
+AI_HIN_ROCK_058,AI,Hindi,Rock,,,G0748,singleton
+AI_HIN_ROCK_059,AI,Hindi,Rock,,,G0749,singleton
+AI_HIN_ROCK_060,AI,Hindi,Rock,,,G0750,singleton

@@ -1,0 +1,22 @@
+# Data that must NOT be published (copyrighted audio / lyrics)
+*.mp3
+*.wav
+*.flac
+*.opus
+*.m4a
+dataset_collection_clean/
+dataset_harmonised/
+outputs/
+# keep only the curated release data
+!data/release/
+!data/release/**
+# Secrets
+.env
+*.key
+token*.txt
+# Python / Jupyter
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.venv/
+venv/

@@ -1,0 +1,6 @@
+﻿model,mean_f1,sd_f1,min_f1,max_f1,mean_label_agreement_with_truth,status
+Logistic Regression,0.4557,0.0479,0.3542,0.5479,0.5161,OK
+SVM (RBF),0.5199,0.1302,0.2993,0.7043,0.5161,OK
+Random Forest,0.5033,0.0961,0.3316,0.6405,0.5161,OK
+XGBoost,0.5186,0.0725,0.3557,0.6276,0.5161,OK
+MLP,0.5049,0.052,0.3557,0.5425,0.5161,OK

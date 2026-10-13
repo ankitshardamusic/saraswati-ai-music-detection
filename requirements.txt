@@ -1,0 +1,38 @@
+# Core
+numpy
+pandas
+scipy
+scikit-learn
+xgboost
+shap
+statsmodels
+joblib
+matplotlib
+seaborn
+tqdm
+requests
+# Audio
+librosa
+soundfile
+pyloudnorm
+mutagen
+# Lyrics / NLP
+openai-whisper
+demucs
+sentence-transformers
+jieba
+wordcloud
+rapidfuzz
+# Data collection
+yt-dlp
+huggingface_hub
+kagglehub
+# MuQ-Eval (quality scores)
+torch
+transformers
+peft
+omegaconf
+muq
+# Notebook
+jupyter
+nbformat

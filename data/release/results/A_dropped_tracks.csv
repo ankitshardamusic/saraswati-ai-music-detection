@@ -1,0 +1,10 @@
+﻿song_id,source,language,final_genre,title,drop_reason
+HUMAN_EN_FOLK_ACOUSTIC_056,Human,English,Folk,Work Song,no lyric embedding
+ZH_HUMAN_POP_048,Human,Chinese,Pop,Airplane Mode (feat. Leo王),no lyric embedding
+ZH_HUMAN_POP_015,Human,Chinese,Pop,"you call it love, i call it lie",no lyric embedding
+ZH_HUMAN_POP_016,Human,Chinese,Pop,她說 She Says - demo,no lyric embedding
+ZH_HUMAN_POP_008,Human,Chinese,Pop,Jump Jump Jam,no lyric embedding
+AI_CN_HIP_HOP_RAP_043,AI,Chinese,Hip-Hop/Rap,,no lyric embedding
+HUMAN_EN_FOLK_ACOUSTIC_061,Human,English,Folk/Acoustic,Georgia,not in lyrics_features.csv
+HUMAN_EN_FOLK_ACOUSTIC_062,Human,English,Folk/Acoustic,You Belong with Me,not in lyrics_features.csv
+HUMAN_EN_FOLK_ACOUSTIC_063,Human,English,Folk/Acoustic,The Cave,not in lyrics_features.csv

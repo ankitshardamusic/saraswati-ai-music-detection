@@ -1,0 +1,4 @@
+﻿feature_set,model,folds,f1_mean,f1_std,auroc_mean,auroc_std
+audio_only,SVM (RBF),25,0.9846,0.0049,0.9946,0.0044
+fused,XGBoost,25,0.9819,0.0077,0.9973,0.0021
+lyrics_combined,SVM (RBF),25,0.9438,0.0117,0.9801,0.0082

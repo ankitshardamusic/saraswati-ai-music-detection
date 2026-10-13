@@ -1,0 +1,7 @@
+﻿language,source,share_leaked,n_leaked,n_test,n_near_duplicate_embedding,n_near_duplicate_lyrics,n_same_artist
+Chinese,AI,1.7,1,60,0,1,0
+Chinese,Human,13.3,8,60,2,4,4
+English,AI,26.7,16,60,7,16,0
+English,Human,25.4,15,59,1,2,14
+Hindi,AI,10.0,6,60,6,6,0
+Hindi,Human,50.0,30,60,1,1,30

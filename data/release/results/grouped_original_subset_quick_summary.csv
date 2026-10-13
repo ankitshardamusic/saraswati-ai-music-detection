@@ -1,0 +1,5 @@
+﻿feature_set,model,test_f1,f1_ci_low,f1_ci_high,test_auroc,auc_ci_low,auc_ci_high,tied_on_validation,paper_f1_random_split,f1_Chinese,f1_English,f1_Hindi,change_vs_paper
+audio_only,Logistic Regression,0.9722,0.9221,1.0,0.9985,0.9924,1.0,Logistic Regression,0.9637,0.9589,0.9537,1.0,0.0085
+fused,XGBoost,0.9586,0.9038,1.0,0.9764,0.9317,1.0,XGBoost,0.9749,1.0,0.9083,0.9615,-0.0163
+lyrics_combined,Logistic Regression,0.8483,0.7594,0.9346,0.936,0.8705,0.9867,Logistic Regression,0.922,0.8768,0.9537,0.7304,-0.0737
+"FORMAT ONLY (codec, bitrate, ...)",LogReg,1.0,,,1.0,,,,,,,,

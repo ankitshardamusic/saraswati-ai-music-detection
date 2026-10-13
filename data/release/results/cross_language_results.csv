@@ -1,0 +1,10 @@
+﻿feature_set,held_out_language,selected_model,selection_cv_f1,train_n,test_n,macro_f1,accuracy
+audio_only,English,SVM (RBF),0.9841,1195,596,0.8241,0.8289
+audio_only,Hindi,SVM (RBF),0.984,1191,600,0.9349,0.935
+audio_only,Chinese,SVM (RBF),0.9891,1196,595,0.9765,0.9765
+lyrics_only,English,SVM (RBF),0.9314,1195,596,0.8706,0.8725
+lyrics_only,Hindi,SVM (RBF),0.9757,1191,600,0.596,0.645
+lyrics_only,Chinese,SVM (RBF),0.9281,1196,595,0.916,0.916
+fused,English,XGBoost,0.9807,1195,596,0.9513,0.9513
+fused,Hindi,SVM (RBF),0.9933,1191,600,0.6953,0.7183
+fused,Chinese,XGBoost,0.99,1196,595,0.9663,0.9664

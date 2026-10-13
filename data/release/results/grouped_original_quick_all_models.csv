@@ -1,0 +1,31 @@
+﻿feature_set,model,split,n,cv_f1,f1_macro,accuracy,auroc
+audio_only,Logistic Regression,validation,357,0.9767,0.9916,0.9916,0.9944
+audio_only,Logistic Regression,test,362,0.9767,0.9806,0.9807,0.9978
+audio_only,SVM (RBF),validation,357,0.9804,0.9944,0.9944,0.9954
+audio_only,SVM (RBF),test,362,0.9804,0.9862,0.9862,0.9987
+audio_only,Random Forest,validation,357,0.9599,0.972,0.972,0.9955
+audio_only,Random Forest,test,362,0.9599,0.9641,0.9641,0.9966
+audio_only,XGBoost,validation,357,0.958,0.972,0.972,0.9943
+audio_only,XGBoost,test,362,0.958,0.9696,0.9696,0.9965
+audio_only,MLP,validation,357,0.9646,0.986,0.986,0.9918
+audio_only,MLP,test,362,0.9646,0.9807,0.9807,0.995
+lyrics_combined,Logistic Regression,validation,357,0.9179,0.9243,0.9244,0.9639
+lyrics_combined,Logistic Regression,test,362,0.9179,0.8887,0.8895,0.9676
+lyrics_combined,SVM (RBF),validation,357,0.9458,0.9327,0.9328,0.9816
+lyrics_combined,SVM (RBF),test,362,0.9458,0.9446,0.9448,0.9699
+lyrics_combined,Random Forest,validation,357,0.9084,0.9269,0.9272,0.9694
+lyrics_combined,Random Forest,test,362,0.9084,0.9198,0.9199,0.9579
+lyrics_combined,XGBoost,validation,357,0.916,0.9299,0.93,0.9791
+lyrics_combined,XGBoost,test,362,0.916,0.9226,0.9227,0.9745
+lyrics_combined,MLP,validation,357,0.9328,0.9327,0.9328,0.9748
+lyrics_combined,MLP,test,362,0.9328,0.9168,0.9171,0.9772
+fused,Logistic Regression,validation,357,0.9683,0.9748,0.9748,0.9968
+fused,Logistic Regression,test,362,0.9683,0.9862,0.9862,0.9996
+fused,SVM (RBF),validation,357,0.9711,0.986,0.986,0.9983
+fused,SVM (RBF),test,362,0.9711,0.9945,0.9945,0.9998
+fused,Random Forest,validation,357,0.9646,0.9804,0.9804,0.9982
+fused,Random Forest,test,362,0.9646,0.9834,0.9834,0.9986
+fused,XGBoost,validation,357,0.9674,0.9916,0.9916,0.9985
+fused,XGBoost,test,362,0.9674,0.9807,0.9807,0.9991
+fused,MLP,validation,357,0.9496,0.9776,0.9776,0.9965
+fused,MLP,test,362,0.9496,0.9862,0.9862,0.9989
